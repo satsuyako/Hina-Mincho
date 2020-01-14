@@ -1,7 +1,7 @@
 {
 .appVersion = "1271";
 DisplayStrings = (
-"\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmn\012opqrstuvwxyz\0120123456789\012\012www.asterism.com",
+"\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmn\012opqrstuvwxyz\0120123456789\012",
 "/A.full/B.full/C.full/D.full/E.full/F.full/G.full \012/H.full/I.full/J.full/K.full/L.full/M.full/N.full \012/O.full/P.full/Q.full/R.full/S.full/T.full/U.full \012/V.full/W.full/X.full/Y.full/Z.full \012",
 "/uni56F2"
 );
