@@ -42,7 +42,7 @@ HinaMinchoは古風でかわいらしく品のある雛人形をイメージし�
 
 <h2>ライセンス</h2>
 SIL Open Font License Version 1.1<br>
-詳細はライセンス原文（https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1）
+詳細はライセンス原文（https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1）<br>
 またはリポジトリ内のOFL.txtをご確認下さい。<br>
 
 <h2>収録予定文字</h2>
