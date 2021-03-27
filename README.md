@@ -24,7 +24,7 @@ Google Latin Plus(https://github.com/googlefonts/gftools/blob/master/Lib/gftools
 Hiragana<br>
 Katakana<br>
 Halfwidth-Katakana<br>
-Kanji JIS Level1, 2 and ‘頰’, ‘塡’, ‘剝’, ‘𠮟’ (unfinished)<br>
+Kanji JIS Level1, 2 and ‘頰’, ‘塡’, ‘剝’, ‘𠮟’<br>
 Cyrillic and Greek<br>
 Punctuations and symbols<br>
 
@@ -42,7 +42,7 @@ HinaMinchoは古風でかわいらしく品のある雛人形をイメージし�
 
 <h2>ライセンス</h2>
 SIL Open Font License Version 1.1<br>
-詳細はライセンス原文（https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1）<br>
+詳細はライセンス原文（https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html）<br>
 またはリポジトリ内のOFL.txtをご確認下さい。<br>
 
 <h2>収録予定文字</h2>
@@ -57,4 +57,3 @@ SIL Open Font License Version 1.1<br>
 ・IBM拡張文字388文字<br>
 ・第三水準の常用漢字「頰」「塡」「剝」「𠮟」<br>
 ・その他（ギリシャ文字、キリル文字など）<br>
-※漢字は未完成です
