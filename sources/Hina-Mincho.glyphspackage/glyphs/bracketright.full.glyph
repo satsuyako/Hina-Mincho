@@ -1,0 +1,16 @@
+{
+glyphname = bracketright.full;
+layers = (
+{
+components = (
+{
+name = bracketleft.full;
+transform = "{-1, 0, 0, 1, 472, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 472;
+}
+);
+unicode = FF3D;
+}

@@ -1,0 +1,36 @@
+{
+glyphname = boxLightVerticalAndRight;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"515 -101 LINE",
+"515 375 LINE",
+"515 405 LINE",
+"515 881 LINE",
+"485 881 LINE",
+"485 405 LINE",
+"485 375 LINE",
+"485 -101 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"485 375 LINE",
+"515 375 LINE",
+"1001 375 LINE",
+"1001 405 LINE",
+"515 405 LINE",
+"485 405 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 251C;
+}

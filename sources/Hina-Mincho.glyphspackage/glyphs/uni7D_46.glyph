@@ -1,0 +1,254 @@
+{
+glyphname = uni7D46;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.itohen;
+transform = "{1, 0, 0, 1, -40, 0}";
+}
+);
+hints = (
+{
+origin = "{1, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 42}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{1, 4}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 26}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 20}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 32}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"431 514 OFFCURVE",
+"454 505 OFFCURVE",
+"471 521 CURVE SMOOTH",
+"523 570 OFFCURVE",
+"557 608 OFFCURVE",
+"597 676 CURVE SMOOTH",
+"612 702 OFFCURVE",
+"617 709 OFFCURVE",
+"628 702 CURVE SMOOTH",
+"640 696 OFFCURVE",
+"654 703 OFFCURVE",
+"644 723 CURVE SMOOTH",
+"623 764 OFFCURVE",
+"553 776 OFFCURVE",
+"538 721 CURVE SMOOTH",
+"520 650 OFFCURVE",
+"490 593 OFFCURVE",
+"447 535 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"636 280 LINE SMOOTH",
+"658 280 OFFCURVE",
+"671 267 OFFCURVE",
+"671 245 CURVE SMOOTH",
+"671 -13 LINE",
+"735 -13 LINE",
+"735 244 LINE SMOOTH",
+"735 266 OFFCURVE",
+"748 279 OFFCURVE",
+"770 279 CURVE SMOOTH",
+"814 279 LINE",
+"814 308 LINE",
+"770 308 LINE SMOOTH",
+"748 308 OFFCURVE",
+"735 321 OFFCURVE",
+"735 343 CURVE SMOOTH",
+"735 423 LINE SMOOTH",
+"735 445 OFFCURVE",
+"748 458 OFFCURVE",
+"770 458 CURVE SMOOTH",
+"795 458 LINE",
+"795 487 LINE",
+"770 487 LINE SMOOTH",
+"748 487 OFFCURVE",
+"735 500 OFFCURVE",
+"735 522 CURVE SMOOTH",
+"735 804 LINE",
+"671 804 LINE",
+"671 522 LINE SMOOTH",
+"671 500 OFFCURVE",
+"658 487 OFFCURVE",
+"636 487 CURVE SMOOTH",
+"618 487 LINE",
+"618 459 LINE",
+"636 459 LINE SMOOTH",
+"658 459 OFFCURVE",
+"671 446 OFFCURVE",
+"671 424 CURVE SMOOTH",
+"671 343 LINE SMOOTH",
+"671 321 OFFCURVE",
+"658 308 OFFCURVE",
+"636 308 CURVE SMOOTH",
+"594 308 LINE",
+"594 280 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"823 693 OFFCURVE",
+"854 631 OFFCURVE",
+"878 579 CURVE SMOOTH",
+"893 547 OFFCURVE",
+"949 575 OFFCURVE",
+"937 617 CURVE SMOOTH",
+"917 685 OFFCURVE",
+"844 731 OFFCURVE",
+"791 750 CURVE SMOOTH",
+"773 756 OFFCURVE",
+"764 737 OFFCURVE",
+"776 729 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.itohen;
+transform = "{1, 0, 0, 1, -40, 0}";
+}
+);
+hints = (
+{
+origin = "{2, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{2, 3}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{3, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{3, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{4, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{4, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "034FC28B-8626-4544-A40C-F6BC988171B7";
+name = "Dec 10 20, 23:00";
+paths = (
+{
+closed = 1;
+nodes = (
+"823 693 OFFCURVE",
+"854 631 OFFCURVE",
+"878 579 CURVE SMOOTH",
+"893 547 OFFCURVE",
+"949 575 OFFCURVE",
+"937 617 CURVE SMOOTH",
+"917 685 OFFCURVE",
+"844 731 OFFCURVE",
+"791 750 CURVE SMOOTH",
+"773 756 OFFCURVE",
+"764 737 OFFCURVE",
+"776 729 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"431 514 OFFCURVE",
+"454 505 OFFCURVE",
+"471 521 CURVE SMOOTH",
+"523 570 OFFCURVE",
+"557 608 OFFCURVE",
+"597 676 CURVE SMOOTH",
+"612 702 OFFCURVE",
+"617 709 OFFCURVE",
+"628 702 CURVE SMOOTH",
+"640 696 OFFCURVE",
+"654 703 OFFCURVE",
+"644 723 CURVE SMOOTH",
+"623 764 OFFCURVE",
+"553 776 OFFCURVE",
+"538 721 CURVE SMOOTH",
+"520 650 OFFCURVE",
+"490 593 OFFCURVE",
+"447 535 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"594 280 LINE",
+"814 279 LINE",
+"814 308 LINE",
+"594 308 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"671 -13 LINE",
+"735 -13 LINE",
+"735 804 LINE",
+"671 804 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"618 459 LINE",
+"795 458 LINE",
+"795 487 LINE",
+"618 487 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 7D46;
+}

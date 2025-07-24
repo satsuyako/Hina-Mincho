@@ -1,0 +1,104 @@
+{
+export = 0;
+glyphname = "_part.v-line";
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"367 888 LINE",
+"233 888 LINE",
+"233 880 LINE",
+"245 880 LINE SMOOTH",
+"258 880 OFFCURVE",
+"265 873 OFFCURVE",
+"265 860 CURVE SMOOTH",
+"265 726 LINE SMOOTH",
+"265 713 OFFCURVE",
+"258 706 OFFCURVE",
+"245 706 CURVE SMOOTH",
+"233 706 LINE",
+"233 698 LINE",
+"367 698 LINE",
+"367 706 LINE",
+"355 706 LINE SMOOTH",
+"342 706 OFFCURVE",
+"335 713 OFFCURVE",
+"335 726 CURVE SMOOTH",
+"335 860 LINE SMOOTH",
+"335 873 OFFCURVE",
+"342 880 OFFCURVE",
+"355 880 CURVE SMOOTH",
+"367 880 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+height = 1;
+};
+};
+width = 600;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "2949DFFA-7F21-4D97-8FF6-B4CB9A8560AC";
+name = max;
+paths = (
+{
+closed = 1;
+nodes = (
+"367 888 LINE",
+"233 888 LINE",
+"233 880 LINE",
+"245 880 LINE SMOOTH",
+"258 880 OFFCURVE",
+"265 873 OFFCURVE",
+"265 860 CURVE SMOOTH",
+"265 -80 LINE SMOOTH",
+"265 -93 OFFCURVE",
+"258 -100 OFFCURVE",
+"245 -100 CURVE SMOOTH",
+"233 -100 LINE",
+"233 -108 LINE",
+"367 -108 LINE",
+"367 -100 LINE",
+"355 -100 LINE SMOOTH",
+"342 -100 OFFCURVE",
+"335 -93 OFFCURVE",
+"335 -80 CURVE SMOOTH",
+"335 860 LINE SMOOTH",
+"335 873 OFFCURVE",
+"342 880 OFFCURVE",
+"355 880 CURVE SMOOTH",
+"367 880 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+height = 2;
+};
+};
+width = 600;
+}
+);
+partsSettings = (
+{
+name = height;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 1000;
+},
+{
+name = "new Property";
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+}
+);
+}

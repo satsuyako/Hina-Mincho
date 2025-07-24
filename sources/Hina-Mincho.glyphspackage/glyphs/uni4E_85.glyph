@@ -1,0 +1,35 @@
+{
+glyphname = uni4E85;
+layers = (
+{
+hints = (
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Cap;
+name = _cap.kanji.hane;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"471 103 LINE",
+"535 103 LINE",
+"535 784 LINE",
+"471 784 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4E85;
+}

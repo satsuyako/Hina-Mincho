@@ -1,0 +1,40 @@
+{
+glyphname = uni67B9;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.kihen;
+},
+{
+name = _part.kanji.tsutsumigamae;
+piece = {
+angle = 239.79895;
+hane = 226.55698;
+length = -412.00644;
+migishita = 36.71875;
+shift = 460.80103;
+tate = 194.69025;
+yoko = -24.90364;
+};
+transform = "{1, 0, 0, 1, -35, 14}";
+},
+{
+name = _part.kanji.onore2;
+piece = {
+center = 88.17138;
+hidari = -1.55197;
+migishita = -361.73068;
+migiue = 469.60419;
+tate = 265.59851;
+};
+transform = "{1, 0, 0, 1, 295, -11}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 67B9;
+}

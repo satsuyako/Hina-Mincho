@@ -1,0 +1,26 @@
+{
+export = 0;
+glyphname = "_corner.x-right";
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"600 1 LINE",
+"822 0 LINE",
+"822 0 OFFCURVE",
+"801 65 OFFCURVE",
+"735 81 CURVE",
+"735 81 OFFCURVE",
+"711 28 OFFCURVE",
+"654 28 CURVE SMOOTH",
+"600 28 LINE"
+);
+}
+);
+width = 600;
+}
+);
+}

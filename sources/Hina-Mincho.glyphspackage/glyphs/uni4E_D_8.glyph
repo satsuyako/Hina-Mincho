@@ -1,0 +1,135 @@
+{
+glyphname = uni4ED8;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.ninben;
+piece = {
+yoko = 65.6684;
+};
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+hints = (
+{
+origin = "{0, 44}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"380 470 OFFCURVE",
+"409 471 OFFCURVE",
+"474 472 CURVE SMOOTH",
+"656 474 LINE SMOOTH",
+"678 474 OFFCURVE",
+"691 461 OFFCURVE",
+"691 439 CURVE SMOOTH",
+"691 62 LINE SMOOTH",
+"691 27 OFFCURVE",
+"684 4 OFFCURVE",
+"648 10 CURVE SMOOTH",
+"617 14 OFFCURVE",
+"537 43 OFFCURVE",
+"513 50 CURVE SMOOTH",
+"488 56 OFFCURVE",
+"481 29 OFFCURVE",
+"504 19 CURVE SMOOTH",
+"524 11 OFFCURVE",
+"606 -16 OFFCURVE",
+"622 -21 CURVE SMOOTH",
+"673 -39 OFFCURVE",
+"648 -75 OFFCURVE",
+"682 -75 CURVE SMOOTH",
+"722 -75 OFFCURVE",
+"755 -56 OFFCURVE",
+"755 3 CURVE SMOOTH",
+"755 439 LINE SMOOTH",
+"755 461 OFFCURVE",
+"768 474 OFFCURVE",
+"790 474 CURVE SMOOTH",
+"933 474 LINE SMOOTH",
+"972 474 OFFCURVE",
+"977 502 OFFCURVE",
+"957 524 CURVE SMOOTH",
+"930 553 OFFCURVE",
+"909 560 OFFCURVE",
+"883 534 CURVE SMOOTH",
+"869 520 OFFCURVE",
+"846 502 OFFCURVE",
+"816 502 CURVE SMOOTH",
+"790 502 LINE SMOOTH",
+"768 502 OFFCURVE",
+"755 515 OFFCURVE",
+"755 537 CURVE SMOOTH",
+"755 790 LINE",
+"691 790 LINE",
+"691 537 LINE SMOOTH",
+"691 515 OFFCURVE",
+"678 502 OFFCURVE",
+"656 502 CURVE SMOOTH",
+"483 502 LINE SMOOTH",
+"433 502 OFFCURVE",
+"407 504 OFFCURVE",
+"363 508 CURVE SMOOTH",
+"329 511 OFFCURVE",
+"328 464 OFFCURVE",
+"363 468 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"465 307 OFFCURVE",
+"512 258 OFFCURVE",
+"545 202 CURVE SMOOTH",
+"568 162 OFFCURVE",
+"610 192 OFFCURVE",
+"596 228 CURVE SMOOTH",
+"576 276 OFFCURVE",
+"494 350 OFFCURVE",
+"439 359 CURVE SMOOTH",
+"419 362 OFFCURVE",
+"422 343 OFFCURVE",
+"432 336 CURVE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+name = _part.kanji.sun;
+piece = {
+"1" = 383.39844;
+center = 27.89062;
+hane = 227.38602;
+tate = 461.04929;
+yoko = 250.48692;
+};
+transform = "{1, 0, 0, 1, 40, 10}";
+},
+{
+alignment = -1;
+name = _part.kanji.ninben;
+piece = {
+yoko = 65.6684;
+};
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "539C6B63-19D6-4234-9B06-2746E1D04EAA";
+name = "May 2 20, 21:01";
+width = 1000;
+}
+);
+unicode = 4ED8;
+}

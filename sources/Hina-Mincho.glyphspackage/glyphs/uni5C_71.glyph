@@ -1,0 +1,53 @@
+{
+glyphname = uni5C71;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.yama2;
+piece = {
+geta = 110.23319;
+tate = 269.12097;
+top = 575.27942;
+yoko = 497.96921;
+};
+transform = "{1, 0, 0, 1, -7, -212}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+userData = {
+PartSelection = {
+tate = 1;
+top = 1;
+yoko = 1;
+};
+};
+width = 1000;
+}
+);
+unicode = 5C71;
+partsSettings = (
+{
+name = tate;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = top;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+}
+);
+}

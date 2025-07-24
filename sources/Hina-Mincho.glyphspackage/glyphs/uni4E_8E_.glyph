@@ -1,0 +1,138 @@
+{
+glyphname = uni4E8E;
+layers = (
+{
+hints = (
+{
+origin = "{0, 4}";
+type = Cap;
+name = _cap.kanji.hane;
+},
+{
+horizontal = 1;
+place = "{158.714, 3.634}";
+type = Stem;
+},
+{
+place = "{48.722, 18.17}";
+type = Stem;
+},
+{
+origin = "{0, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 32}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+horizontal = 1;
+place = "{583.338, 14.488}";
+type = Stem;
+},
+{
+place = "{178.28, 72.442}";
+type = Stem;
+},
+{
+origin = "{0, 20}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 22}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"436 425 LINE SMOOTH",
+"458 425 OFFCURVE",
+"471 412 OFFCURVE",
+"471 390 CURVE SMOOTH",
+"471 85 LINE",
+"535 85 LINE",
+"535 389 LINE SMOOTH",
+"535 411 OFFCURVE",
+"548 424 OFFCURVE",
+"570 424 CURVE SMOOTH",
+"791 424 LINE",
+"791 453 LINE",
+"570 453 LINE SMOOTH",
+"548 453 OFFCURVE",
+"535 466 OFFCURVE",
+"535 488 CURVE SMOOTH",
+"535 695 LINE SMOOTH",
+"535 717 OFFCURVE",
+"548 730 OFFCURVE",
+"570 730 CURVE SMOOTH",
+"675 730 LINE",
+"675 759 LINE",
+"319 759 LINE",
+"319 731 LINE",
+"436 731 LINE SMOOTH",
+"458 731 OFFCURVE",
+"471 718 OFFCURVE",
+"471 696 CURVE SMOOTH",
+"471 488 LINE SMOOTH",
+"471 466 OFFCURVE",
+"458 453 OFFCURVE",
+"436 453 CURVE SMOOTH",
+"190 453 LINE",
+"190 425 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.yoko.001;
+piece = {
+length = 870.21594;
+};
+transform = "{1, 0, 0, 1, 2, 119}";
+},
+{
+alignment = -1;
+name = _part.yoko.001;
+piece = {
+length = 482.55423;
+};
+transform = "{1, 0, 0, 1, -8, 425}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+type = Cap;
+name = _cap.kanji.hane;
+}
+);
+layerId = "A5D9CFEB-8E54-45D3-BE6D-2A382A945161";
+name = "Jun 14 20, 23:07";
+paths = (
+{
+closed = 1;
+nodes = (
+"471 85 LINE",
+"535 85 LINE",
+"535 744 LINE",
+"471 744 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4E8E;
+}

@@ -1,0 +1,134 @@
+{
+glyphname = uni96EB;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.amekanmuri;
+piece = {
+tate = -204.6875;
+};
+transform = "{1, 0, 0, 1, 0, 20}";
+}
+);
+hints = (
+{
+origin = "{0, 24}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 26}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"415 365 LINE SMOOTH",
+"437 365 OFFCURVE",
+"450 352 OFFCURVE",
+"450 330 CURVE SMOOTH",
+"448 -52 LINE SMOOTH",
+"446 -95 OFFCURVE",
+"518 -78 OFFCURVE",
+"517 -36 CURVE SMOOTH",
+"516 258 LINE SMOOTH",
+"516 288 OFFCURVE",
+"535 297 OFFCURVE",
+"559 280 CURVE SMOOTH",
+"614 240 OFFCURVE",
+"671 193 OFFCURVE",
+"701 157 CURVE SMOOTH",
+"734 118 OFFCURVE",
+"796 147 OFFCURVE",
+"775 181 CURVE SMOOTH",
+"742 235 OFFCURVE",
+"626 293 OFFCURVE",
+"542 333 CURVE SMOOTH",
+"518 344 OFFCURVE",
+"517 364 OFFCURVE",
+"551 364 CURVE SMOOTH",
+"769 364 LINE",
+"769 393 LINE",
+"198 393 LINE",
+"198 365 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.amekanmuri;
+piece = {
+tate = -204.6875;
+};
+transform = "{1, 0, 0, 1, 0, 20}";
+}
+);
+hints = (
+{
+origin = "{0, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "52B3F25E-A1BC-450B-B4CB-A68295E78669";
+name = "Dec 8 20, 00:15";
+paths = (
+{
+closed = 1;
+nodes = (
+"198 365 LINE",
+"769 364 LINE",
+"769 393 LINE",
+"198 393 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"516 371 LINE",
+"450 371 LINE",
+"448 -52 LINE",
+"446 -95 OFFCURVE",
+"518 -78 OFFCURVE",
+"517 -36 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"734 118 OFFCURVE",
+"796 147 OFFCURVE",
+"775 181 CURVE SMOOTH",
+"738 241 OFFCURVE",
+"600 306 OFFCURVE",
+"520 343 CURVE SMOOTH",
+"489 357 OFFCURVE",
+"494 325 OFFCURVE",
+"503 319 CURVE SMOOTH",
+"571 273 OFFCURVE",
+"660 206 OFFCURVE",
+"701 157 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 96EB;
+}

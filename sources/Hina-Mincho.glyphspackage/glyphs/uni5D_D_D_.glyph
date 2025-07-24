@@ -1,0 +1,72 @@
+{
+glyphname = uni5DDD;
+layers = (
+{
+hints = (
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{2, 2}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"268 77 OFFCURVE",
+"245 322 OFFCURVE",
+"245 791 CURVE",
+"182 791 LINE",
+"182 430 OFFCURVE",
+"204 95 OFFCURVE",
+"36 -41 CURVE SMOOTH",
+"13 -60 OFFCURVE",
+"35 -80 OFFCURVE",
+"57 -65 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"794 -3 LINE",
+"858 -3 LINE",
+"858 794 LINE",
+"794 794 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"484 99 LINE",
+"548 99 LINE",
+"548 754 LINE",
+"484 754 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 5DDD;
+}

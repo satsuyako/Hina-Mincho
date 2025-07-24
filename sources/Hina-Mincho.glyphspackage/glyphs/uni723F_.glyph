@@ -1,0 +1,179 @@
+{
+glyphname = uni723F;
+layers = (
+{
+hints = (
+{
+origin = "{0, 25}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 13}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 15}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 45}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"155 -63 OFFCURVE",
+"171 -84 OFFCURVE",
+"194 -76 CURVE SMOOTH",
+"385 -10 OFFCURVE",
+"442 129 OFFCURVE",
+"449 331 CURVE SMOOTH",
+"450 354 OFFCURVE",
+"463 366 OFFCURVE",
+"485 366 CURVE SMOOTH",
+"675 365 LINE SMOOTH",
+"697 365 OFFCURVE",
+"710 352 OFFCURVE",
+"710 330 CURVE SMOOTH",
+"710 -3 LINE",
+"774 -3 LINE",
+"774 794 LINE",
+"710 794 LINE",
+"710 593 LINE SMOOTH",
+"710 571 OFFCURVE",
+"697 558 OFFCURVE",
+"675 558 CURVE SMOOTH",
+"436 558 LINE SMOOTH",
+"414 558 OFFCURVE",
+"401 571 OFFCURVE",
+"401 593 CURVE SMOOTH",
+"401 789 LINE",
+"337 789 LINE",
+"337 493 LINE SMOOTH",
+"337 469 OFFCURVE",
+"356 465 OFFCURVE",
+"375 471 CURVE SMOOTH",
+"390 476 OFFCURVE",
+"397 484 OFFCURVE",
+"400 505 CURVE SMOOTH",
+"402 521 OFFCURVE",
+"409 530 OFFCURVE",
+"425 530 CURVE SMOOTH",
+"675 529 LINE SMOOTH",
+"697 529 OFFCURVE",
+"710 516 OFFCURVE",
+"710 494 CURVE SMOOTH",
+"710 429 LINE SMOOTH",
+"710 407 OFFCURVE",
+"697 394 OFFCURVE",
+"675 394 CURVE SMOOTH",
+"239 394 LINE",
+"239 366 LINE",
+"352 366 LINE SMOOTH",
+"375 366 OFFCURVE",
+"387 353 OFFCURVE",
+"386 331 CURVE SMOOTH",
+"380 174 OFFCURVE",
+"340 9 OFFCURVE",
+"183 -52 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{1, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{2, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "A98CB6B2-F481-4E21-ADAB-A6EE17ACC376";
+name = "May 29 20, 04:17";
+paths = (
+{
+closed = 1;
+nodes = (
+"239 366 LINE",
+"726 365 LINE",
+"726 394 LINE",
+"239 394 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"337 531 LINE",
+"401 531 LINE",
+"401 789 LINE",
+"337 789 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"710 -3 LINE",
+"774 -3 LINE",
+"774 794 LINE",
+"710 794 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"372 530 LINE",
+"748 529 LINE",
+"748 558 LINE",
+"372 558 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"400 -4 OFFCURVE",
+"450 152 OFFCURVE",
+"450 380 CURVE",
+"387 380 LINE",
+"387 210 OFFCURVE",
+"357 16 OFFCURVE",
+"183 -52 CURVE SMOOTH",
+"155 -63 OFFCURVE",
+"171 -84 OFFCURVE",
+"194 -76 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 723F;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = horizontalbar;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.yokosen;
+piece = {
+futosa = 40;
+nagasa = 60;
+};
+transform = "{1, 0, 0, 1, 151, -70}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 2015;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = one_nine.circled;
+layers = (
+{
+components = (
+{
+name = one;
+transform = "{0.70841, 0, 0, 0.71429, 173, 130}";
+},
+{
+name = uni20DD;
+},
+{
+name = nine;
+transform = "{0.70841, 0, 0, 0.71429, 466, 130}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+leftMetricsKey = uni20DD;
+rightMetricsKey = uni20DD;
+unicode = 2472;
+}

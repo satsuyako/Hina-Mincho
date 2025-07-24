@@ -1,0 +1,83 @@
+{
+glyphname = uni535C;
+layers = (
+{
+hints = (
+{
+origin = "{0, 19}";
+target = "{0, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 17}";
+target = "{0, 18}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"446 -13 LINE",
+"446 435 LINE SMOOTH",
+"446 463 OFFCURVE",
+"464 474 OFFCURVE",
+"488 459 CURVE SMOOTH",
+"572 404 OFFCURVE",
+"654 327 OFFCURVE",
+"719 215 CURVE SMOOTH",
+"757 150 OFFCURVE",
+"827 183 OFFCURVE",
+"791 250 CURVE SMOOTH",
+"727 371 OFFCURVE",
+"572 477 OFFCURVE",
+"474 516 CURVE SMOOTH",
+"455 523 OFFCURVE",
+"446 535 OFFCURVE",
+"446 555 CURVE SMOOTH",
+"446 804 LINE",
+"382 804 LINE",
+"382 -13 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.tate003;
+transform = "{1, 0, 0, 1, 220, 0}";
+}
+);
+layerId = "71B3953F-A53B-4E97-A886-E7FE41C450C9";
+name = "Dec 9 20, 23:37";
+paths = (
+{
+closed = 1;
+nodes = (
+"757 150 OFFCURVE",
+"827 183 OFFCURVE",
+"791 250 CURVE SMOOTH",
+"713 395 OFFCURVE",
+"506 521 OFFCURVE",
+"422 530 CURVE SMOOTH",
+"390 533 OFFCURVE",
+"380 518 OFFCURVE",
+"416 500 CURVE SMOOTH",
+"523 446 OFFCURVE",
+"635 360 OFFCURVE",
+"719 215 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 535C;
+}

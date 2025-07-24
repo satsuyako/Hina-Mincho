@@ -1,0 +1,150 @@
+{
+export = 0;
+glyphname = _part.kanji.kado2;
+layers = (
+{
+anchors = (
+{
+name = x;
+position = "{405, 821}";
+},
+{
+name = y;
+position = "{331, 777}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"304 767 LINE",
+"368 767 LINE",
+"367 807 LINE",
+"417 807 LINE",
+"417 835 LINE",
+"379 835 LINE SMOOTH",
+"371 835 OFFCURVE",
+"366 839 OFFCURVE",
+"362 847 CURVE SMOOTH",
+"353 863 OFFCURVE",
+"333 873 OFFCURVE",
+"318 873 CURVE SMOOTH",
+"311 873 OFFCURVE",
+"303 872 OFFCURVE",
+"303 862 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+x = 1;
+y = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = x;
+position = "{1092, 821}";
+},
+{
+name = y;
+position = "{331, 777}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "667C365B-62C0-4287-B4F8-6721D7020D24";
+name = x;
+paths = (
+{
+closed = 1;
+nodes = (
+"304 767 LINE",
+"368 767 LINE",
+"367 807 LINE",
+"1104 807 LINE",
+"1104 835 LINE",
+"379 835 LINE SMOOTH",
+"371 835 OFFCURVE",
+"366 839 OFFCURVE",
+"362 847 CURVE SMOOTH",
+"353 863 OFFCURVE",
+"333 873 OFFCURVE",
+"318 873 CURVE SMOOTH",
+"311 873 OFFCURVE",
+"303 872 OFFCURVE",
+"303 862 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+x = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = x;
+position = "{405, 821}";
+},
+{
+name = y;
+position = "{331, -54}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "72554678-FD1B-460D-9C0D-8094CC9EA5B6";
+name = y;
+paths = (
+{
+closed = 1;
+nodes = (
+"304 -64 LINE",
+"368 -64 LINE",
+"367 807 LINE",
+"417 807 LINE",
+"417 835 LINE",
+"379 835 LINE SMOOTH",
+"371 835 OFFCURVE",
+"366 839 OFFCURVE",
+"362 847 CURVE SMOOTH",
+"353 863 OFFCURVE",
+"333 873 OFFCURVE",
+"318 873 CURVE SMOOTH",
+"311 873 OFFCURVE",
+"303 872 OFFCURVE",
+"303 862 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+y = 2;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = x;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = y;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

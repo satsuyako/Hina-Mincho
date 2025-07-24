@@ -1,0 +1,29 @@
+{
+export = 0;
+glyphname = _cap.tate.002;
+layers = (
+{
+anchors = (
+{
+name = origin;
+position = "{67, -32}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"67 -2 LINE",
+"67 -70 LINE",
+"65 -113 OFFCURVE",
+"131 -96 OFFCURVE",
+"131 -54 CURVE SMOOTH",
+"131 -2 LINE"
+);
+}
+);
+width = 200;
+}
+);
+}

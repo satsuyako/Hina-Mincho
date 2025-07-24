@@ -1,0 +1,20 @@
+{
+glyphname = "zi-hira";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "si-hira";
+},
+{
+name = "voicedcomb-kana";
+transform = "{0.91273, 0.40856, -0.40856, 0.91273, 798, -36}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 3058;
+}

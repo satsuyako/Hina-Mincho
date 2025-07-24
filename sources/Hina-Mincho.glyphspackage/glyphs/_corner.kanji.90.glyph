@@ -1,0 +1,33 @@
+{
+export = 0;
+glyphname = _corner.kanji.90;
+layers = (
+{
+anchors = (
+{
+name = origin;
+position = "{104, 48}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"104 -23 LINE",
+"104 14 OFFCURVE",
+"133 8 OFFCURVE",
+"133 30 CURVE SMOOTH",
+"133 46 OFFCURVE",
+"95 84 OFFCURVE",
+"60 84 CURVE SMOOTH",
+"40 84 OFFCURVE",
+"26 55 OFFCURVE",
+"0 55 CURVE"
+);
+}
+);
+width = 600;
+}
+);
+}

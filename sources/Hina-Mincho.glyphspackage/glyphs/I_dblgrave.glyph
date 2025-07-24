@@ -1,0 +1,21 @@
+{
+glyphname = Idblgrave;
+layers = (
+{
+components = (
+{
+name = I;
+},
+{
+name = dblgravecomb.case;
+transform = "{1, 0, 0, 1, -106, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 388;
+}
+);
+leftKerningGroup = I;
+rightKerningGroup = I;
+unicode = 0208;
+}

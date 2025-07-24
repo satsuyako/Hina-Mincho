@@ -1,0 +1,153 @@
+{
+glyphname = uni5E81;
+layers = (
+{
+hints = (
+{
+origin = "{1, 4}";
+target = "{1, 5}";
+type = Cap;
+name = _cap.kanji.hane;
+},
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 15}";
+type = Cap;
+name = _cap.tate;
+},
+{
+horizontal = 1;
+place = "{329.504, 14.412}";
+type = Stem;
+},
+{
+place = "{263.298, 72.061}";
+type = Stem;
+},
+{
+origin = "{1, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 12}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"26 -69 OFFCURVE",
+"46 -92 OFFCURVE",
+"70 -65 CURVE SMOOTH",
+"224 103 OFFCURVE",
+"220 403 OFFCURVE",
+"220 649 CURVE SMOOTH",
+"220 672 OFFCURVE",
+"233 684 OFFCURVE",
+"255 684 CURVE SMOOTH",
+"784 683 LINE",
+"784 712 LINE",
+"608 712 LINE SMOOTH",
+"586 712 OFFCURVE",
+"573 725 OFFCURVE",
+"573 747 CURVE SMOOTH",
+"573 803 LINE",
+"509 803 LINE",
+"509 747 LINE SMOOTH",
+"509 725 OFFCURVE",
+"496 712 OFFCURVE",
+"474 712 CURVE SMOOTH",
+"230 712 LINE SMOOTH",
+"222 712 OFFCURVE",
+"217 716 OFFCURVE",
+"213 724 CURVE SMOOTH",
+"206 739 OFFCURVE",
+"193 749 OFFCURVE",
+"171 749 CURVE SMOOTH",
+"164 749 OFFCURVE",
+"156 748 OFFCURVE",
+"156 738 CURVE SMOOTH",
+"156 703 OFFCURVE",
+"196 136 OFFCURVE",
+"53 -36 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"523 478 LINE SMOOTH",
+"545 478 OFFCURVE",
+"558 465 OFFCURVE",
+"558 443 CURVE SMOOTH",
+"558 80 LINE",
+"622 80 LINE",
+"622 442 LINE SMOOTH",
+"622 464 OFFCURVE",
+"635 477 OFFCURVE",
+"657 477 CURVE SMOOTH",
+"762 477 LINE",
+"762 506 LINE",
+"404 506 LINE",
+"404 478 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.madare;
+piece = {
+hidarishita = 168.35938;
+takasa = 108.10811;
+ue = 382.1875;
+yoko = -25.04596;
+};
+transform = "{1, 0, 0, 1, -24, 0}";
+},
+{
+alignment = -1;
+name = _part.yoko.001;
+piece = {
+length = 485.28207;
+};
+transform = "{1, 0, 0, 1, 78, 172}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Cap;
+name = _cap.kanji.hane;
+}
+);
+layerId = "DB57CEAD-932B-4A7B-8EB7-6E6A5DC4A29E";
+name = "Dec 2 20, 06:57";
+paths = (
+{
+closed = 1;
+nodes = (
+"558 80 LINE",
+"622 80 LINE",
+"622 487 LINE",
+"558 487 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 5E81;
+}

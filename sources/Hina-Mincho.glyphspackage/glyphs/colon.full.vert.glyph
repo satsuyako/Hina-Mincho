@@ -1,0 +1,15 @@
+{
+glyphname = colon.full.vert;
+layers = (
+{
+components = (
+{
+name = colon.full;
+transform = "{0, -1, 1, 0, 135, 891}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+}

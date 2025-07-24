@@ -1,0 +1,118 @@
+{
+export = 0;
+glyphname = _part.tate.002;
+layers = (
+{
+anchors = (
+{
+name = long;
+position = "{296, 861}";
+},
+{
+name = width;
+position = "{330, 861}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"265 841 LINE",
+"329 841 LINE",
+"329 880 LINE",
+"265 880 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+long = 1;
+width = 1;
+};
+};
+width = 600;
+},
+{
+anchors = (
+{
+name = long;
+position = "{296, -85}";
+},
+{
+name = width;
+position = "{330, 380}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "09E89D89-877C-46BB-A272-F9BE072B86BC";
+name = long;
+paths = (
+{
+closed = 1;
+nodes = (
+"265 -100 LINE",
+"329 -100 LINE",
+"329 880 LINE",
+"265 880 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+long = 2;
+};
+};
+width = 600;
+},
+{
+anchors = (
+{
+name = long;
+position = "{296, 861}";
+},
+{
+name = width;
+position = "{298, 861}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "52D21DB5-A813-4D86-A9BF-2CFCE81DE2AE";
+name = width;
+paths = (
+{
+closed = 1;
+nodes = (
+"281 841 LINE",
+"313 841 LINE",
+"313 880 LINE",
+"281 880 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+long = 1;
+width = 2;
+};
+};
+width = 600;
+}
+);
+partsSettings = (
+{
+name = long;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 1000;
+},
+{
+name = width;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+}
+);
+}

@@ -1,0 +1,16 @@
+{
+glyphname = copyright.rotat;
+layers = (
+{
+components = (
+{
+name = copyright;
+transform = "{0, -1, 1, 0, 44, 880}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 788;
+width = 1000;
+}
+);
+}

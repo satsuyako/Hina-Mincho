@@ -1,0 +1,46 @@
+{
+glyphname = "vu-hira";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "u-hira";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"689 732 OFFCURVE",
+"677 708 OFFCURVE",
+"703 696 CURVE",
+"773 665 OFFCURVE",
+"762 645 OFFCURVE",
+"785 620 CURVE SMOOTH",
+"819 581 OFFCURVE",
+"925 648 OFFCURVE",
+"722 720 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"765 796 OFFCURVE",
+"756 770 OFFCURVE",
+"783 761 CURVE",
+"853 730 OFFCURVE",
+"838 710 OFFCURVE",
+"864 690 CURVE SMOOTH",
+"911 653 OFFCURVE",
+"1002 726 OFFCURVE",
+"800 785 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 3094;
+}

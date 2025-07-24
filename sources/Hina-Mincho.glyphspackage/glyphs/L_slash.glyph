@@ -1,0 +1,44 @@
+{
+glyphname = Lslash;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{306, 0}";
+},
+{
+name = center;
+position = "{306, 350}";
+},
+{
+name = top;
+position = "{207, 680}";
+},
+{
+name = topright;
+position = "{592, 680}";
+}
+);
+components = (
+{
+alignment = -1;
+name = _part.yokosen;
+piece = {
+nagasa = 15;
+};
+transform = "{0.93969, 0.34202, -0.34202, 0.93969, 26, -35}";
+},
+{
+alignment = -1;
+name = L;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 612;
+}
+);
+leftKerningGroup = L;
+rightKerningGroup = L;
+unicode = 0141;
+}

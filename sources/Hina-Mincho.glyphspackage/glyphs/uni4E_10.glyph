@@ -1,0 +1,240 @@
+{
+glyphname = uni4E10;
+layers = (
+{
+hints = (
+{
+origin = "{0, 48}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 76}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 58}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 60}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{0, 39}";
+type = Corner;
+name = _corner.kanji.90;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"160 269 OFFCURVE",
+"178 265 OFFCURVE",
+"194 265 CURVE SMOOTH",
+"217 265 OFFCURVE",
+"242 280 OFFCURVE",
+"248 297 CURVE SMOOTH",
+"254 314 OFFCURVE",
+"259 332 OFFCURVE",
+"265 350 CURVE SMOOTH",
+"271 370 OFFCURVE",
+"284 379 OFFCURVE",
+"304 379 CURVE SMOOTH",
+"756 379 LINE SMOOTH",
+"784 379 OFFCURVE",
+"803 364 OFFCURVE",
+"802 335 CURVE SMOOTH",
+"796 209 OFFCURVE",
+"755 71 OFFCURVE",
+"673 27 CURVE SMOOTH",
+"660 20 OFFCURVE",
+"638 15 OFFCURVE",
+"619 17 CURVE SMOOTH",
+"581 21 OFFCURVE",
+"514 47 OFFCURVE",
+"471 66 CURVE SMOOTH",
+"450 75 OFFCURVE",
+"434 45 OFFCURVE",
+"461 33 CURVE SMOOTH",
+"499 16 OFFCURVE",
+"549 -5 OFFCURVE",
+"580 -18 CURVE SMOOTH",
+"620 -35 OFFCURVE",
+"590 -55 OFFCURVE",
+"630 -72 CURVE SMOOTH",
+"644 -78 OFFCURVE",
+"664 -70 OFFCURVE",
+"689 -56 CURVE SMOOTH",
+"796 4 OFFCURVE",
+"860 181 OFFCURVE",
+"864 406 CURVE",
+"562 406 LINE SMOOTH",
+"540 406 OFFCURVE",
+"527 419 OFFCURVE",
+"527 441 CURVE SMOOTH",
+"527 521 LINE SMOOTH",
+"527 543 OFFCURVE",
+"540 556 OFFCURVE",
+"562 556 CURVE SMOOTH",
+"640 555 LINE",
+"640 584 LINE",
+"562 584 LINE SMOOTH",
+"540 584 OFFCURVE",
+"527 597 OFFCURVE",
+"527 619 CURVE SMOOTH",
+"527 725 LINE SMOOTH",
+"527 747 OFFCURVE",
+"540 760 OFFCURVE",
+"562 760 CURVE SMOOTH",
+"729 760 LINE",
+"729 789 LINE",
+"263 789 LINE",
+"263 761 LINE",
+"428 761 LINE SMOOTH",
+"450 761 OFFCURVE",
+"463 748 OFFCURVE",
+"463 726 CURVE SMOOTH",
+"463 441 LINE SMOOTH",
+"463 419 OFFCURVE",
+"450 406 OFFCURVE",
+"428 406 CURVE SMOOTH",
+"323 406 LINE SMOOTH",
+"298 406 OFFCURVE",
+"286 421 OFFCURVE",
+"293 445 CURVE SMOOTH",
+"309 503 OFFCURVE",
+"325 567 OFFCURVE",
+"343 635 CURVE",
+"279 636 LINE",
+"256 539 OFFCURVE",
+"226 411 OFFCURVE",
+"169 288 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 5}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{2, 3}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{3, 28}";
+type = Corner;
+name = _corner.kanji.90;
+}
+);
+layerId = "C39CC1E4-33E6-4EE1-9EAD-282263A9DC3F";
+name = "Nov 28 20, 21:47";
+paths = (
+{
+closed = 1;
+nodes = (
+"491 556 LINE",
+"640 555 LINE",
+"640 584 LINE",
+"491 584 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"217 265 OFFCURVE",
+"242 280 OFFCURVE",
+"248 297 CURVE SMOOTH",
+"280 390 OFFCURVE",
+"309 504 OFFCURVE",
+"343 635 CURVE",
+"279 636 LINE",
+"256 539 OFFCURVE",
+"226 411 OFFCURVE",
+"169 288 CURVE SMOOTH",
+"160 269 OFFCURVE",
+"178 265 OFFCURVE",
+"194 265 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"263 761 LINE",
+"729 760 LINE",
+"729 789 LINE",
+"263 789 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"233 379 LINE",
+"756 379 LINE SMOOTH",
+"784 379 OFFCURVE",
+"803 364 OFFCURVE",
+"802 335 CURVE SMOOTH",
+"796 209 OFFCURVE",
+"755 71 OFFCURVE",
+"673 27 CURVE SMOOTH",
+"660 20 OFFCURVE",
+"638 15 OFFCURVE",
+"619 17 CURVE SMOOTH",
+"581 21 OFFCURVE",
+"514 47 OFFCURVE",
+"471 66 CURVE SMOOTH",
+"450 75 OFFCURVE",
+"434 45 OFFCURVE",
+"461 33 CURVE SMOOTH",
+"499 16 OFFCURVE",
+"549 -5 OFFCURVE",
+"580 -18 CURVE SMOOTH",
+"620 -35 OFFCURVE",
+"590 -55 OFFCURVE",
+"630 -72 CURVE SMOOTH",
+"644 -78 OFFCURVE",
+"664 -70 OFFCURVE",
+"689 -56 CURVE SMOOTH",
+"796 4 OFFCURVE",
+"860 181 OFFCURVE",
+"864 406 CURVE",
+"233 406 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"463 387 LINE",
+"527 387 LINE",
+"527 772 LINE",
+"463 772 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4E10;
+}

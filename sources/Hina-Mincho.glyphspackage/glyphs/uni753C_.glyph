@@ -1,0 +1,113 @@
+{
+glyphname = uni753C;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.tanbo;
+piece = {
+tate = 54.241;
+yoko = 245.60437;
+};
+transform = "{1, 0, 0, 1, 20, 256}";
+}
+);
+hints = (
+{
+origin = "{0, 4}";
+type = Cap;
+name = _cap.kanji.hane;
+},
+{
+origin = "{0, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 12}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"437 371 LINE SMOOTH",
+"459 371 OFFCURVE",
+"472 358 OFFCURVE",
+"472 336 CURVE SMOOTH",
+"472 79 LINE",
+"536 79 LINE",
+"536 335 LINE SMOOTH",
+"536 357 OFFCURVE",
+"549 370 OFFCURVE",
+"571 370 CURVE SMOOTH",
+"786 370 LINE",
+"786 399 LINE",
+"205 399 LINE",
+"205 371 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.tanbo;
+piece = {
+tate = 54.241;
+yoko = 245.60437;
+};
+transform = "{1, 0, 0, 1, 20, 256}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+type = Cap;
+name = _cap.kanji.hane;
+},
+{
+origin = "{1, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "04827561-A703-4F23-8355-DE1CF0FBADEA";
+name = "Dec 3 20, 21:14";
+paths = (
+{
+closed = 1;
+nodes = (
+"472 79 LINE",
+"536 79 LINE",
+"536 380 LINE",
+"472 380 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 371 LINE",
+"786 370 LINE",
+"786 399 LINE",
+"205 399 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 753C;
+}

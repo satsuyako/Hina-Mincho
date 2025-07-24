@@ -1,0 +1,16 @@
+{
+glyphname = registered.rotat;
+layers = (
+{
+components = (
+{
+name = registered;
+transform = "{0, -1, 1, 0, 142, 860}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 452;
+width = 1000;
+}
+);
+}

@@ -1,0 +1,23 @@
+{
+glyphname = cdotaccent;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = c;
+},
+{
+alignment = -1;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, -112, -320}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 376;
+}
+);
+leftKerningGroup = c;
+rightKerningGroup = c;
+unicode = 010B;
+}

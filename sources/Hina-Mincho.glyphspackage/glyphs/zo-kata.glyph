@@ -1,0 +1,46 @@
+{
+glyphname = "zo-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "so-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"872 669 OFFCURVE",
+"984 715 OFFCURVE",
+"801 820 CURVE SMOOTH",
+"770 837 OFFCURVE",
+"756 818 OFFCURVE",
+"778 803 CURVE SMOOTH",
+"842 759 OFFCURVE",
+"828 742 OFFCURVE",
+"845 713 CURVE"
+);
+},
+{
+closed = 1;
+nodes = (
+"970 705 OFFCURVE",
+"1071 758 OFFCURVE",
+"886 850 CURVE SMOOTH",
+"855 865 OFFCURVE",
+"842 846 OFFCURVE",
+"864 832 CURVE",
+"929 791 OFFCURVE",
+"912 773 OFFCURVE",
+"933 748 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30BE;
+}

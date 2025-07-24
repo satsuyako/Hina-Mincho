@@ -1,0 +1,77 @@
+{
+glyphname = idotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{113, 0}";
+},
+{
+name = ogonek;
+position = "{183, 11}";
+},
+{
+name = top;
+position = "{103, 380}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"55 1 OFFCURVE",
+"66 1 OFFCURVE",
+"111 1 CURVE SMOOTH",
+"159 1 OFFCURVE",
+"170 1 OFFCURVE",
+"194 1 CURVE SMOOTH",
+"224 1 OFFCURVE",
+"220 33 OFFCURVE",
+"192 28 CURVE SMOOTH",
+"163 23 OFFCURVE",
+"151 34 OFFCURVE",
+"146 60 CURVE SMOOTH",
+"140 100 OFFCURVE",
+"139 167 OFFCURVE",
+"143 259 CURVE SMOOTH",
+"145 307 OFFCURVE",
+"149 353 OFFCURVE",
+"149 368 CURVE SMOOTH",
+"149 376 OFFCURVE",
+"143 380 OFFCURVE",
+"135 380 CURVE SMOOTH",
+"117 380 OFFCURVE",
+"89 344 OFFCURVE",
+"41 332 CURVE SMOOTH",
+"27 329 OFFCURVE",
+"20 322 OFFCURVE",
+"20 317 CURVE SMOOTH",
+"20 311 OFFCURVE",
+"27 306 OFFCURVE",
+"41 306 CURVE SMOOTH",
+"68 306 OFFCURVE",
+"77 278 OFFCURVE",
+"77 246 CURVE SMOOTH",
+"77 168 OFFCURVE",
+"84 101 OFFCURVE",
+"73 60 CURVE SMOOTH",
+"67 38 OFFCURVE",
+"54 24 OFFCURVE",
+"33 28 CURVE SMOOTH",
+"5 33 OFFCURVE",
+"1 1 OFFCURVE",
+"31 1 CURVE SMOOTH"
+);
+}
+);
+width = 225;
+}
+);
+leftKerningGroup = i;
+leftMetricsKey = i;
+rightKerningGroup = i;
+rightMetricsKey = i;
+unicode = 0131;
+}

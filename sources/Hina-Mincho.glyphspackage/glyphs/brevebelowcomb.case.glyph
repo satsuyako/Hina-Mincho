@@ -1,0 +1,50 @@
+{
+glyphname = brevebelowcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{299.5, 0}";
+},
+{
+name = bottom;
+position = "{299.5, -160}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"364 -160 OFFCURVE",
+"409 -114 OFFCURVE",
+"416 -56 CURVE SMOOTH",
+"418 -40 OFFCURVE",
+"406 -28 OFFCURVE",
+"394 -28 CURVE SMOOTH",
+"384 -28 OFFCURVE",
+"373 -38 OFFCURVE",
+"371 -56 CURVE SMOOTH",
+"366 -105 OFFCURVE",
+"335 -129 OFFCURVE",
+"299 -129 CURVE SMOOTH",
+"264 -129 OFFCURVE",
+"231 -105 OFFCURVE",
+"228 -57 CURVE SMOOTH",
+"227 -39 OFFCURVE",
+"216 -29 OFFCURVE",
+"205 -29 CURVE SMOOTH",
+"193 -29 OFFCURVE",
+"181 -40 OFFCURVE",
+"183 -57 CURVE SMOOTH",
+"190 -114 OFFCURVE",
+"236 -160 OFFCURVE",
+"300 -160 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

@@ -1,0 +1,27 @@
+{
+glyphname = uni3231;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = parenleft;
+transform = "{1, 0, 0, 1, -10, 112}";
+},
+{
+alignment = -1;
+name = parenright;
+transform = "{1, 0, 0, 1, 724, 112}";
+},
+{
+alignment = -1;
+name = uni682A;
+transform = "{0.72775, 0, 0, 0.91933, 126, 31}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 3231;
+}

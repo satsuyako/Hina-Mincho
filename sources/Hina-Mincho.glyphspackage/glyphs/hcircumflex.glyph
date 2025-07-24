@@ -1,0 +1,21 @@
+{
+glyphname = hcircumflex;
+layers = (
+{
+components = (
+{
+name = h;
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, -184, -8}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 473;
+}
+);
+leftKerningGroup = h;
+rightKerningGroup = h;
+unicode = 0125;
+}

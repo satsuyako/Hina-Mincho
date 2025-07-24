@@ -1,0 +1,16 @@
+{
+glyphname = bracketright.rotat;
+layers = (
+{
+components = (
+{
+name = bracketright;
+transform = "{0, -1, 1, 0, 200, 910}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 282;
+width = 1000;
+}
+);
+}

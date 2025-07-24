@@ -1,0 +1,54 @@
+{
+glyphname = circumflexcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{300, 717}";
+},
+{
+name = top;
+position = "{300, 880}";
+},
+{
+name = topmigi;
+position = "{415, 795}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"229 743 OFFCURVE",
+"252 787 OFFCURVE",
+"300 837 CURVE",
+"348 787 OFFCURVE",
+"371 743 OFFCURVE",
+"391 743 CURVE SMOOTH",
+"406 743 OFFCURVE",
+"411 753 OFFCURVE",
+"411 761 CURVE SMOOTH",
+"411 777 OFFCURVE",
+"374 795 OFFCURVE",
+"326 873 CURVE SMOOTH",
+"318 886 OFFCURVE",
+"308 890 OFFCURVE",
+"300 890 CURVE SMOOTH",
+"292 890 OFFCURVE",
+"281 885 OFFCURVE",
+"274 873 CURVE SMOOTH",
+"228 794 OFFCURVE",
+"189 777 OFFCURVE",
+"189 761 CURVE SMOOTH",
+"189 753 OFFCURVE",
+"194 743 OFFCURVE",
+"209 743 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

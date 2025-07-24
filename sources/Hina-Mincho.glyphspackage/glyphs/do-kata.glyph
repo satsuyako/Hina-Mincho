@@ -1,0 +1,46 @@
+{
+glyphname = "do-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "to-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"690 467 OFFCURVE",
+"799 515 OFFCURVE",
+"616 617 CURVE SMOOTH",
+"584 634 OFFCURVE",
+"571 614 OFFCURVE",
+"593 599 CURVE",
+"657 558 OFFCURVE",
+"644 540 OFFCURVE",
+"662 511 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"788 522 OFFCURVE",
+"888 577 OFFCURVE",
+"703 667 CURVE SMOOTH",
+"672 682 OFFCURVE",
+"659 662 OFFCURVE",
+"681 649 CURVE SMOOTH",
+"747 609 OFFCURVE",
+"730 590 OFFCURVE",
+"751 565 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30C9;
+}

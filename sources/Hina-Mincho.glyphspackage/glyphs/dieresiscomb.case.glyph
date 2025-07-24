@@ -1,0 +1,55 @@
+{
+glyphname = dieresiscomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{300, 700}";
+},
+{
+name = top;
+position = "{300, 857}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"409 752 OFFCURVE",
+"433 776 OFFCURVE",
+"433 805 CURVE SMOOTH",
+"433 833 OFFCURVE",
+"409 857 OFFCURVE",
+"381 857 CURVE SMOOTH",
+"352 857 OFFCURVE",
+"328 833 OFFCURVE",
+"328 805 CURVE SMOOTH",
+"328 776 OFFCURVE",
+"352 752 OFFCURVE",
+"381 752 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"248 752 OFFCURVE",
+"272 776 OFFCURVE",
+"272 805 CURVE SMOOTH",
+"272 833 OFFCURVE",
+"248 857 OFFCURVE",
+"220 857 CURVE SMOOTH",
+"191 857 OFFCURVE",
+"167 833 OFFCURVE",
+"167 805 CURVE SMOOTH",
+"167 776 OFFCURVE",
+"191 752 OFFCURVE",
+"220 752 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

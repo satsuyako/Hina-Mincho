@@ -1,0 +1,21 @@
+{
+glyphname = idieresis;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dieresiscomb;
+transform = "{1, 0, 0, 1, -197, -320}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 225;
+}
+);
+leftKerningGroup = i;
+rightKerningGroup = i;
+unicode = 00EF;
+}

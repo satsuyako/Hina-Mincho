@@ -1,0 +1,47 @@
+{
+glyphname = "du-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "tu-kata";
+transform = "{1, 0, 0, 1, -40, -20}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"866 659 OFFCURVE",
+"978 702 OFFCURVE",
+"796 808 CURVE SMOOTH",
+"765 826 OFFCURVE",
+"752 807 OFFCURVE",
+"774 792 CURVE SMOOTH",
+"837 749 OFFCURVE",
+"823 730 OFFCURVE",
+"840 702 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"967 710 OFFCURVE",
+"1068 762 OFFCURVE",
+"885 857 CURVE SMOOTH",
+"854 873 OFFCURVE",
+"840 852 OFFCURVE",
+"862 839 CURVE SMOOTH",
+"929 800 OFFCURVE",
+"909 779 OFFCURVE",
+"931 753 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30C5;
+}

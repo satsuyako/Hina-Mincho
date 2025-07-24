@@ -1,0 +1,46 @@
+{
+glyphname = "za-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "sa-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"855 591 OFFCURVE",
+"967 635 OFFCURVE",
+"786 743 CURVE SMOOTH",
+"756 761 OFFCURVE",
+"742 741 OFFCURVE",
+"763 726 CURVE",
+"826 682 OFFCURVE",
+"812 665 OFFCURVE",
+"829 636 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"957 643 OFFCURVE",
+"1057 695 OFFCURVE",
+"874 790 CURVE SMOOTH",
+"843 806 OFFCURVE",
+"830 786 OFFCURVE",
+"852 772 CURVE",
+"917 731 OFFCURVE",
+"899 713 OFFCURVE",
+"920 687 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30B6;
+}

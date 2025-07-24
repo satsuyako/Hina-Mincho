@@ -1,0 +1,22 @@
+{
+glyphname = meizieraSquare;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = uni660E;
+transform = "{0.55689, 0, 0, 0.90503, -33, 37}";
+},
+{
+alignment = -1;
+name = uni6CBB;
+transform = "{0.55689, 0, 0, 0.90503, 441, 37}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 337E;
+}

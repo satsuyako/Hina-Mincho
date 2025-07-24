@@ -1,0 +1,251 @@
+{
+glyphname = uni672C;
+layers = (
+{
+hints = (
+{
+origin = "{0, 19}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 69}";
+target = "{0, 70}";
+type = Cap;
+name = _cap.tate;
+},
+{
+horizontal = 1;
+place = "{43.691, 23.58}";
+type = Stem;
+},
+{
+place = "{273.166, 117.898}";
+type = Stem;
+},
+{
+origin = "{0, 13}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+horizontal = 1;
+place = "{353.532, 8.284}";
+type = Stem;
+},
+{
+place = "{108.508, 41.42}";
+type = Stem;
+},
+{
+origin = "{0, 63}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 75}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"23 113 OFFCURVE",
+"26 88 OFFCURVE",
+"51 95 CURVE SMOOTH",
+"224 143 OFFCURVE",
+"367 280 OFFCURVE",
+"453 412 CURVE SMOOTH",
+"461 424 OFFCURVE",
+"471 420 OFFCURVE",
+"471 406 CURVE SMOOTH",
+"471 150 LINE SMOOTH",
+"471 131 OFFCURVE",
+"460 120 OFFCURVE",
+"441 120 CURVE SMOOTH",
+"413 120 LINE",
+"413 92 LINE",
+"441 92 LINE SMOOTH",
+"460 92 OFFCURVE",
+"471 81 OFFCURVE",
+"471 62 CURVE SMOOTH",
+"471 -18 LINE",
+"535 -18 LINE",
+"535 61 LINE SMOOTH",
+"535 80 OFFCURVE",
+"546 91 OFFCURVE",
+"565 91 CURVE SMOOTH",
+"701 92 LINE SMOOTH",
+"740 92 OFFCURVE",
+"745 120 OFFCURVE",
+"725 142 CURVE SMOOTH",
+"717 151 OFFCURVE",
+"708 159 OFFCURVE",
+"697 166 CURVE SMOOTH",
+"677 179 OFFCURVE",
+"651 177 OFFCURVE",
+"626 152 CURVE SMOOTH",
+"608 134 OFFCURVE",
+"602 124 OFFCURVE",
+"567 121 CURVE SMOOTH",
+"547 119 OFFCURVE",
+"535 132 OFFCURVE",
+"535 151 CURVE SMOOTH",
+"535 408 LINE SMOOTH",
+"535 423 OFFCURVE",
+"545 426 OFFCURVE",
+"552 412 CURVE SMOOTH",
+"621 276 OFFCURVE",
+"754 138 OFFCURVE",
+"865 94 CURVE SMOOTH",
+"880 88 OFFCURVE",
+"894 87 OFFCURVE",
+"898 105 CURVE SMOOTH",
+"901 119 OFFCURVE",
+"921 140 OFFCURVE",
+"967 140 CURVE SMOOTH",
+"987 140 OFFCURVE",
+"990 156 OFFCURVE",
+"971 161 CURVE SMOOTH",
+"807 206 OFFCURVE",
+"617 375 OFFCURVE",
+"550 526 CURVE SMOOTH",
+"539 550 OFFCURVE",
+"552 566 OFFCURVE",
+"578 566 CURVE SMOOTH",
+"746 568 LINE",
+"746 597 LINE",
+"570 597 LINE SMOOTH",
+"548 597 OFFCURVE",
+"535 610 OFFCURVE",
+"535 632 CURVE SMOOTH",
+"535 804 LINE",
+"471 804 LINE",
+"471 632 LINE SMOOTH",
+"471 610 OFFCURVE",
+"458 597 OFFCURVE",
+"436 597 CURVE SMOOTH",
+"249 597 LINE",
+"249 569 LINE",
+"406 569 LINE SMOOTH",
+"432 569 OFFCURVE",
+"444 553 OFFCURVE",
+"435 529 CURVE SMOOTH",
+"367 362 OFFCURVE",
+"207 182 OFFCURVE",
+"44 121 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.yoko.001;
+piece = {
+length = 704.14319;
+};
+transform = "{1, 0, 0, 1, 2, 263}";
+}
+);
+hints = (
+{
+origin = "{2, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{2, 2}";
+target = "{2, 3}";
+type = Cap;
+name = _cap.tate;
+},
+{
+horizontal = 1;
+place = "{43.691, 23.58}";
+type = Stem;
+},
+{
+place = "{273.166, 117.898}";
+type = Stem;
+},
+{
+origin = "{3, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{3, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "1E21A62E-00BB-4193-8E47-F9348B3C5F20";
+name = "Apr 21 20, 04:37";
+paths = (
+{
+closed = 1;
+nodes = (
+"770 216 OFFCURVE",
+"531 457 OFFCURVE",
+"525 623 CURVE",
+"504 599 LINE",
+"489 430 OFFCURVE",
+"700 160 OFFCURVE",
+"865 94 CURVE SMOOTH",
+"880 88 OFFCURVE",
+"894 87 OFFCURVE",
+"898 105 CURVE SMOOTH",
+"901 119 OFFCURVE",
+"921 140 OFFCURVE",
+"967 140 CURVE SMOOTH",
+"987 140 OFFCURVE",
+"990 156 OFFCURVE",
+"971 161 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"309 167 OFFCURVE",
+"499 434 OFFCURVE",
+"535 588 CURVE",
+"455 588 LINE",
+"406 407 OFFCURVE",
+"226 189 OFFCURVE",
+"44 121 CURVE SMOOTH",
+"23 113 OFFCURVE",
+"26 88 OFFCURVE",
+"51 95 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"471 -18 LINE",
+"535 -18 LINE",
+"535 804 LINE",
+"471 804 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"413 92 LINE",
+"564 91 LINE",
+"564 120 LINE",
+"413 120 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 672C;
+}

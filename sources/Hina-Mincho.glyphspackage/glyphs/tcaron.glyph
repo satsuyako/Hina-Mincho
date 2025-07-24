@@ -1,0 +1,21 @@
+{
+glyphname = tcaron;
+layers = (
+{
+components = (
+{
+name = t;
+},
+{
+name = caroncomb.alt;
+transform = "{1, 0, 0, 1, -167, -204}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 280;
+}
+);
+leftKerningGroup = t;
+rightKerningGroup = t;
+unicode = 0165;
+}

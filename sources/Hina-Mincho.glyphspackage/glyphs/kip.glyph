@@ -1,0 +1,25 @@
+{
+glyphname = kip;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = K;
+transform = "{0.92309, 0, 0, 1, 0, 0}";
+},
+{
+alignment = -1;
+name = _part.yokosen;
+piece = {
+nagasa = 35;
+};
+transform = "{1, 0, 0, 1, -8, 13}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 698;
+}
+);
+unicode = 20AD;
+}

@@ -1,0 +1,233 @@
+{
+export = 0;
+glyphname = _part.kanji.007;
+layers = (
+{
+anchors = (
+{
+name = tension;
+position = "{209, 220}";
+},
+{
+name = ue;
+position = "{249, 810}";
+},
+{
+name = yoko;
+position = "{216, -63}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"281 627 OFFCURVE",
+"282 718 OFFCURVE",
+"282 809 CURVE",
+"218 809 LINE",
+"218 739 OFFCURVE",
+"216 659 OFFCURVE",
+"216 559 CURVE SMOOTH",
+"216 345 OFFCURVE",
+"186 99 OFFCURVE",
+"75 -16 CURVE SMOOTH",
+"47 -46 OFFCURVE",
+"35 -54 OFFCURVE",
+"41 -65 CURVE SMOOTH",
+"47 -76 OFFCURVE",
+"61 -76 OFFCURVE",
+"84 -54 CURVE SMOOTH",
+"233 82 OFFCURVE",
+"270 281 OFFCURVE",
+"279 548 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tension = 1;
+ue = 1;
+yoko = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = tension;
+position = "{209, 220}";
+},
+{
+name = ue;
+position = "{249, 810}";
+},
+{
+name = yoko;
+position = "{144, -51}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "35EC4D1E-E1D0-4640-85AC-43316CC9B31D";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"200 627 OFFCURVE",
+"200 718 OFFCURVE",
+"200 809 CURVE",
+"136 809 LINE",
+"136 739 OFFCURVE",
+"136 659 OFFCURVE",
+"136 559 CURVE SMOOTH",
+"136 324 OFFCURVE",
+"134 109 OFFCURVE",
+"73 -3 CURVE SMOOTH",
+"54 -38 OFFCURVE",
+"35 -55 OFFCURVE",
+"43 -67 CURVE SMOOTH",
+"50 -78 OFFCURVE",
+"63 -76 OFFCURVE",
+"82 -50 CURVE SMOOTH",
+"181 86 OFFCURVE",
+"200 291 OFFCURVE",
+"200 548 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = tension;
+position = "{209, 220}";
+},
+{
+name = ue;
+position = "{249, 582}";
+},
+{
+name = yoko;
+position = "{216, -63}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "4C089A81-5591-417C-AF01-DAA7E318D3AE";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"279 410 OFFCURVE",
+"282 491 OFFCURVE",
+"282 582 CURVE",
+"218 582 LINE",
+"218 512 OFFCURVE",
+"215 442 OFFCURVE",
+"215 372 CURVE SMOOTH",
+"215 191 OFFCURVE",
+"172 36 OFFCURVE",
+"78 -24 CURVE SMOOTH",
+"55 -39 OFFCURVE",
+"36 -49 OFFCURVE",
+"39 -61 CURVE SMOOTH",
+"42 -73 OFFCURVE",
+"57 -74 OFFCURVE",
+"85 -59 CURVE SMOOTH",
+"201 3 OFFCURVE",
+"279 149 OFFCURVE",
+"279 361 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+ue = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = tension;
+position = "{219, 156}";
+},
+{
+name = ue;
+position = "{249, 810}";
+},
+{
+name = yoko;
+position = "{216, -63}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "5C5AEE37-4A3E-4A3E-A2F4-FEBEAC867E88";
+name = tension;
+paths = (
+{
+closed = 1;
+nodes = (
+"280 657 OFFCURVE",
+"282 718 OFFCURVE",
+"282 809 CURVE",
+"218 809 LINE",
+"218 739 OFFCURVE",
+"217 689 OFFCURVE",
+"217 589 CURVE SMOOTH",
+"217 358 OFFCURVE",
+"233 73 OFFCURVE",
+"75 -26 CURVE SMOOTH",
+"40 -48 OFFCURVE",
+"30 -56 OFFCURVE",
+"35 -67 CURVE SMOOTH",
+"40 -78 OFFCURVE",
+"57 -74 OFFCURVE",
+"84 -57 CURVE SMOOTH",
+"281 69 OFFCURVE",
+"280 284 OFFCURVE",
+"280 578 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tension = 2;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = ue;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = tension;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+},
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

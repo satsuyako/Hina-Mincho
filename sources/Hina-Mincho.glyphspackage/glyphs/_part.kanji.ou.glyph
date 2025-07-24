@@ -1,0 +1,330 @@
+{
+export = 0;
+glyphname = _part.kanji.ou;
+layers = (
+{
+anchors = (
+{
+name = tate;
+position = "{502, 127}";
+},
+{
+name = yoko;
+position = "{661, 137}";
+}
+);
+hints = (
+{
+origin = "{1, 12}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{2, 12}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{3, 12}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"470 -74 LINE",
+"534 -74 LINE",
+"534 117 LINE",
+"470 117 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"494 13 LINE",
+"527 12 LINE",
+"654 13 LINE SMOOTH",
+"693 13 OFFCURVE",
+"698 31 OFFCURVE",
+"678 53 CURVE SMOOTH",
+"650 83 OFFCURVE",
+"627 101 OFFCURVE",
+"589 63 CURVE SMOOTH",
+"575 49 OFFCURVE",
+"557 41 OFFCURVE",
+"527 41 CURVE SMOOTH",
+"494 41 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 -88 LINE",
+"591 -89 LINE",
+"728 -88 LINE SMOOTH",
+"767 -88 OFFCURVE",
+"772 -60 OFFCURVE",
+"752 -38 CURVE SMOOTH",
+"724 -8 OFFCURVE",
+"691 10 OFFCURVE",
+"653 -28 CURVE SMOOTH",
+"639 -42 OFFCURVE",
+"621 -60 OFFCURVE",
+"591 -60 CURVE",
+"420 -60 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"457 110 LINE",
+"545 109 LINE",
+"682 110 LINE SMOOTH",
+"721 110 OFFCURVE",
+"726 138 OFFCURVE",
+"706 160 CURVE SMOOTH",
+"678 190 OFFCURVE",
+"645 208 OFFCURVE",
+"607 170 CURVE SMOOTH",
+"593 156 OFFCURVE",
+"575 138 OFFCURVE",
+"545 138 CURVE",
+"457 138 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 1;
+yoko = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = tate;
+position = "{502, 127}";
+},
+{
+name = yoko;
+position = "{861, 137}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{1, 12}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{2, 12}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{3, 12}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "5EDCCABD-A9A1-4106-8A8A-394BF97A3793";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"470 -74 LINE",
+"534 -74 LINE",
+"534 117 LINE",
+"470 117 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"354 13 LINE",
+"677 12 LINE",
+"804 13 LINE SMOOTH",
+"843 13 OFFCURVE",
+"848 31 OFFCURVE",
+"828 53 CURVE SMOOTH",
+"800 83 OFFCURVE",
+"777 101 OFFCURVE",
+"739 63 CURVE SMOOTH",
+"725 49 OFFCURVE",
+"707 41 OFFCURVE",
+"677 41 CURVE SMOOTH",
+"354 41 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"170 -88 LINE",
+"851 -89 LINE",
+"988 -88 LINE SMOOTH",
+"1027 -88 OFFCURVE",
+"1032 -60 OFFCURVE",
+"1012 -38 CURVE SMOOTH",
+"984 -8 OFFCURVE",
+"951 10 OFFCURVE",
+"913 -28 CURVE SMOOTH",
+"899 -42 OFFCURVE",
+"881 -60 OFFCURVE",
+"851 -60 CURVE",
+"170 -60 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"277 110 LINE",
+"735 109 LINE",
+"872 110 LINE SMOOTH",
+"911 110 OFFCURVE",
+"916 138 OFFCURVE",
+"896 160 CURVE SMOOTH",
+"868 190 OFFCURVE",
+"835 208 OFFCURVE",
+"797 170 CURVE SMOOTH",
+"783 156 OFFCURVE",
+"765 138 OFFCURVE",
+"735 138 CURVE",
+"277 138 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = tate;
+position = "{502, 807}";
+},
+{
+name = yoko;
+position = "{661, 818}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{1, 12}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{2, 12}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{3, 12}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "EAF60039-6C98-4F9C-87E5-4FD30CB4310A";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"470 -74 LINE",
+"534 -74 LINE",
+"534 797 LINE",
+"470 797 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"494 353 LINE",
+"527 352 LINE",
+"654 353 LINE SMOOTH",
+"693 353 OFFCURVE",
+"698 381 OFFCURVE",
+"678 403 CURVE SMOOTH",
+"650 433 OFFCURVE",
+"627 441 OFFCURVE",
+"589 403 CURVE SMOOTH",
+"575 389 OFFCURVE",
+"557 381 OFFCURVE",
+"527 381 CURVE SMOOTH",
+"494 381 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"420 -88 LINE",
+"591 -89 LINE",
+"728 -88 LINE SMOOTH",
+"767 -88 OFFCURVE",
+"772 -60 OFFCURVE",
+"752 -38 CURVE SMOOTH",
+"724 -8 OFFCURVE",
+"691 10 OFFCURVE",
+"653 -28 CURVE SMOOTH",
+"639 -42 OFFCURVE",
+"621 -60 OFFCURVE",
+"591 -60 CURVE",
+"420 -60 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"457 790 LINE",
+"545 789 LINE",
+"682 790 LINE SMOOTH",
+"721 790 OFFCURVE",
+"726 818 OFFCURVE",
+"706 840 CURVE SMOOTH",
+"678 870 OFFCURVE",
+"645 888 OFFCURVE",
+"607 850 CURVE SMOOTH",
+"593 836 OFFCURVE",
+"575 818 OFFCURVE",
+"545 818 CURVE",
+"457 818 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 2;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = tate;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

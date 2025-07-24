@@ -1,0 +1,245 @@
+{
+glyphname = uni82EB;
+layers = (
+{
+hints = (
+{
+origin = "{0, 43}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 37}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 40}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 30}";
+type = Cap;
+name = _cap.tate;
+},
+{
+horizontal = 1;
+place = "{480.26, 5.88}";
+type = Stem;
+},
+{
+place = "{69.6, 29.4}";
+type = Stem;
+},
+{
+origin = "{1, 24}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 46}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"206 -70 OFFCURVE",
+"214 -77 OFFCURVE",
+"226 -77 CURVE SMOOTH",
+"246 -77 OFFCURVE",
+"270 -61 OFFCURVE",
+"270 -36 CURVE SMOOTH",
+"270 -17 OFFCURVE",
+"283 -7 OFFCURVE",
+"305 -7 CURVE SMOOTH",
+"702 -7 LINE SMOOTH",
+"725 -7 OFFCURVE",
+"737 -23 OFFCURVE",
+"737 -46 CURVE SMOOTH",
+"737 -60 OFFCURVE",
+"738 -77 OFFCURVE",
+"759 -77 CURVE SMOOTH",
+"779 -77 OFFCURVE",
+"804 -64 OFFCURVE",
+"804 -36 CURVE SMOOTH",
+"804 215 LINE SMOOTH",
+"804 252 OFFCURVE",
+"833 246 OFFCURVE",
+"833 268 CURVE SMOOTH",
+"833 284 OFFCURVE",
+"795 322 OFFCURVE",
+"761 322 CURVE SMOOTH",
+"740 322 OFFCURVE",
+"726 293 OFFCURVE",
+"701 293 CURVE SMOOTH",
+"546 293 LINE SMOOTH",
+"524 293 OFFCURVE",
+"511 306 OFFCURVE",
+"511 328 CURVE SMOOTH",
+"511 411 LINE SMOOTH",
+"511 433 OFFCURVE",
+"524 446 OFFCURVE",
+"546 446 CURVE SMOOTH",
+"705 445 LINE",
+"705 474 LINE",
+"546 474 LINE SMOOTH",
+"524 474 OFFCURVE",
+"511 487 OFFCURVE",
+"511 509 CURVE SMOOTH",
+"511 600 LINE",
+"447 600 LINE",
+"447 328 LINE SMOOTH",
+"447 306 OFFCURVE",
+"434 293 OFFCURVE",
+"412 293 CURVE SMOOTH",
+"291 293 LINE SMOOTH",
+"277 293 OFFCURVE",
+"263 319 OFFCURVE",
+"221 319 CURVE SMOOTH",
+"214 319 OFFCURVE",
+"206 318 OFFCURVE",
+"206 308 CURVE SMOOTH",
+"206 -54 LINE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"334 722 LINE SMOOTH",
+"343 722 OFFCURVE",
+"348 716 OFFCURVE",
+"348 707 CURVE SMOOTH",
+"347 664 LINE SMOOTH",
+"346 621 OFFCURVE",
+"416 638 OFFCURVE",
+"414 680 CURVE SMOOTH",
+"413 707 LINE SMOOTH",
+"413 716 OFFCURVE",
+"419 722 OFFCURVE",
+"428 722 CURVE SMOOTH",
+"572 721 LINE SMOOTH",
+"581 721 OFFCURVE",
+"586 715 OFFCURVE",
+"586 706 CURVE SMOOTH",
+"585 664 LINE SMOOTH",
+"584 621 OFFCURVE",
+"654 638 OFFCURVE",
+"652 680 CURVE SMOOTH",
+"651 706 LINE SMOOTH",
+"651 715 OFFCURVE",
+"657 721 OFFCURVE",
+"666 721 CURVE SMOOTH",
+"761 721 LINE",
+"761 750 LINE",
+"666 750 LINE SMOOTH",
+"657 750 OFFCURVE",
+"651 756 OFFCURVE",
+"651 765 CURVE SMOOTH",
+"651 797 LINE",
+"587 797 LINE",
+"587 765 LINE SMOOTH",
+"587 756 OFFCURVE",
+"581 750 OFFCURVE",
+"572 750 CURVE SMOOTH",
+"428 750 LINE SMOOTH",
+"419 750 OFFCURVE",
+"413 756 OFFCURVE",
+"413 765 CURVE SMOOTH",
+"413 797 LINE",
+"349 797 LINE",
+"349 765 LINE SMOOTH",
+"349 756 OFFCURVE",
+"343 750 OFFCURVE",
+"334 750 CURVE SMOOTH",
+"210 750 LINE",
+"210 722 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"270 231 LINE SMOOTH",
+"270 253 OFFCURVE",
+"283 266 OFFCURVE",
+"305 266 CURVE SMOOTH",
+"705 266 LINE SMOOTH",
+"727 266 OFFCURVE",
+"740 253 OFFCURVE",
+"740 231 CURVE SMOOTH",
+"740 55 LINE SMOOTH",
+"740 33 OFFCURVE",
+"727 20 OFFCURVE",
+"705 20 CURVE SMOOTH",
+"305 21 LINE SMOOTH",
+"283 21 OFFCURVE",
+"270 34 OFFCURVE",
+"270 56 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.kusakanmuri;
+piece = {
+ue = 77.45423;
+};
+},
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+tate = 174.81952;
+yoko = 431.96011;
+};
+transform = "{1, 0, 0, 1, 1, -260}";
+}
+);
+hints = (
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 1}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "CF952239-2908-4E8C-9CB8-43A166AFFE80";
+name = "Jul 5 20, 04:45";
+paths = (
+{
+closed = 1;
+nodes = (
+"447 279 LINE",
+"511 279 LINE",
+"511 600 LINE",
+"447 600 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"484 446 LINE",
+"705 445 LINE",
+"705 474 LINE",
+"484 474 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 82EB;
+}

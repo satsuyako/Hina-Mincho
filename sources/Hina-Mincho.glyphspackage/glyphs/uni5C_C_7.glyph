@@ -1,0 +1,65 @@
+{
+glyphname = uni5CC7;
+layers = (
+{
+components = (
+{
+name = _part.kanji.hitoyane;
+piece = {
+tate = 279.67441;
+yoko = 395;
+};
+transform = "{1, 0, 0, 1, 0, -208}";
+},
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+geta2 = -11.97296;
+tate = 37.76896;
+yoko = 180.4726;
+};
+transform = "{1, 0, 0, 1, -31, -286}";
+},
+{
+name = _part.kanji.yamakanmuri;
+piece = {
+shita = 69.11102;
+yoko = 107.78801;
+};
+transform = "{1, 0, 0, 1, -20, -1}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"612 289 LINE SMOOTH",
+"651 289 OFFCURVE",
+"656 317 OFFCURVE",
+"636 339 CURVE SMOOTH",
+"609 370 OFFCURVE",
+"575 387 OFFCURVE",
+"537 349 CURVE SMOOTH",
+"523 335 OFFCURVE",
+"505 317 OFFCURVE",
+"475 317 CURVE SMOOTH",
+"456 317 LINE SMOOTH",
+"426 317 OFFCURVE",
+"399 319 OFFCURVE",
+"335 323 CURVE SMOOTH",
+"306 325 OFFCURVE",
+"307 281 OFFCURVE",
+"335 283 CURVE SMOOTH",
+"395 287 OFFCURVE",
+"418 288 OFFCURVE",
+"456 288 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 5CC7;
+}

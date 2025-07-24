@@ -1,0 +1,28 @@
+{
+glyphname = Acircumflexhookabove;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = A;
+},
+{
+alignment = -1;
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 95, -17}";
+},
+{
+alignment = -1;
+name = hookabovecomb.case;
+transform = "{1, 0, 0, 1, 215, 78}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 790;
+}
+);
+leftKerningGroup = A;
+rightKerningGroup = A;
+unicode = 1EA8;
+}

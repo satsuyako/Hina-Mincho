@@ -1,0 +1,16 @@
+{
+glyphname = quotedblbase.rotat;
+layers = (
+{
+components = (
+{
+name = quotedblbase;
+transform = "{0, -1, 1, 0, 910, 873}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 299;
+width = 1000;
+}
+);
+}

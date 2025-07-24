@@ -1,0 +1,89 @@
+{
+glyphname = uni4F01;
+layers = (
+{
+components = (
+{
+name = _part.kanji.hitoyane;
+piece = {
+tate = 350.32791;
+ue = 96.60714;
+yoko = 399.64212;
+};
+transform = "{1, 0, 0, 1, -10, -7}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 16}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 26}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 32}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"725 -36 LINE",
+"725 -7 LINE",
+"565 -7 LINE SMOOTH",
+"543 -7 OFFCURVE",
+"530 6 OFFCURVE",
+"530 28 CURVE SMOOTH",
+"530 222 LINE SMOOTH",
+"530 244 OFFCURVE",
+"543 257 OFFCURVE",
+"565 257 CURVE SMOOTH",
+"612 256 LINE",
+"612 285 LINE",
+"565 285 LINE SMOOTH",
+"543 285 OFFCURVE",
+"530 298 OFFCURVE",
+"530 320 CURVE SMOOTH",
+"530 512 LINE",
+"466 512 LINE",
+"466 28 LINE SMOOTH",
+"466 6 OFFCURVE",
+"453 -7 OFFCURVE",
+"431 -7 CURVE SMOOTH",
+"358 -7 LINE SMOOTH",
+"336 -7 OFFCURVE",
+"323 6 OFFCURVE",
+"323 28 CURVE SMOOTH",
+"323 332 LINE",
+"259 332 LINE",
+"259 28 LINE SMOOTH",
+"259 6 OFFCURVE",
+"246 -7 OFFCURVE",
+"224 -7 CURVE SMOOTH",
+"179 -7 LINE",
+"179 -35 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4F01;
+}

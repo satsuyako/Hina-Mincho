@@ -1,0 +1,22 @@
+{
+glyphname = Aring.rotat;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = A;
+transform = "{0, -1, 1, 0, 100, 880}";
+},
+{
+alignment = -1;
+name = ringcomb.case;
+transform = "{0, -1, 1, 0, 100, 785}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 790;
+width = 1000;
+}
+);
+}

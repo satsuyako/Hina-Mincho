@@ -1,0 +1,21 @@
+{
+glyphname = Wcircumflex;
+layers = (
+{
+components = (
+{
+name = W;
+},
+{
+name = circumflexcomb.case;
+transform = "{1, 0, 0, 1, 245, -17}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1090;
+}
+);
+leftKerningGroup = W;
+rightKerningGroup = W;
+unicode = 0174;
+}

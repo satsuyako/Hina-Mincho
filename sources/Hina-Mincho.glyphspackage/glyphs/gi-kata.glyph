@@ -1,0 +1,46 @@
+{
+glyphname = "gi-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "ki-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"827 580 OFFCURVE",
+"936 633 OFFCURVE",
+"747 726 CURVE SMOOTH",
+"715 741 OFFCURVE",
+"702 720 OFFCURVE",
+"725 707 CURVE SMOOTH",
+"792 668 OFFCURVE",
+"779 650 OFFCURVE",
+"798 622 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"925 641 OFFCURVE",
+"1021 702 OFFCURVE",
+"831 780 CURVE SMOOTH",
+"798 793 OFFCURVE",
+"787 773 OFFCURVE",
+"810 761 CURVE SMOOTH",
+"878 724 OFFCURVE",
+"862 705 OFFCURVE",
+"885 681 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30AE;
+}

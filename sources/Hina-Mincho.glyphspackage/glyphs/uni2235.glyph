@@ -1,0 +1,16 @@
+{
+glyphname = uni2235;
+layers = (
+{
+components = (
+{
+name = therefore;
+transform = "{1, 0, 0, -1, 0, 761}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 2235;
+}

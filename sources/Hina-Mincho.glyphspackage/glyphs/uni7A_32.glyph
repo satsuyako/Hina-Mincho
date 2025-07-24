@@ -1,0 +1,131 @@
+{
+glyphname = uni7A32;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.nogihen;
+transform = "{1, 0, 0, 1, -10, 0}";
+},
+{
+alignment = -1;
+name = _part.kanji.hi;
+piece = {
+tate = 128.21806;
+yoko = 56.41888;
+};
+transform = "{1, 0, 0, 1, 585, -191}";
+}
+);
+hints = (
+{
+origin = "{4, 2}";
+target = "{4, 3}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{4, 0}";
+target = "{4, 1}";
+type = Cap;
+name = _cap.tate.002;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"564 714 OFFCURVE",
+"753 721 OFFCURVE",
+"903 771 CURVE SMOOTH",
+"915 775 OFFCURVE",
+"929 780 OFFCURVE",
+"936 772 CURVE SMOOTH",
+"949 758 OFFCURVE",
+"960 765 OFFCURVE",
+"961 778 CURVE SMOOTH",
+"965 836 OFFCURVE",
+"915 861 OFFCURVE",
+"867 837 CURVE SMOOTH",
+"753 779 OFFCURVE",
+"577 758 OFFCURVE",
+"432 758 CURVE SMOOTH",
+"406 758 OFFCURVE",
+"409 731 OFFCURVE",
+"431 729 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"465 629 OFFCURVE",
+"479 580 OFFCURVE",
+"499 518 CURVE SMOOTH",
+"511 481 OFFCURVE",
+"570 507 OFFCURVE",
+"557 553 CURVE SMOOTH",
+"541 610 OFFCURVE",
+"503 656 OFFCURVE",
+"447 689 CURVE SMOOTH",
+"431 698 OFFCURVE",
+"422 679 OFFCURVE",
+"431 668 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"629 637 OFFCURVE",
+"641 597 OFFCURVE",
+"656 540 CURVE SMOOTH",
+"666 503 OFFCURVE",
+"729 517 OFFCURVE",
+"719 565 CURVE SMOOTH",
+"711 605 OFFCURVE",
+"667 671 OFFCURVE",
+"630 691 CURVE SMOOTH",
+"614 700 OFFCURVE",
+"605 684 OFFCURVE",
+"611 672 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"744 493 OFFCURVE",
+"760 480 OFFCURVE",
+"777 496 CURVE SMOOTH",
+"814 530 OFFCURVE",
+"866 579 OFFCURVE",
+"896 636 CURVE SMOOTH",
+"911 664 OFFCURVE",
+"919 667 OFFCURVE",
+"929 662 CURVE SMOOTH",
+"939 657 OFFCURVE",
+"950 665 OFFCURVE",
+"938 684 CURVE SMOOTH",
+"918 716 OFFCURVE",
+"851 733 OFFCURVE",
+"837 678 CURVE SMOOTH",
+"821 615 OFFCURVE",
+"789 550 OFFCURVE",
+"758 511 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"443 0 LINE",
+"507 0 LINE",
+"507 410 LINE",
+"443 410 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 7A32;
+}

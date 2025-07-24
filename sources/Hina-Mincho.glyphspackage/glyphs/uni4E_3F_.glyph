@@ -1,0 +1,34 @@
+{
+glyphname = uni4E3F;
+layers = (
+{
+hints = (
+{
+origin = "{0, 5}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"181 -52 OFFCURVE",
+"192 -79 OFFCURVE",
+"225 -63 CURVE SMOOTH",
+"532 83 OFFCURVE",
+"543 358 OFFCURVE",
+"533 789 CURVE",
+"469 789 LINE",
+"479 482 OFFCURVE",
+"496 90 OFFCURVE",
+"212 -38 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4E3F;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = brevecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{299.5, 700}";
+},
+{
+name = top;
+position = "{300, 860}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"364 738 OFFCURVE",
+"409 784 OFFCURVE",
+"416 842 CURVE SMOOTH",
+"418 858 OFFCURVE",
+"406 870 OFFCURVE",
+"394 870 CURVE SMOOTH",
+"384 870 OFFCURVE",
+"373 860 OFFCURVE",
+"371 842 CURVE SMOOTH",
+"366 793 OFFCURVE",
+"335 769 OFFCURVE",
+"299 769 CURVE SMOOTH",
+"264 769 OFFCURVE",
+"231 793 OFFCURVE",
+"228 841 CURVE SMOOTH",
+"227 859 OFFCURVE",
+"216 869 OFFCURVE",
+"205 869 CURVE SMOOTH",
+"193 869 OFFCURVE",
+"181 858 OFFCURVE",
+"183 841 CURVE SMOOTH",
+"190 784 OFFCURVE",
+"236 738 OFFCURVE",
+"300 738 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

@@ -1,0 +1,44 @@
+{
+glyphname = tildecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{305, 700}";
+},
+{
+name = top;
+position = "{305, 856}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"211 826 OFFCURVE",
+"251 813 OFFCURVE",
+"282 778 CURVE SMOOTH",
+"318 737 OFFCURVE",
+"416 710 OFFCURVE",
+"440 815 CURVE SMOOTH",
+"446 841 OFFCURVE",
+"415 837 OFFCURVE",
+"412 816 CURVE SMOOTH",
+"403 756 OFFCURVE",
+"375 767 OFFCURVE",
+"319 815 CURVE SMOOTH",
+"267 859 OFFCURVE",
+"193 839 OFFCURVE",
+"171 770 CURVE SMOOTH",
+"160 735 OFFCURVE",
+"194 731 OFFCURVE",
+"200 765 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

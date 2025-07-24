@@ -1,0 +1,153 @@
+{
+glyphname = uni82D3;
+layers = (
+{
+components = (
+{
+name = _part.kanji.hitoyane;
+piece = {
+tate = 196.97557;
+yoko = 413.79013;
+};
+transform = "{1, 0, 0, 1, -3, -149}";
+},
+{
+alignment = -1;
+name = _part.yoko.001;
+transform = "{1, 0, 0, 1, -68, 47}";
+},
+{
+alignment = -1;
+name = _part.kanji.kusakanmuri;
+piece = {
+ue = 38.72712;
+};
+}
+);
+hints = (
+{
+origin = "{0, 4}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 44}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"405 254 LINE SMOOTH",
+"427 254 OFFCURVE",
+"440 241 OFFCURVE",
+"440 219 CURVE SMOOTH",
+"440 -18 LINE",
+"504 -18 LINE",
+"504 219 LINE SMOOTH",
+"504 241 OFFCURVE",
+"517 254 OFFCURVE",
+"539 254 CURVE SMOOTH",
+"651 254 LINE SMOOTH",
+"673 254 OFFCURVE",
+"686 241 OFFCURVE",
+"686 219 CURVE SMOOTH",
+"688 153 OFFCURVE",
+"688 85 OFFCURVE",
+"665 81 CURVE SMOOTH",
+"645 77 OFFCURVE",
+"594 90 OFFCURVE",
+"566 94 CURVE SMOOTH",
+"540 98 OFFCURVE",
+"538 70 OFFCURVE",
+"564 66 CURVE SMOOTH",
+"593 62 OFFCURVE",
+"636 53 OFFCURVE",
+"647 25 CURVE SMOOTH",
+"650 16 OFFCURVE",
+"649 7 OFFCURVE",
+"662 -1 CURVE SMOOTH",
+"681 -13 OFFCURVE",
+"715 -7 OFFCURVE",
+"735 28 CURVE SMOOTH",
+"748 52 OFFCURVE",
+"752 139 OFFCURVE",
+"750 203 CURVE SMOOTH",
+"750 240 OFFCURVE",
+"779 234 OFFCURVE",
+"779 256 CURVE SMOOTH",
+"779 272 OFFCURVE",
+"731 310 OFFCURVE",
+"707 310 CURVE SMOOTH",
+"686 310 OFFCURVE",
+"672 282 OFFCURVE",
+"647 282 CURVE SMOOTH",
+"327 282 LINE",
+"327 254 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+name = _part.kanji.hitoyane;
+piece = {
+tate = 196.97557;
+yoko = 413.79013;
+};
+transform = "{1, 0, 0, 1, -3, -149}";
+},
+{
+alignment = -1;
+name = _part.yoko.001;
+transform = "{1, 0, 0, 1, -68, 47}";
+},
+{
+alignment = -1;
+name = _part.kanji.katana_1;
+piece = {
+hane = 20;
+tate = 56.78094;
+yoko = 216.43202;
+};
+transform = "{1, 0, 0, 1, -217, -567}";
+},
+{
+alignment = -1;
+name = _part.kanji.kusakanmuri;
+piece = {
+ue = 38.72712;
+};
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+type = Cap;
+name = _cap.tate.002;
+}
+);
+layerId = "BF6E1971-21FD-45CC-BC9C-FDC2EEFC42C5";
+name = "May 27 20, 23:06";
+paths = (
+{
+closed = 1;
+nodes = (
+"440 -18 LINE",
+"504 -18 LINE",
+"504 262 LINE",
+"440 262 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 82D3;
+}

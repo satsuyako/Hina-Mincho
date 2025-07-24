@@ -1,0 +1,23 @@
+{
+glyphname = AEacute;
+layers = (
+{
+components = (
+{
+name = AE;
+},
+{
+name = acutecomb.case;
+transform = "{1, 0, 0, 1, 278, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 966;
+}
+);
+leftKerningGroup = A;
+leftMetricsKey = A;
+rightKerningGroup = E;
+rightMetricsKey = E;
+unicode = 01FC;
+}

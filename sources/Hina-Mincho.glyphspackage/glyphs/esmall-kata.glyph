@@ -1,0 +1,17 @@
+{
+glyphname = "esmall-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "e-kata";
+transform = "{0.83333, 0, 0, 0.83333, 73, -68}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 30A7;
+}

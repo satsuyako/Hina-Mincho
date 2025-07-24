@@ -1,0 +1,48 @@
+{
+glyphname = uni7167;
+layers = (
+{
+components = (
+{
+name = _part.kanji.hi;
+piece = {
+geta = 70;
+tate = 195.0845;
+yoko = 36;
+};
+transform = "{1, 0, 0, 1, 115, 106}";
+},
+{
+name = _part.kanji.katana;
+piece = {
+tate = 75.19818;
+yoko = 47.85988;
+};
+transform = "{1, 0, 0, 1, -72, -20}";
+},
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+geta = 70;
+tate = 76.38911;
+yoko = 54.23387;
+};
+transform = "{1, 0, 0, 1, 157, -51}";
+},
+{
+alignment = -1;
+name = _part.kanji.rekka;
+piece = {
+tate = 63.97939;
+yoko = 191.32813;
+};
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 7167;
+}

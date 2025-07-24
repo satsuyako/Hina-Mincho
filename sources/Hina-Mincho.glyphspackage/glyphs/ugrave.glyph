@@ -1,0 +1,21 @@
+{
+glyphname = ugrave;
+layers = (
+{
+components = (
+{
+name = u;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, -80, -318}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 440;
+}
+);
+leftKerningGroup = u;
+rightKerningGroup = u;
+unicode = 00F9;
+}

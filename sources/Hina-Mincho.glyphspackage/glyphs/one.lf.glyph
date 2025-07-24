@@ -1,0 +1,16 @@
+{
+glyphname = one.lf;
+layers = (
+{
+components = (
+{
+name = one;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 500;
+}
+);
+leftKerningGroup = "1";
+rightKerningGroup = "1";
+}

@@ -1,0 +1,71 @@
+{
+glyphname = uni82A5;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.kusakanmuri;
+piece = {
+ue = 47.92061;
+};
+},
+{
+name = _part.kanji.hitoyane;
+piece = {
+tate = 247.38037;
+ue = 96.60714;
+yoko = 362.96503;
+};
+transform = "{1, 0, 0, 1, 0, -157}";
+}
+);
+hints = (
+{
+origin = "{0, 1}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 3}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 5}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"617 -5 LINE",
+"617 352 LINE",
+"553 352 LINE",
+"553 -5 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"146 -46 OFFCURVE",
+"159 -70 OFFCURVE",
+"194 -56 CURVE SMOOTH",
+"379 20 OFFCURVE",
+"400 121 OFFCURVE",
+"400 352 CURVE",
+"336 352 LINE",
+"336 275 OFFCURVE",
+"361 46 OFFCURVE",
+"179 -32 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 82A5;
+}

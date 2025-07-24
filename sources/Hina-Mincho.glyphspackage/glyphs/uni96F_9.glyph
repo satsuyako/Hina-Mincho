@@ -1,0 +1,130 @@
+{
+glyphname = uni96F9;
+layers = (
+{
+components = (
+{
+name = _part.kanji.onore2;
+piece = {
+center = 74.63722;
+hidari = -275.84711;
+migishita = -320.71146;
+migiue = 571.25714;
+tate = 458.36636;
+};
+transform = "{1, 0, 0, 1, 210, -33}";
+},
+{
+name = _part.kanji.amekanmuri;
+piece = {
+tate = -93.07092;
+};
+transform = "{1, 0, 0, 1, 0, 28}";
+}
+);
+hints = (
+{
+origin = "{0, 30}";
+type = Corner;
+name = _corner.kanji.90;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"70 156 OFFCURVE",
+"90 140 OFFCURVE",
+"109 158 CURVE SMOOTH",
+"165 211 OFFCURVE",
+"220 279 OFFCURVE",
+"256 343 CURVE SMOOTH",
+"270 368 OFFCURVE",
+"273 364 OFFCURVE",
+"296 364 CURVE SMOOTH",
+"694 364 LINE SMOOTH",
+"722 364 OFFCURVE",
+"736 348 OFFCURVE",
+"740 320 CURVE SMOOTH",
+"744 293 OFFCURVE",
+"736 193 OFFCURVE",
+"729 170 CURVE SMOOTH",
+"702 83 OFFCURVE",
+"668 85 OFFCURVE",
+"573 110 CURVE SMOOTH",
+"551 116 OFFCURVE",
+"538 86 OFFCURVE",
+"568 77 CURVE SMOOTH",
+"682 44 OFFCURVE",
+"617 37 OFFCURVE",
+"664 10 CURVE SMOOTH",
+"687 -3 OFFCURVE",
+"740 21 OFFCURVE",
+"774 102 CURVE SMOOTH",
+"806 179 OFFCURVE",
+"816 279 OFFCURVE",
+"802 391 CURVE",
+"300 391 LINE SMOOTH",
+"285 391 OFFCURVE",
+"283 398 OFFCURVE",
+"288 410 CURVE SMOOTH",
+"293 421 OFFCURVE",
+"295 425 OFFCURVE",
+"314 428 CURVE SMOOTH",
+"329 430 OFFCURVE",
+"330 441 OFFCURVE",
+"319 450 CURVE SMOOTH",
+"281 481 OFFCURVE",
+"228 465 OFFCURVE",
+"218 426 CURVE SMOOTH",
+"200 356 OFFCURVE",
+"163 254 OFFCURVE",
+"88 175 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+name = _part.kanji.tsutsumigamae;
+piece = {
+angle = -43.31493;
+hane = 226.55698;
+length = -412.00644;
+migishita = 106.2934;
+shift = 897.84619;
+tate = 623.03168;
+yoko = -415.59814;
+};
+transform = "{1, 0, 0, 1, -328, -343}";
+},
+{
+name = _part.kanji.onore2;
+piece = {
+center = 58.07322;
+hidari = -275.84711;
+migishita = -361.73068;
+migiue = 567.22107;
+tate = 465.52359;
+};
+transform = "{1, 0, 0, 1, 220, -33}";
+},
+{
+name = _part.kanji.amekanmuri;
+piece = {
+tate = 77.42599;
+};
+transform = "{1, 0, 0, 1, 0, 28}";
+}
+);
+layerId = "6F2838A3-3897-4289-B6FF-13A165E28E07";
+name = "May 8 20, 22:19";
+width = 1000;
+}
+);
+unicode = 96F9;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = "comma-han";
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"500 50 OFFCURVE",
+"368 -68 OFFCURVE",
+"310 -29 CURVE",
+"254 11 OFFCURVE",
+"281 106 OFFCURVE",
+"128 179 CURVE",
+"84 200 OFFCURVE",
+"88 234 OFFCURVE",
+"147 208 CURVE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 3001;
+}

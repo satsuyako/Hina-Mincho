@@ -1,0 +1,64 @@
+{
+glyphname = approxequalorimage;
+layers = (
+{
+components = (
+{
+name = _part.yokosen;
+piece = {
+futosa = 50;
+nagasa = 35;
+};
+transform = "{1, 0, 0, 1, 151, 150}";
+},
+{
+name = _part.yokosen;
+piece = {
+futosa = 50;
+nagasa = 35;
+};
+transform = "{1, 0, 0, 1, 151, -67}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"323 584 OFFCURVE",
+"349 611 OFFCURVE",
+"349 645 CURVE SMOOTH",
+"349 679 OFFCURVE",
+"323 705 OFFCURVE",
+"289 705 CURVE SMOOTH",
+"255 705 OFFCURVE",
+"229 679 OFFCURVE",
+"229 645 CURVE SMOOTH",
+"229 611 OFFCURVE",
+"255 584 OFFCURVE",
+"289 584 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"745 56 OFFCURVE",
+"771 83 OFFCURVE",
+"771 117 CURVE SMOOTH",
+"771 151 OFFCURVE",
+"745 177 OFFCURVE",
+"711 177 CURVE SMOOTH",
+"677 177 OFFCURVE",
+"651 151 OFFCURVE",
+"651 117 CURVE SMOOTH",
+"651 83 OFFCURVE",
+"677 56 OFFCURVE",
+"711 56 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 2252;
+}

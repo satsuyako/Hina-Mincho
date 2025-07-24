@@ -1,0 +1,83 @@
+{
+glyphname = uni8A13;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.gonben;
+piece = {
+tate = 16.76381;
+yoko = 0;
+};
+transform = "{1, 0, 0, 1, 30, 40}";
+}
+);
+hints = (
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{2, 2}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"588 67 OFFCURVE",
+"555 302 OFFCURVE",
+"555 771 CURVE",
+"492 771 LINE",
+"492 410 OFFCURVE",
+"524 85 OFFCURVE",
+"346 -61 CURVE SMOOTH",
+"322 -80 OFFCURVE",
+"344 -101 OFFCURVE",
+"367 -85 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"834 -3 LINE",
+"898 -3 LINE",
+"898 774 LINE",
+"834 774 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"658 109 LINE",
+"722 109 LINE",
+"722 754 LINE",
+"658 754 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 8A13;
+}

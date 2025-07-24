@@ -1,0 +1,25 @@
+{
+glyphname = cedi;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.yokosen;
+piece = {
+nagasa = 65;
+};
+transform = "{0, 1, -1, 0, 654, 3}";
+},
+{
+alignment = -1;
+name = _part.C;
+transform = "{1, 0, 0, 1, -97, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 568;
+}
+);
+unicode = 20B5;
+}

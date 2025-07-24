@@ -1,0 +1,37 @@
+{
+export = 0;
+glyphname = _cap.serif;
+layers = (
+{
+anchors = (
+{
+name = left;
+position = "{0, 147}";
+},
+{
+name = origin;
+position = "{0, 0}";
+},
+{
+name = right;
+position = "{520, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"471 139 LINE",
+"471 -60 LINE SMOOTH",
+"471 -71 OFFCURVE",
+"525 -68 OFFCURVE",
+"525 -24 CURVE SMOOTH",
+"525 152 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,29 @@
+{
+glyphname = bulletoperator;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"147 183 OFFCURVE",
+"179 215 OFFCURVE",
+"179 253 CURVE SMOOTH",
+"179 290 OFFCURVE",
+"147 322 OFFCURVE",
+"110 322 CURVE SMOOTH",
+"72 322 OFFCURVE",
+"40 290 OFFCURVE",
+"40 253 CURVE SMOOTH",
+"40 215 OFFCURVE",
+"72 183 OFFCURVE",
+"110 183 CURVE SMOOTH"
+);
+}
+);
+width = 219;
+}
+);
+unicode = 2219;
+}

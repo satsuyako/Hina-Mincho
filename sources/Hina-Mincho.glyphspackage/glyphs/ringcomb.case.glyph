@@ -1,0 +1,55 @@
+{
+glyphname = ringcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{300, 700}";
+},
+{
+name = top;
+position = "{299, 871}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"340 726 OFFCURVE",
+"372 758 OFFCURVE",
+"372 799 CURVE SMOOTH",
+"372 839 OFFCURVE",
+"340 871 OFFCURVE",
+"299 871 CURVE SMOOTH",
+"259 871 OFFCURVE",
+"227 839 OFFCURVE",
+"227 799 CURVE SMOOTH",
+"227 758 OFFCURVE",
+"259 726 OFFCURVE",
+"299 726 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"276 755 OFFCURVE",
+"256 775 OFFCURVE",
+"256 799 CURVE SMOOTH",
+"256 822 OFFCURVE",
+"276 842 OFFCURVE",
+"299 842 CURVE SMOOTH",
+"323 842 OFFCURVE",
+"343 822 OFFCURVE",
+"343 799 CURVE SMOOTH",
+"343 775 OFFCURVE",
+"323 755 OFFCURVE",
+"299 755 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

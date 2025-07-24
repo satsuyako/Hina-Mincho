@@ -1,0 +1,52 @@
+{
+glyphname = "pi-hira";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "hi-hira";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"921 544 OFFCURVE",
+"962 585 OFFCURVE",
+"962 634 CURVE SMOOTH",
+"962 684 OFFCURVE",
+"921 725 OFFCURVE",
+"871 725 CURVE SMOOTH",
+"820 725 OFFCURVE",
+"781 684 OFFCURVE",
+"781 634 CURVE SMOOTH",
+"781 585 OFFCURVE",
+"820 544 OFFCURVE",
+"871 544 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"838 575 OFFCURVE",
+"811 601 OFFCURVE",
+"811 634 CURVE SMOOTH",
+"811 668 OFFCURVE",
+"838 694 OFFCURVE",
+"871 694 CURVE SMOOTH",
+"903 694 OFFCURVE",
+"931 668 OFFCURVE",
+"931 634 CURVE SMOOTH",
+"931 601 OFFCURVE",
+"903 575 OFFCURVE",
+"871 575 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 3074;
+}

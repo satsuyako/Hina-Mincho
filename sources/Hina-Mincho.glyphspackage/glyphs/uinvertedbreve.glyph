@@ -1,0 +1,23 @@
+{
+glyphname = uinvertedbreve;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = u;
+},
+{
+alignment = -1;
+name = breveinvertedcomb;
+transform = "{1, 0, 0, 1, -80, -320}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 440;
+}
+);
+leftKerningGroup = u;
+rightKerningGroup = u;
+unicode = 0217;
+}

@@ -1,0 +1,47 @@
+{
+glyphname = uni80DE;
+layers = (
+{
+components = (
+{
+name = _part.kanji.tsuki;
+piece = {
+harai = -120.86083;
+tate = 410;
+yoko = 2.75098;
+};
+transform = "{1, 0, 0, 1, -595, 12}";
+},
+{
+name = _part.kanji.tsutsumigamae;
+piece = {
+angle = 239.79895;
+hane = 226.55698;
+length = -20.2623;
+migishita = 36.71875;
+shift = 460.80103;
+tate = 194.69025;
+yoko = -28.37523;
+};
+transform = "{1, 0, 0, 1, -55, 14}";
+},
+{
+name = _part.kanji.onore;
+piece = {
+center = 34.85216;
+hane = -142.69301;
+hidariue = 234.38496;
+migishita = -277.28891;
+migiue = 457.32693;
+tate = 239.54012;
+yoko = -24.09546;
+};
+transform = "{1, 0, 0, 1, 265, -11}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 80DE;
+}

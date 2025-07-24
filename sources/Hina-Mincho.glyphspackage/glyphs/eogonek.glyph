@@ -1,0 +1,21 @@
+{
+glyphname = eogonek;
+layers = (
+{
+components = (
+{
+name = e;
+},
+{
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, -33, 21}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 380;
+}
+);
+leftKerningGroup = e;
+rightKerningGroup = e;
+unicode = 0119;
+}

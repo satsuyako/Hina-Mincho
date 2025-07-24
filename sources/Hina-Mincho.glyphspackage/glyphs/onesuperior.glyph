@@ -1,0 +1,17 @@
+{
+glyphname = onesuperior;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = one;
+transform = "{0.54054, 0, 0, 0.54054, -23, 500}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 224;
+}
+);
+unicode = 00B9;
+}

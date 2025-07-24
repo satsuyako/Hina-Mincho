@@ -1,0 +1,385 @@
+{
+export = 0;
+glyphname = _part.kanji.006;
+layers = (
+{
+anchors = (
+{
+name = hane;
+position = "{216, 104}";
+},
+{
+name = tension;
+position = "{99, 22}";
+},
+{
+name = ue;
+position = "{31, 130}";
+},
+{
+name = yoko;
+position = "{216, 24}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"-3 76 LINE SMOOTH",
+"-3 29 OFFCURVE",
+"21 4 OFFCURVE",
+"74 1 CURVE SMOOTH",
+"107 -1 OFFCURVE",
+"191 -2 OFFCURVE",
+"216 5 CURVE SMOOTH",
+"238 11 OFFCURVE",
+"253 19 OFFCURVE",
+"253 45 CURVE SMOOTH",
+"253 60 OFFCURVE",
+"245 66 OFFCURVE",
+"236 73 CURVE SMOOTH",
+"227 80 OFFCURVE",
+"229 95 OFFCURVE",
+"229 104 CURVE SMOOTH",
+"229 140 OFFCURVE",
+"201 138 OFFCURVE",
+"201 105 CURVE SMOOTH",
+"201 90 OFFCURVE",
+"204 76 OFFCURVE",
+"197 65 CURVE SMOOTH",
+"192 57 OFFCURVE",
+"184 48 OFFCURVE",
+"167 48 CURVE SMOOTH",
+"152 48 OFFCURVE",
+"117 48 OFFCURVE",
+"102 48 CURVE SMOOTH",
+"84 48 OFFCURVE",
+"61 49 OFFCURVE",
+"61 106 CURVE SMOOTH",
+"61 130 LINE",
+"-3 130 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+hane = 1;
+tension = 1;
+ue = 1;
+yoko = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hane;
+position = "{216, 104}";
+},
+{
+name = tension;
+position = "{99, 22}";
+},
+{
+name = ue;
+position = "{31, 868}";
+},
+{
+name = yoko;
+position = "{216, 24}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "3AE5FEDA-6254-4743-AEE1-4E7855697DD1";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"-3 76 LINE SMOOTH",
+"-3 29 OFFCURVE",
+"21 4 OFFCURVE",
+"74 1 CURVE SMOOTH",
+"107 -1 OFFCURVE",
+"191 -2 OFFCURVE",
+"216 5 CURVE SMOOTH",
+"238 11 OFFCURVE",
+"253 19 OFFCURVE",
+"253 45 CURVE SMOOTH",
+"253 60 OFFCURVE",
+"245 66 OFFCURVE",
+"236 73 CURVE SMOOTH",
+"227 80 OFFCURVE",
+"229 95 OFFCURVE",
+"229 104 CURVE SMOOTH",
+"229 140 OFFCURVE",
+"201 138 OFFCURVE",
+"201 105 CURVE SMOOTH",
+"201 90 OFFCURVE",
+"204 76 OFFCURVE",
+"197 65 CURVE SMOOTH",
+"192 57 OFFCURVE",
+"183 48 OFFCURVE",
+"170 48 CURVE SMOOTH",
+"156 48 OFFCURVE",
+"118 48 OFFCURVE",
+"102 48 CURVE SMOOTH",
+"84 48 OFFCURVE",
+"61 49 OFFCURVE",
+"61 106 CURVE SMOOTH",
+"61 868 LINE",
+"-3 868 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+ue = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hane;
+position = "{960, 104}";
+},
+{
+name = tension;
+position = "{503, -5}";
+},
+{
+name = ue;
+position = "{31, 130}";
+},
+{
+name = yoko;
+position = "{960, 24}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "38E6B81D-10D7-4CFE-AE3B-5F3838CF28B6";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"-3 76 LINE SMOOTH",
+"-3 29 OFFCURVE",
+"21 9 OFFCURVE",
+"74 -2 CURVE SMOOTH",
+"264 -41 OFFCURVE",
+"731 -43 OFFCURVE",
+"950 2 CURVE SMOOTH",
+"974 7 OFFCURVE",
+"997 19 OFFCURVE",
+"997 45 CURVE SMOOTH",
+"997 60 OFFCURVE",
+"989 66 OFFCURVE",
+"980 73 CURVE SMOOTH",
+"971 80 OFFCURVE",
+"973 95 OFFCURVE",
+"973 104 CURVE SMOOTH",
+"973 140 OFFCURVE",
+"945 138 OFFCURVE",
+"945 105 CURVE SMOOTH",
+"945 90 OFFCURVE",
+"950 77 OFFCURVE",
+"941 65 CURVE SMOOTH",
+"934 55 OFFCURVE",
+"908 43 OFFCURVE",
+"860 36 CURVE SMOOTH",
+"709 15 OFFCURVE",
+"276 11 OFFCURVE",
+"102 45 CURVE SMOOTH",
+"84 48 OFFCURVE",
+"61 49 OFFCURVE",
+"61 106 CURVE SMOOTH",
+"61 130 LINE",
+"-3 130 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hane;
+position = "{216, 245}";
+},
+{
+name = tension;
+position = "{99, 22}";
+},
+{
+name = ue;
+position = "{31, 130}";
+},
+{
+name = yoko;
+position = "{216, 24}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "7E2201BD-49BF-4840-A2CC-1AEB90767576";
+name = hane;
+paths = (
+{
+closed = 1;
+nodes = (
+"-3 76 LINE SMOOTH",
+"-3 29 OFFCURVE",
+"21 4 OFFCURVE",
+"74 1 CURVE SMOOTH",
+"107 -1 OFFCURVE",
+"191 -2 OFFCURVE",
+"216 5 CURVE SMOOTH",
+"238 11 OFFCURVE",
+"253 19 OFFCURVE",
+"253 45 CURVE SMOOTH",
+"253 60 OFFCURVE",
+"243 63 OFFCURVE",
+"236 73 CURVE SMOOTH",
+"224 90 OFFCURVE",
+"229 227 OFFCURVE",
+"229 236 CURVE SMOOTH",
+"229 272 OFFCURVE",
+"201 270 OFFCURVE",
+"201 237 CURVE SMOOTH",
+"201 222 OFFCURVE",
+"204 86 OFFCURVE",
+"197 65 CURVE SMOOTH",
+"194 56 OFFCURVE",
+"184 48 OFFCURVE",
+"167 48 CURVE SMOOTH",
+"152 48 OFFCURVE",
+"117 48 OFFCURVE",
+"102 48 CURVE SMOOTH",
+"84 48 OFFCURVE",
+"61 49 OFFCURVE",
+"61 106 CURVE SMOOTH",
+"61 130 LINE",
+"-3 130 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+hane = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hane;
+position = "{216, 104}";
+},
+{
+name = tension;
+position = "{99, 5}";
+},
+{
+name = ue;
+position = "{31, 130}";
+},
+{
+name = yoko;
+position = "{216, 24}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "7D07156B-A784-4281-ADFD-BEE09D807639";
+name = tension;
+paths = (
+{
+closed = 1;
+nodes = (
+"-3 81 LINE SMOOTH",
+"-3 34 OFFCURVE",
+"0 -4 OFFCURVE",
+"51 -26 CURVE SMOOTH",
+"98 -46 OFFCURVE",
+"177 -45 OFFCURVE",
+"217 -22 CURVE SMOOTH",
+"248 -4 OFFCURVE",
+"253 13 OFFCURVE",
+"253 29 CURVE SMOOTH",
+"253 43 OFFCURVE",
+"245 57 OFFCURVE",
+"236 64 CURVE SMOOTH",
+"227 71 OFFCURVE",
+"229 95 OFFCURVE",
+"229 104 CURVE SMOOTH",
+"229 140 OFFCURVE",
+"201 138 OFFCURVE",
+"201 105 CURVE SMOOTH",
+"201 90 OFFCURVE",
+"203 62 OFFCURVE",
+"197 50 CURVE SMOOTH",
+"193 42 OFFCURVE",
+"188 29 OFFCURVE",
+"167 20 CURVE SMOOTH",
+"148 12 OFFCURVE",
+"109 10 OFFCURVE",
+"85 24 CURVE SMOOTH",
+"68 34 OFFCURVE",
+"61 57 OFFCURVE",
+"61 106 CURVE SMOOTH",
+"61 130 LINE",
+"-3 130 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+hane = 1;
+tension = 2;
+ue = 1;
+yoko = 1;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = ue;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = hane;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+},
+{
+name = tension;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+}
+);
+}

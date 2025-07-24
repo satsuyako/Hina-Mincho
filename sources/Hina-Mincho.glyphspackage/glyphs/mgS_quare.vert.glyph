@@ -1,0 +1,27 @@
+{
+glyphname = mgSquare.vert;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = m;
+transform = "{0, -0.85907, 1, 0, 195, 869}";
+},
+{
+alignment = -1;
+name = g;
+transform = "{0, -0.98131, 0.85255, 0, 251, 279}";
+}
+);
+guideLines = (
+{
+angle = 270;
+position = "{194, 541}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+}

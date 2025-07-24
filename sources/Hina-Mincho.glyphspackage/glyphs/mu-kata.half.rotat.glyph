@@ -1,0 +1,16 @@
+{
+glyphname = "mu-kata.half.rotat";
+layers = (
+{
+components = (
+{
+name = "mu-kata.half";
+transform = "{0, -1, 1, 0, 139, 889}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 500;
+width = 1000;
+}
+);
+}

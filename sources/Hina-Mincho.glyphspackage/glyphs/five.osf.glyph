@@ -1,0 +1,26 @@
+{
+glyphname = five.osf;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = five.tosf;
+transform = "{1, 0, 0, 1, -69, 0}";
+}
+);
+guideLines = (
+{
+position = "{106, -65}";
+},
+{
+position = "{106, 445}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 292;
+}
+);
+leftKerningGroup = "5";
+rightKerningGroup = "5";
+}

@@ -1,0 +1,44 @@
+{
+glyphname = commaaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{299.5, 0}";
+},
+{
+name = bottom;
+position = "{299.5, -200}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"291 -200 OFFCURVE",
+"344 -154 OFFCURVE",
+"344 -96 CURVE SMOOTH",
+"344 -56 OFFCURVE",
+"319 -39 OFFCURVE",
+"298 -39 CURVE SMOOTH",
+"278 -39 OFFCURVE",
+"260 -53 OFFCURVE",
+"260 -75 CURVE SMOOTH",
+"260 -110 OFFCURVE",
+"298 -110 OFFCURVE",
+"298 -137 CURVE SMOOTH",
+"298 -161 OFFCURVE",
+"255 -175 OFFCURVE",
+"255 -192 CURVE SMOOTH",
+"255 -197 OFFCURVE",
+"258 -200 OFFCURVE",
+"265 -200 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

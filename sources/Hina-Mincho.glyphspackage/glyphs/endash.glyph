@@ -1,0 +1,32 @@
+{
+glyphname = endash;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"515 161 LINE",
+"532 161 OFFCURVE",
+"540 172 OFFCURVE",
+"540 184 CURVE SMOOTH",
+"540 196 OFFCURVE",
+"532 207 OFFCURVE",
+"515 207 CURVE",
+"45 207 LINE",
+"29 207 OFFCURVE",
+"20 196 OFFCURVE",
+"20 184 CURVE SMOOTH",
+"20 172 OFFCURVE",
+"29 161 OFFCURVE",
+"45 161 CURVE"
+);
+}
+);
+width = 473;
+}
+);
+widthMetricsKey = n;
+unicode = 2013;
+}

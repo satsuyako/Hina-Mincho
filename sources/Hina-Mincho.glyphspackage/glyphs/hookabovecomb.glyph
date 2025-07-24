@@ -1,0 +1,30 @@
+{
+glyphname = hookabovecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{301, 700}";
+},
+{
+name = _topmigi;
+position = "{300, 701}";
+},
+{
+name = top;
+position = "{301, 875}";
+}
+);
+components = (
+{
+name = hookabovecomb.case;
+transform = "{1, 0, 0, 1, 1, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 0;
+}
+);
+unicode = 0309;
+}

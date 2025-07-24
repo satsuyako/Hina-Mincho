@@ -1,0 +1,15 @@
+{
+glyphname = uni8A00;
+layers = (
+{
+components = (
+{
+name = _part.kanji.iu;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 8A00;
+}

@@ -1,0 +1,21 @@
+{
+glyphname = edblgrave;
+layers = (
+{
+components = (
+{
+name = e;
+},
+{
+name = dblgravecomb;
+transform = "{1, 0, 0, 1, -99, -320}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 380;
+}
+);
+leftKerningGroup = e;
+rightKerningGroup = e;
+unicode = 0205;
+}

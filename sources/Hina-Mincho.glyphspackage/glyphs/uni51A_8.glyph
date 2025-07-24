@@ -1,0 +1,47 @@
+{
+glyphname = uni51A8;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.wakanmuri;
+piece = {
+tate = 142.63139;
+yoko = 195.72679;
+};
+transform = "{1, 0, 0, 1, 33, 226}";
+},
+{
+alignment = -1;
+name = _part.yoko.001;
+piece = {
+length = 326;
+};
+transform = "{1, 0, 0, 1, -28, 322}";
+},
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+geta2 = 39.14062;
+tate = -56.11845;
+yoko = 111.39438;
+};
+transform = "{1, 0, 0, 1, -26, 84}";
+},
+{
+name = _part.kanji.tanbo;
+piece = {
+tate = 82.56508;
+yoko = 232.62129;
+};
+transform = "{1, 0, 0, 1, 2, -242}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 51A8;
+}

@@ -1,0 +1,128 @@
+{
+glyphname = uni53EF;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+tate = 191.16458;
+yoko = 10.96149;
+};
+transform = "{1, 0, 0, 1, -165, 10}";
+}
+);
+hints = (
+{
+origin = "{0, 7}";
+target = "{0, 8}";
+type = Cap;
+name = _cap.kanji.hane;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"132 740 OFFCURVE",
+"155 742 OFFCURVE",
+"193 742 CURVE SMOOTH",
+"633 741 LINE SMOOTH",
+"655 741 OFFCURVE",
+"668 728 OFFCURVE",
+"668 706 CURVE SMOOTH",
+"668 76 LINE",
+"732 76 LINE",
+"732 706 LINE SMOOTH",
+"732 728 OFFCURVE",
+"745 741 OFFCURVE",
+"767 741 CURVE SMOOTH",
+"932 742 LINE SMOOTH",
+"971 742 OFFCURVE",
+"976 770 OFFCURVE",
+"956 792 CURVE SMOOTH",
+"928 822 OFFCURVE",
+"895 840 OFFCURVE",
+"857 802 CURVE SMOOTH",
+"843 788 OFFCURVE",
+"825 770 OFFCURVE",
+"795 770 CURVE SMOOTH",
+"193 770 LINE SMOOTH",
+"163 770 OFFCURVE",
+"136 772 OFFCURVE",
+"72 776 CURVE SMOOTH",
+"43 778 OFFCURVE",
+"44 734 OFFCURVE",
+"72 736 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+tate = 191.16458;
+yoko = 10.96149;
+};
+transform = "{1, 0, 0, 1, -165, 10}";
+}
+);
+hints = (
+{
+origin = "{1, 0}";
+target = "{1, 1}";
+type = Cap;
+name = _cap.kanji.hane;
+}
+);
+layerId = "AB0C72EB-CE26-4120-93B5-8C284784E2C2";
+name = "May 30 20, 21:03";
+paths = (
+{
+closed = 1;
+nodes = (
+"795 741 LINE",
+"932 742 LINE SMOOTH",
+"971 742 OFFCURVE",
+"976 770 OFFCURVE",
+"956 792 CURVE SMOOTH",
+"928 822 OFFCURVE",
+"895 840 OFFCURVE",
+"857 802 CURVE SMOOTH",
+"843 788 OFFCURVE",
+"825 770 OFFCURVE",
+"795 770 CURVE SMOOTH",
+"193 770 LINE SMOOTH",
+"163 770 OFFCURVE",
+"136 772 OFFCURVE",
+"72 776 CURVE SMOOTH",
+"43 778 OFFCURVE",
+"44 734 OFFCURVE",
+"72 736 CURVE SMOOTH",
+"132 740 OFFCURVE",
+"155 742 OFFCURVE",
+"193 742 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"668 76 LINE",
+"732 76 LINE",
+"732 760 LINE",
+"668 760 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 53EF;
+}

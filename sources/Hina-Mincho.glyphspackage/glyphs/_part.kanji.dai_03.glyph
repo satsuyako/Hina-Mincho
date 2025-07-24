@@ -1,0 +1,297 @@
+{
+export = 0;
+glyphname = _part.kanji.dai_03;
+layers = (
+{
+anchors = (
+{
+name = hidari;
+position = "{490, 520}";
+},
+{
+name = migi;
+position = "{872, 0}";
+},
+{
+name = tension;
+position = "{617, 206}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"866 -43 OFFCURVE",
+"877 -42 OFFCURVE",
+"884 -27 CURVE SMOOTH",
+"892 -9 OFFCURVE",
+"920 -2 OFFCURVE",
+"946 -4 CURVE SMOOTH",
+"967 -6 OFFCURVE",
+"974 14 OFFCURVE",
+"955 20 CURVE SMOOTH",
+"664 115 OFFCURVE",
+"536 359 OFFCURVE",
+"507 524 CURVE SMOOTH",
+"496 585 OFFCURVE",
+"476 553 OFFCURVE",
+"477 519 CURVE SMOOTH",
+"486 296 OFFCURVE",
+"664 24 OFFCURVE",
+"857 -40 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+hidari = 1;
+migi = 1;
+mini = 1;
+tate = 1;
+tension = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hidari;
+position = "{257, 528}";
+},
+{
+name = migi;
+position = "{1112, 0}";
+},
+{
+name = tension;
+position = "{617, 206}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "4531CB70-F4ED-42D8-9F22-5DD8B72D4434";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"1106 -42 OFFCURVE",
+"1117 -42 OFFCURVE",
+"1124 -27 CURVE SMOOTH",
+"1132 -9 OFFCURVE",
+"1160 -2 OFFCURVE",
+"1186 -4 CURVE SMOOTH",
+"1207 -6 OFFCURVE",
+"1214 15 OFFCURVE",
+"1195 20 CURVE SMOOTH",
+"872 105 OFFCURVE",
+"444 279 OFFCURVE",
+"276 524 CURVE SMOOTH",
+"241 575 OFFCURVE",
+"231 549 OFFCURVE",
+"246 519 CURVE SMOOTH",
+"396 218 OFFCURVE",
+"871 10 OFFCURVE",
+"1097 -40 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+hidari = 1;
+migi = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hidari;
+position = "{490, 857}";
+},
+{
+name = migi;
+position = "{872, 0}";
+},
+{
+name = tension;
+position = "{617, 206}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "4B0477CA-6579-405F-BFF2-ED39D6446A70";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"866 -43 OFFCURVE",
+"877 -42 OFFCURVE",
+"884 -27 CURVE SMOOTH",
+"892 -9 OFFCURVE",
+"920 -2 OFFCURVE",
+"946 -4 CURVE SMOOTH",
+"967 -6 OFFCURVE",
+"974 14 OFFCURVE",
+"955 20 CURVE SMOOTH",
+"664 115 OFFCURVE",
+"520 447 OFFCURVE",
+"507 843 CURVE SMOOTH",
+"505 904 OFFCURVE",
+"478 882 OFFCURVE",
+"477 848 CURVE SMOOTH",
+"467 394 OFFCURVE",
+"664 24 OFFCURVE",
+"857 -40 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+hidari = 2;
+migi = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hidari;
+position = "{490, 520}";
+},
+{
+name = migi;
+position = "{872, 0}";
+},
+{
+name = tension;
+position = "{598, 179}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "41ACBD53-BB33-4A94-8336-1B091B7C8933";
+name = tension;
+paths = (
+{
+closed = 1;
+nodes = (
+"866 -41 OFFCURVE",
+"877 -42 OFFCURVE",
+"884 -27 CURVE SMOOTH",
+"892 -9 OFFCURVE",
+"920 -2 OFFCURVE",
+"946 -4 CURVE SMOOTH",
+"967 -6 OFFCURVE",
+"974 17 OFFCURVE",
+"955 20 CURVE SMOOTH",
+"632 77 OFFCURVE",
+"504 313 OFFCURVE",
+"507 524 CURVE SMOOTH",
+"508 586 OFFCURVE",
+"480 563 OFFCURVE",
+"477 519 CURVE SMOOTH",
+"459 250 OFFCURVE",
+"632 -14 OFFCURVE",
+"857 -40 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tension = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = hidari;
+position = "{731, 164}";
+},
+{
+name = migi;
+position = "{872, 0}";
+},
+{
+name = tension;
+position = "{808, 53}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "D3EA8D2A-879C-462D-86C4-2B933F4551B1";
+name = mini;
+paths = (
+{
+closed = 1;
+nodes = (
+"866 -48 OFFCURVE",
+"877 -42 OFFCURVE",
+"884 -27 CURVE SMOOTH",
+"892 -9 OFFCURVE",
+"920 -2 OFFCURVE",
+"946 -4 CURVE SMOOTH",
+"967 -6 OFFCURVE",
+"975 15 OFFCURVE",
+"955 20 CURVE SMOOTH",
+"836 47 OFFCURVE",
+"780 119 OFFCURVE",
+"745 164 CURVE SMOOTH",
+"725 190 OFFCURVE",
+"712 180 OFFCURVE",
+"717 161 CURVE SMOOTH",
+"736 94 OFFCURVE",
+"798 8 OFFCURVE",
+"857 -40 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+mini = 2;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = tension;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+},
+{
+name = hidari;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = migi;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = tate;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = mini;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+}
+);
+}

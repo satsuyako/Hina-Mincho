@@ -1,0 +1,151 @@
+{
+glyphname = uni6B62;
+layers = (
+{
+hints = (
+{
+origin = "{0, 16}";
+target = "{0, 17}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 26}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 0}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 32}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"796 -16 LINE",
+"796 13 LINE",
+"616 13 LINE SMOOTH",
+"594 13 OFFCURVE",
+"581 26 OFFCURVE",
+"581 48 CURVE SMOOTH",
+"581 387 LINE SMOOTH",
+"581 409 OFFCURVE",
+"594 422 OFFCURVE",
+"616 422 CURVE SMOOTH",
+"733 421 LINE",
+"733 450 LINE",
+"616 450 LINE SMOOTH",
+"594 450 OFFCURVE",
+"581 463 OFFCURVE",
+"581 485 CURVE SMOOTH",
+"581 787 LINE",
+"517 787 LINE",
+"517 48 LINE SMOOTH",
+"517 26 OFFCURVE",
+"504 13 OFFCURVE",
+"482 13 CURVE SMOOTH",
+"338 13 LINE SMOOTH",
+"316 13 OFFCURVE",
+"303 26 OFFCURVE",
+"303 48 CURVE SMOOTH",
+"303 497 LINE",
+"239 497 LINE",
+"239 48 LINE SMOOTH",
+"239 26 OFFCURVE",
+"226 13 OFFCURVE",
+"204 13 CURVE SMOOTH",
+"179 13 LINE",
+"179 -15 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{3, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{3, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "0D14ADB7-C2B3-4ED0-95AA-12E0F5B314C3";
+name = "May 21 20, 22:26";
+paths = (
+{
+closed = 1;
+nodes = (
+"517 -1 LINE",
+"581 -1 LINE",
+"581 787 LINE",
+"517 787 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"239 -1 LINE",
+"303 -1 LINE",
+"303 497 LINE",
+"239 497 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"552 422 LINE",
+"733 421 LINE",
+"733 450 LINE",
+"552 450 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"179 -15 LINE",
+"796 -16 LINE",
+"796 13 LINE",
+"179 13 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 6B62;
+}

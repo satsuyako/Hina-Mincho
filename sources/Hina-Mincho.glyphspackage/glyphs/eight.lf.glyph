@@ -1,0 +1,16 @@
+{
+glyphname = eight.lf;
+layers = (
+{
+components = (
+{
+name = eight;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 500;
+}
+);
+leftKerningGroup = "8";
+rightKerningGroup = "8";
+}

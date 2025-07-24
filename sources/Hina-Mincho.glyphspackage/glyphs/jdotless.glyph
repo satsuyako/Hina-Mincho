@@ -1,0 +1,30 @@
+{
+glyphname = jdotless;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{86, -100}";
+},
+{
+name = top;
+position = "{107, 380}";
+}
+);
+components = (
+{
+alignment = -1;
+name = _part.dotlessj;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 171;
+}
+);
+leftKerningGroup = j;
+leftMetricsKey = j;
+rightKerningGroup = j;
+rightMetricsKey = j;
+unicode = 0237;
+}

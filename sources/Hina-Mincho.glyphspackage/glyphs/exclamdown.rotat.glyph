@@ -1,0 +1,16 @@
+{
+glyphname = exclamdown.rotat;
+layers = (
+{
+components = (
+{
+name = exclamdown;
+transform = "{0, -1, 1, 0, 77, 880}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 212;
+width = 1000;
+}
+);
+}

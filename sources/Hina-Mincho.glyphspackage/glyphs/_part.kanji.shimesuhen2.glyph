@@ -1,0 +1,284 @@
+{
+export = 0;
+glyphname = _part.kanji.shimesuhen2;
+layers = (
+{
+anchors = (
+{
+name = yoko;
+position = "{363, 622}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = "{592.03, 27.088}";
+type = Stem;
+},
+{
+place = "{52.271, 135.439}";
+type = Stem;
+},
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 3}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{2, 1}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 3}";
+type = Cap;
+name = _cap.tate.002;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"142 129 OFFCURVE",
+"133 295 OFFCURVE",
+"133 419 CURVE",
+"69 419 LINE",
+"69 347 OFFCURVE",
+"79 134 OFFCURVE",
+"41 89 CURVE SMOOTH",
+"13 55 OFFCURVE",
+"29 36 OFFCURVE",
+"58 60 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"256 -24 LINE",
+"256 614 LINE",
+"192 614 LINE",
+"192 -24 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"376 167 LINE",
+"376 422 LINE",
+"312 422 LINE",
+"312 167 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 762 OFFCURVE",
+"154 764 OFFCURVE",
+"179 764 CURVE",
+"332 765 LINE",
+"371 765 OFFCURVE",
+"380 788 OFFCURVE",
+"363 807 CURVE SMOOTH",
+"336 836 OFFCURVE",
+"315 844 OFFCURVE",
+"282 814 CURVE SMOOTH",
+"271 804 OFFCURVE",
+"259 795 OFFCURVE",
+"234 795 CURVE",
+"196 795 LINE",
+"167 795 OFFCURVE",
+"159 796 OFFCURVE",
+"121 800 CURVE SMOOTH",
+"92 804 OFFCURVE",
+"93 758 OFFCURVE",
+"121 761 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"264 601 LINE",
+"401 602 LINE SMOOTH",
+"440 602 OFFCURVE",
+"445 630 OFFCURVE",
+"425 652 CURVE SMOOTH",
+"398 683 OFFCURVE",
+"364 700 OFFCURVE",
+"326 662 CURVE SMOOTH",
+"312 648 OFFCURVE",
+"294 630 OFFCURVE",
+"264 630 CURVE",
+"182 630 LINE",
+"152 630 OFFCURVE",
+"135 632 OFFCURVE",
+"71 636 CURVE",
+"42 638 OFFCURVE",
+"43 594 OFFCURVE",
+"71 596 CURVE",
+"131 600 OFFCURVE",
+"144 602 OFFCURVE",
+"182 602 CURVE"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = yoko;
+position = "{343, 622}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 3}";
+target = "{1, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{2, 1}";
+target = "{2, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 3}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+horizontal = 1;
+place = "{592.03, 27.088}";
+type = Stem;
+},
+{
+place = "{52.271, 135.439}";
+type = Stem;
+}
+);
+layerId = "B8519484-2E0C-4B4D-AD18-F19E9CB6E670";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"126 129 OFFCURVE",
+"117 295 OFFCURVE",
+"117 419 CURVE",
+"53 419 LINE",
+"53 347 OFFCURVE",
+"69 169 OFFCURVE",
+"32 97 CURVE SMOOTH",
+"11 57 OFFCURVE",
+"31 33 OFFCURVE",
+"58 60 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"224 -24 LINE",
+"224 614 LINE",
+"160 614 LINE",
+"160 -24 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"316 167 LINE",
+"316 422 LINE",
+"252 422 LINE",
+"252 167 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"102 762 OFFCURVE",
+"124 764 OFFCURVE",
+"149 764 CURVE",
+"282 765 LINE",
+"321 765 OFFCURVE",
+"330 788 OFFCURVE",
+"313 807 CURVE SMOOTH",
+"287 837 OFFCURVE",
+"265 844 OFFCURVE",
+"232 814 CURVE SMOOTH",
+"221 804 OFFCURVE",
+"209 795 OFFCURVE",
+"184 795 CURVE",
+"166 795 LINE",
+"137 795 OFFCURVE",
+"129 796 OFFCURVE",
+"91 800 CURVE SMOOTH",
+"62 803 OFFCURVE",
+"63 758 OFFCURVE",
+"91 761 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"184 601 LINE",
+"321 602 LINE SMOOTH",
+"360 602 OFFCURVE",
+"365 630 OFFCURVE",
+"345 652 CURVE SMOOTH",
+"317 682 OFFCURVE",
+"284 700 OFFCURVE",
+"246 662 CURVE SMOOTH",
+"232 648 OFFCURVE",
+"214 630 OFFCURVE",
+"184 630 CURVE",
+"172 630 LINE",
+"142 630 OFFCURVE",
+"125 632 OFFCURVE",
+"61 636 CURVE",
+"32 638 OFFCURVE",
+"33 594 OFFCURVE",
+"61 596 CURVE",
+"121 600 OFFCURVE",
+"134 602 OFFCURVE",
+"172 602 CURVE"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

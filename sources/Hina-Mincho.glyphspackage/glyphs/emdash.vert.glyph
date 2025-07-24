@@ -1,0 +1,17 @@
+{
+glyphname = emdash.vert;
+layers = (
+{
+components = (
+{
+name = emdash;
+transform = "{0, -1, 1, 0, 100, 880}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 706;
+width = 1000;
+}
+);
+unicode = FE31;
+}

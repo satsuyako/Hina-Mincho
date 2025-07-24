@@ -1,0 +1,16 @@
+{
+glyphname = cornerbracketleft.vert;
+layers = (
+{
+components = (
+{
+name = cornerbracketleft;
+transform = "{0, -1, 1, 0, 82, 1000}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = FE41;
+}

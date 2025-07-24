@@ -1,0 +1,153 @@
+{
+export = 0;
+glyphname = _part.kanji.corner90;
+layers = (
+{
+anchors = (
+{
+name = tate;
+position = "{916, 692}";
+},
+{
+name = yoko;
+position = "{812, 763}";
+}
+);
+hints = (
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.kanji.90;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"885 678 LINE",
+"952 678 LINE",
+"951 776 LINE",
+"799 776 LINE",
+"798 749 LINE",
+"852 749 LINE SMOOTH",
+"874 749 OFFCURVE",
+"888 736 OFFCURVE",
+"887 714 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 1;
+yoko = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = tate;
+position = "{916, 692}";
+},
+{
+name = yoko;
+position = "{41, 763}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.kanji.90;
+}
+);
+layerId = "A1AE78FA-5207-44FB-8577-CABCD2DE7E41";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"885 678 LINE",
+"952 678 LINE",
+"951 776 LINE",
+"28 776 LINE",
+"27 749 LINE",
+"852 749 LINE SMOOTH",
+"874 749 OFFCURVE",
+"888 736 OFFCURVE",
+"887 714 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = tate;
+position = "{916, -47}";
+},
+{
+name = yoko;
+position = "{812, 763}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 2}";
+type = Corner;
+name = _corner.kanji.90;
+}
+);
+layerId = "C351CCB2-E0B9-4229-AC7C-51361DD8DCC0";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"885 -61 LINE",
+"952 -61 LINE",
+"951 776 LINE",
+"799 776 LINE",
+"798 749 LINE",
+"852 749 LINE SMOOTH",
+"874 749 OFFCURVE",
+"887 736 OFFCURVE",
+"887 714 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 2;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = tate;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

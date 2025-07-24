@@ -1,0 +1,117 @@
+{
+glyphname = uni8422;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.kusakanmuri;
+transform = "{1, 0, 0, 1, 0, 30}";
+},
+{
+name = _part.kanji.tsutsumigamae;
+piece = {
+angle = 79.69976;
+hane = 226.55698;
+length = -20.2623;
+migishita = 36.71875;
+shift = 551.31818;
+tate = 367.06671;
+yoko = -100.81654;
+};
+transform = "{1, 0, 0, 1, -115, -136}";
+},
+{
+name = _part.kanji.onore;
+piece = {
+center = 48.65363;
+hane = -142.69301;
+hidariue = 234.38496;
+migishita = -240.96158;
+migiue = 457.32693;
+tate = 326.61194;
+yoko = -35.38684;
+};
+transform = "{1, 0, 0, 1, 235, -21}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"255 3 OFFCURVE",
+"240 29 OFFCURVE",
+"240 80 CURVE SMOOTH",
+"240 119 OFFCURVE",
+"243 151 OFFCURVE",
+"248 174 CURVE SMOOTH",
+"292 384 OFFCURVE",
+"342 448 OFFCURVE",
+"342 479 CURVE SMOOTH",
+"342 486 OFFCURVE",
+"340 489 OFFCURVE",
+"335 492 CURVE SMOOTH",
+"302 512 OFFCURVE",
+"237 293 OFFCURVE",
+"211 218 CURVE SMOOTH",
+"196 176 OFFCURVE",
+"195 147 OFFCURVE",
+"121 151 CURVE SMOOTH",
+"100 152 OFFCURVE",
+"92 145 OFFCURVE",
+"92 137 CURVE SMOOTH",
+"92 129 OFFCURVE",
+"101 120 OFFCURVE",
+"116 120 CURVE SMOOTH",
+"179 120 OFFCURVE",
+"188 89 OFFCURVE",
+"188 27 CURVE SMOOTH",
+"188 -13 OFFCURVE",
+"187 -81 OFFCURVE",
+"222 -81 CURVE SMOOTH",
+"248 -81 OFFCURVE",
+"255 -61 OFFCURVE",
+"255 -23 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"183 322 OFFCURVE",
+"230 337 OFFCURVE",
+"218 384 CURVE SMOOTH",
+"208 422 OFFCURVE",
+"137 460 OFFCURVE",
+"85 468 CURVE SMOOTH",
+"60 472 OFFCURVE",
+"57 457 OFFCURVE",
+"72 447 CURVE SMOOTH",
+"109 423 OFFCURVE",
+"129 407 OFFCURVE",
+"159 360 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"258 523 OFFCURVE",
+"311 541 OFFCURVE",
+"292 587 CURVE SMOOTH",
+"272 636 OFFCURVE",
+"192 683 OFFCURVE",
+"155 683 CURVE SMOOTH",
+"138 683 OFFCURVE",
+"137 671 OFFCURVE",
+"150 660 CURVE SMOOTH",
+"185 631 OFFCURVE",
+"206 614 OFFCURVE",
+"235 563 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 8422;
+}

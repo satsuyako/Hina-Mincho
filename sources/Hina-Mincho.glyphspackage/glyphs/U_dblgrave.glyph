@@ -1,0 +1,21 @@
+{
+glyphname = Udblgrave;
+layers = (
+{
+components = (
+{
+name = U;
+},
+{
+name = dblgravecomb.case;
+transform = "{1, 0, 0, 1, 108, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 815;
+}
+);
+leftKerningGroup = U;
+rightKerningGroup = U;
+unicode = 0214;
+}

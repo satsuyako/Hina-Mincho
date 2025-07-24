@@ -1,0 +1,36 @@
+{
+export = 0;
+glyphname = "_cap.tate-ue";
+layers = (
+{
+anchors = (
+{
+name = origin;
+position = "{67, -33}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"67 -32 LINE",
+"67 -39 OFFCURVE",
+"67 -45 OFFCURVE",
+"67 -52 CURVE SMOOTH",
+"67 -79 OFFCURVE",
+"96 -97 OFFCURVE",
+"116 -97 CURVE SMOOTH",
+"123 -97 OFFCURVE",
+"131 -96 OFFCURVE",
+"131 -86 CURVE SMOOTH",
+"131 -68 OFFCURVE",
+"131 -50 OFFCURVE",
+"131 -32 CURVE"
+);
+}
+);
+width = 200;
+}
+);
+}

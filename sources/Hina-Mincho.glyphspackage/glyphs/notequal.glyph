@@ -1,0 +1,27 @@
+{
+glyphname = notequal;
+layers = (
+{
+components = (
+{
+name = equal;
+},
+{
+name = _part.yokosen;
+piece = {
+nagasa = 20;
+};
+transform = "{0.65, 1.12583, -1.12583, 0.65, 458, -269}";
+}
+);
+guideLines = (
+{
+position = "{100, 348}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 605;
+}
+);
+unicode = 2260;
+}

@@ -1,0 +1,46 @@
+{
+glyphname = "be-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "he-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"752 455 OFFCURVE",
+"864 506 OFFCURVE",
+"677 603 CURVE SMOOTH",
+"646 619 OFFCURVE",
+"632 600 OFFCURVE",
+"654 585 CURVE",
+"720 545 OFFCURVE",
+"706 526 OFFCURVE",
+"724 498 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"852 512 OFFCURVE",
+"949 567 OFFCURVE",
+"763 654 CURVE SMOOTH",
+"731 669 OFFCURVE",
+"719 649 OFFCURVE",
+"741 636 CURVE",
+"808 597 OFFCURVE",
+"791 578 OFFCURVE",
+"813 554 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30D9;
+}

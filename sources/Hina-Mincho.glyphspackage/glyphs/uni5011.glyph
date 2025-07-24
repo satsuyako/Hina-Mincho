@@ -1,0 +1,30 @@
+{
+glyphname = uni5011;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.ninben;
+piece = {
+yoko = 477.79224;
+};
+transform = "{1, 0, 0, 1, -10, 0}";
+},
+{
+alignment = -1;
+name = _part.kanji.mongakame;
+piece = {
+center = 415.16336;
+tate = 146.19585;
+yoko = -253.31439;
+};
+transform = "{1, 0, 0, 1, 135, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 5011;
+}

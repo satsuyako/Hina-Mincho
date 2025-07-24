@@ -1,0 +1,97 @@
+{
+export = 0;
+glyphname = _part.kanji.yoko2;
+layers = (
+{
+anchors = (
+{
+name = yoko;
+position = "{294, 444}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"123 419 OFFCURVE",
+"312 421 OFFCURVE",
+"373 421 CURVE SMOOTH",
+"412 421 OFFCURVE",
+"424 442 OFFCURVE",
+"407 461 CURVE SMOOTH",
+"379 492 OFFCURVE",
+"354 507 OFFCURVE",
+"318 471 CURVE SMOOTH",
+"304 457 OFFCURVE",
+"286 449 OFFCURVE",
+"206 449 CURVE SMOOTH",
+"149 449 OFFCURVE",
+"128 450 OFFCURVE",
+"84 455 CURVE SMOOTH",
+"55 458 OFFCURVE",
+"56 412 OFFCURVE",
+"84 415 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 1;
+};
+};
+width = 455;
+},
+{
+anchors = (
+{
+name = yoko;
+position = "{279, 444}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "A5A89159-8C67-4663-B2E4-F38D805EF914";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"178 419 OFFCURVE",
+"239 421 OFFCURVE",
+"300 421 CURVE SMOOTH",
+"339 421 OFFCURVE",
+"346 442 OFFCURVE",
+"329 461 CURVE SMOOTH",
+"304 489 OFFCURVE",
+"285 492 OFFCURVE",
+"254 466 CURVE SMOOTH",
+"239 453 OFFCURVE",
+"226 449 OFFCURVE",
+"206 449 CURVE SMOOTH",
+"199 449 OFFCURVE",
+"183 450 OFFCURVE",
+"149 454 CURVE SMOOTH",
+"120 458 OFFCURVE",
+"121 412 OFFCURVE",
+"149 415 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 455;
+}
+);
+partsSettings = (
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 300;
+}
+);
+}

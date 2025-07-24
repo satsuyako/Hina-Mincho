@@ -1,0 +1,29 @@
+{
+glyphname = "dot-kata";
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"464 309 OFFCURVE",
+"434 339 OFFCURVE",
+"434 376 CURVE",
+"434 413 OFFCURVE",
+"464 443 OFFCURVE",
+"501 443 CURVE",
+"539 443 OFFCURVE",
+"568 413 OFFCURVE",
+"568 376 CURVE",
+"568 339 OFFCURVE",
+"539 309 OFFCURVE",
+"501 309 CURVE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30FB;
+}

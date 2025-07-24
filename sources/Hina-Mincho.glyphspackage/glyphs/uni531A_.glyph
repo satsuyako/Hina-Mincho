@@ -1,0 +1,61 @@
+{
+glyphname = uni531A;
+layers = (
+{
+hints = (
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 19}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"91 -70 OFFCURVE",
+"102 -77 OFFCURVE",
+"114 -77 CURVE SMOOTH",
+"134 -77 OFFCURVE",
+"158 -61 OFFCURVE",
+"158 -16 CURVE SMOOTH",
+"158 3 OFFCURVE",
+"171 13 OFFCURVE",
+"193 13 CURVE SMOOTH",
+"768 13 LINE",
+"768 42 LINE",
+"193 43 LINE SMOOTH",
+"171 43 OFFCURVE",
+"158 56 OFFCURVE",
+"158 78 CURVE SMOOTH",
+"158 747 LINE SMOOTH",
+"158 769 OFFCURVE",
+"171 782 OFFCURVE",
+"193 782 CURVE SMOOTH",
+"768 782 LINE",
+"768 811 LINE",
+"179 811 LINE SMOOTH",
+"165 811 OFFCURVE",
+"151 837 OFFCURVE",
+"109 837 CURVE SMOOTH",
+"102 837 OFFCURVE",
+"94 836 OFFCURVE",
+"94 826 CURVE SMOOTH",
+"93 38 LINE SMOOTH",
+"93 18 OFFCURVE",
+"91 -26 OFFCURVE",
+"91 -54 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 531A;
+}

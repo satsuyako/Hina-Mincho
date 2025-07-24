@@ -1,0 +1,43 @@
+{
+export = 0;
+glyphname = _cap.kanji.hane;
+layers = (
+{
+anchors = (
+{
+name = origin;
+position = "{771, 85}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"771 86 LINE",
+"771 51 OFFCURVE",
+"754 38 OFFCURVE",
+"718 37 CURVE SMOOTH",
+"686 36 OFFCURVE",
+"611 49 OFFCURVE",
+"572 56 CURVE SMOOTH",
+"549 60 OFFCURVE",
+"540 32 OFFCURVE",
+"572 26 CURVE SMOOTH",
+"613 18 OFFCURVE",
+"671 6 OFFCURVE",
+"705 -1 CURVE SMOOTH",
+"757 -12 OFFCURVE",
+"728 -61 OFFCURVE",
+"762 -61 CURVE SMOOTH",
+"802 -61 OFFCURVE",
+"835 -42 OFFCURVE",
+"835 17 CURVE SMOOTH",
+"835 86 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+}

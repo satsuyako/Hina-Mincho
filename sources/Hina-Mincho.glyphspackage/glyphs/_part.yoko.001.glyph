@@ -1,0 +1,103 @@
+{
+export = 0;
+glyphname = _part.yoko.001;
+layers = (
+{
+anchors = (
+{
+name = length;
+position = "{670, 329}";
+}
+);
+hints = (
+{
+horizontal = 1;
+place = "{306, 28}";
+type = Stem;
+},
+{
+place = "{360, 140}";
+type = Stem;
+},
+{
+origin = "{0, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"500 306 LINE",
+"551 305 LINE",
+"551 334 LINE",
+"500 334 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+length = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = length;
+position = "{937, 329}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "3C061602-41E8-45CE-8A57-D08265D3268F";
+name = max;
+paths = (
+{
+closed = 1;
+nodes = (
+"141 306 LINE",
+"825 305 LINE",
+"825 334 LINE",
+"141 334 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+length = 2;
+};
+};
+visible = 1;
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = length;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 1000;
+}
+);
+}

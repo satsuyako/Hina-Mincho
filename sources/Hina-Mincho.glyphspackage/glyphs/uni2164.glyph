@@ -1,0 +1,17 @@
+{
+glyphname = uni2164;
+layers = (
+{
+components = (
+{
+name = V;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 775;
+}
+);
+leftMetricsKey = V;
+rightMetricsKey = V;
+unicode = 2164;
+}

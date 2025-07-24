@@ -1,0 +1,16 @@
+{
+glyphname = tilde.rotat;
+layers = (
+{
+components = (
+{
+name = tildecomb;
+transform = "{0, 1, -1, 0, 1640, 439}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 0;
+width = 1000;
+}
+);
+}

@@ -1,0 +1,38 @@
+{
+glyphname = dotbelowcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{299.5, 0}";
+},
+{
+name = bottom;
+position = "{300, -139}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"325 -130 OFFCURVE",
+"347 -108 OFFCURVE",
+"347 -82 CURVE SMOOTH",
+"347 -57 OFFCURVE",
+"325 -35 OFFCURVE",
+"300 -35 CURVE SMOOTH",
+"274 -35 OFFCURVE",
+"252 -57 OFFCURVE",
+"252 -82 CURVE SMOOTH",
+"252 -108 OFFCURVE",
+"274 -130 OFFCURVE",
+"300 -130 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

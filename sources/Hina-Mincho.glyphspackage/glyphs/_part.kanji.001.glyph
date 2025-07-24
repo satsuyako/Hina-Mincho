@@ -1,0 +1,111 @@
+{
+export = 0;
+glyphname = _part.kanji.001;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"351 479 OFFCURVE",
+"398 515 OFFCURVE",
+"389 549 CURVE SMOOTH",
+"367 631 OFFCURVE",
+"258 717 OFFCURVE",
+"227 733 CURVE SMOOTH",
+"213 740 OFFCURVE",
+"206 729 OFFCURVE",
+"212 721 CURVE SMOOTH",
+"260 663 OFFCURVE",
+"289 611 OFFCURVE",
+"328 528 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+Property = 1;
+yoko = 1;
+};
+};
+width = 600;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "F4EA9AE3-CAB3-482C-8A1B-7A0125602754";
+name = max;
+paths = (
+{
+closed = 1;
+nodes = (
+"490 99 OFFCURVE",
+"567 156 OFFCURVE",
+"542 223 CURVE SMOOTH",
+"441 490 OFFCURVE",
+"251 711 OFFCURVE",
+"185 755 CURVE SMOOTH",
+"171 765 OFFCURVE",
+"165 747 OFFCURVE",
+"172 740 CURVE SMOOTH",
+"237 676 OFFCURVE",
+"385 463 OFFCURVE",
+"467 179 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+Property = 2;
+};
+};
+width = 600;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "A8CAC9C8-AE10-45F8-853B-EAF5AAD49BB7";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"527 500 OFFCURVE",
+"562 566 OFFCURVE",
+"513 601 CURVE SMOOTH",
+"403 679 OFFCURVE",
+"226 714 OFFCURVE",
+"178 719 CURVE SMOOTH",
+"160 721 OFFCURVE",
+"143 705 OFFCURVE",
+"173 696 CURVE SMOOTH",
+"226 679 OFFCURVE",
+"361 622 OFFCURVE",
+"467 544 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 600;
+}
+);
+partsSettings = (
+{
+name = Property;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 1000;
+},
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 100;
+}
+);
+}

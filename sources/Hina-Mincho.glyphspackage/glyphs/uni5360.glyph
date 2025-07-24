@@ -1,0 +1,159 @@
+{
+glyphname = uni5360;
+layers = (
+{
+hints = (
+{
+origin = "{0, 43}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 37}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"200 -68 OFFCURVE",
+"211 -75 OFFCURVE",
+"223 -75 CURVE SMOOTH",
+"243 -75 OFFCURVE",
+"267 -59 OFFCURVE",
+"267 -34 CURVE SMOOTH",
+"267 -15 OFFCURVE",
+"280 -5 OFFCURVE",
+"302 -5 CURVE SMOOTH",
+"705 -5 LINE SMOOTH",
+"728 -5 OFFCURVE",
+"740 -21 OFFCURVE",
+"740 -44 CURVE SMOOTH",
+"740 -58 OFFCURVE",
+"741 -75 OFFCURVE",
+"762 -75 CURVE SMOOTH",
+"782 -75 OFFCURVE",
+"807 -62 OFFCURVE",
+"807 -34 CURVE SMOOTH",
+"807 256 LINE SMOOTH",
+"807 293 OFFCURVE",
+"836 287 OFFCURVE",
+"836 309 CURVE SMOOTH",
+"836 325 OFFCURVE",
+"798 363 OFFCURVE",
+"764 363 CURVE SMOOTH",
+"743 363 OFFCURVE",
+"729 334 OFFCURVE",
+"704 334 CURVE SMOOTH",
+"546 334 LINE SMOOTH",
+"524 334 OFFCURVE",
+"511 347 OFFCURVE",
+"511 369 CURVE SMOOTH",
+"511 511 LINE SMOOTH",
+"511 533 OFFCURVE",
+"524 546 OFFCURVE",
+"546 546 CURVE SMOOTH",
+"705 545 LINE",
+"705 574 LINE",
+"546 574 LINE SMOOTH",
+"524 574 OFFCURVE",
+"511 587 OFFCURVE",
+"511 609 CURVE SMOOTH",
+"511 790 LINE",
+"447 790 LINE",
+"447 369 LINE SMOOTH",
+"447 347 OFFCURVE",
+"434 334 OFFCURVE",
+"412 334 CURVE SMOOTH",
+"288 334 LINE SMOOTH",
+"274 334 OFFCURVE",
+"260 360 OFFCURVE",
+"218 360 CURVE SMOOTH",
+"211 360 OFFCURVE",
+"203 359 OFFCURVE",
+"203 349 CURVE SMOOTH",
+"202 18 LINE SMOOTH",
+"202 -2 OFFCURVE",
+"200 -24 OFFCURVE",
+"200 -52 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"267 272 LINE SMOOTH",
+"267 294 OFFCURVE",
+"280 307 OFFCURVE",
+"302 307 CURVE SMOOTH",
+"708 307 LINE SMOOTH",
+"730 307 OFFCURVE",
+"743 294 OFFCURVE",
+"743 272 CURVE SMOOTH",
+"743 57 LINE SMOOTH",
+"743 35 OFFCURVE",
+"730 22 OFFCURVE",
+"708 22 CURVE SMOOTH",
+"302 23 LINE SMOOTH",
+"280 23 OFFCURVE",
+"267 36 OFFCURVE",
+"267 58 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+tate = 231.55113;
+yoko = 441.16953;
+};
+transform = "{1, 0, 0, 1, 1, -239}";
+}
+);
+hints = (
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 1}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "D05EF2EA-BEFD-4618-8C2E-B8625837B9F8";
+name = "May 2 20, 04:44";
+paths = (
+{
+closed = 1;
+nodes = (
+"447 324 LINE",
+"511 324 LINE",
+"511 790 LINE",
+"447 790 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"484 546 LINE",
+"705 545 LINE",
+"705 574 LINE",
+"484 574 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 5360;
+}

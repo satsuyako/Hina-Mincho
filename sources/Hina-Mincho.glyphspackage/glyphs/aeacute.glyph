@@ -1,0 +1,30 @@
+{
+glyphname = aeacute;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = ae;
+},
+{
+alignment = -1;
+name = acutecomb;
+transform = "{1, 0, 0, 1, -18, -320}";
+}
+);
+guideLines = (
+{
+position = "{264, 557}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 565;
+}
+);
+leftKerningGroup = a;
+leftMetricsKey = a;
+rightKerningGroup = e;
+rightMetricsKey = e;
+unicode = 01FD;
+}

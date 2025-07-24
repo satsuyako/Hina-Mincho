@@ -1,0 +1,41 @@
+{
+glyphname = "voiced-kana.vert";
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"756 49 OFFCURVE",
+"743 36 OFFCURVE",
+"760 19 CURVE SMOOTH",
+"807 -28 OFFCURVE",
+"798 -54 OFFCURVE",
+"811 -82 CURVE SMOOTH",
+"831 -126 OFFCURVE",
+"936 -88 OFFCURVE",
+"781 30 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"841 85 OFFCURVE",
+"830 69 OFFCURVE",
+"846 54 CURVE SMOOTH",
+"894 9 OFFCURVE",
+"887 -10 OFFCURVE",
+"899 -43 CURVE SMOOTH",
+"917 -93 OFFCURVE",
+"1022 -43 OFFCURVE",
+"868 66 CURVE SMOOTH"
+);
+}
+);
+vertWidth = 1000;
+width = 1000;
+}
+);
+subCategory = Spacing;
+}

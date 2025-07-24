@@ -1,0 +1,25 @@
+{
+glyphname = "kasmall-hira";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "ka-hira";
+transform = "{0.79415, 0, 0, 0.79415, 87, -62}";
+}
+);
+guideLines = (
+{
+position = "{430, 559}";
+},
+{
+position = "{430, -64}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 3095;
+}

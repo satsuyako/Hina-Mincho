@@ -1,0 +1,21 @@
+{
+glyphname = macron.full;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"0 850 LINE",
+"1000 850 LINE",
+"1000 880 LINE",
+"0 880 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = FFE3;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = two_zero.circled;
+layers = (
+{
+components = (
+{
+name = two;
+transform = "{0.64703, 0, 0, 0.71429, 196, 130}";
+},
+{
+name = zero;
+transform = "{0.64703, 0, 0, 0.71429, 507, 135}";
+},
+{
+name = uni20DD;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+leftMetricsKey = uni20DD;
+rightMetricsKey = uni20DD;
+unicode = 2473;
+}

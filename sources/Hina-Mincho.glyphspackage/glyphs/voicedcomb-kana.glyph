@@ -1,0 +1,47 @@
+{
+glyphname = "voicedcomb-kana";
+layers = (
+{
+anchors = (
+{
+name = _migiue;
+position = "{21, 557}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"17 756 OFFCURVE",
+"4 737 OFFCURVE",
+"21 716 CURVE SMOOTH",
+"67 659 OFFCURVE",
+"67 626 OFFCURVE",
+"80 589 CURVE SMOOTH",
+"104 521 OFFCURVE",
+"229 566 OFFCURVE",
+"46 730 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"112 793 OFFCURVE",
+"96 775 OFFCURVE",
+"117 754 CURVE SMOOTH",
+"166 705 OFFCURVE",
+"164 669 OFFCURVE",
+"181 634 CURVE SMOOTH",
+"210 574 OFFCURVE",
+"322 625 OFFCURVE",
+"142 769 CURVE SMOOTH"
+);
+}
+);
+vertWidth = 0;
+width = 1000;
+}
+);
+unicode = 3099;
+}

@@ -1,0 +1,50 @@
+{
+glyphname = breveinvertedcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{299.5, 700}";
+},
+{
+name = top;
+position = "{300, 863}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"406 731 OFFCURVE",
+"418 743 OFFCURVE",
+"416 759 CURVE SMOOTH",
+"409 817 OFFCURVE",
+"364 863 OFFCURVE",
+"300 863 CURVE SMOOTH",
+"236 863 OFFCURVE",
+"190 817 OFFCURVE",
+"183 760 CURVE SMOOTH",
+"181 743 OFFCURVE",
+"193 732 OFFCURVE",
+"205 732 CURVE SMOOTH",
+"216 732 OFFCURVE",
+"227 742 OFFCURVE",
+"228 760 CURVE SMOOTH",
+"231 808 OFFCURVE",
+"264 832 OFFCURVE",
+"299 832 CURVE SMOOTH",
+"335 832 OFFCURVE",
+"366 808 OFFCURVE",
+"371 759 CURVE SMOOTH",
+"373 741 OFFCURVE",
+"384 731 OFFCURVE",
+"394 731 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

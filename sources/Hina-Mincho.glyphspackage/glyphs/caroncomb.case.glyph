@@ -1,0 +1,50 @@
+{
+glyphname = caroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{300, 700}";
+},
+{
+name = top;
+position = "{300, 861}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"308 729 OFFCURVE",
+"318 733 OFFCURVE",
+"326 746 CURVE SMOOTH",
+"374 824 OFFCURVE",
+"411 842 OFFCURVE",
+"411 858 CURVE SMOOTH",
+"411 866 OFFCURVE",
+"406 876 OFFCURVE",
+"391 876 CURVE SMOOTH",
+"371 876 OFFCURVE",
+"348 832 OFFCURVE",
+"300 782 CURVE",
+"252 832 OFFCURVE",
+"229 876 OFFCURVE",
+"209 876 CURVE SMOOTH",
+"194 876 OFFCURVE",
+"189 866 OFFCURVE",
+"189 858 CURVE SMOOTH",
+"189 842 OFFCURVE",
+"228 825 OFFCURVE",
+"274 746 CURVE SMOOTH",
+"281 734 OFFCURVE",
+"292 729 OFFCURVE",
+"300 729 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

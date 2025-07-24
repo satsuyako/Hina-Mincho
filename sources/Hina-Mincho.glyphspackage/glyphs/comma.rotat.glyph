@@ -1,0 +1,16 @@
+{
+glyphname = comma.rotat;
+layers = (
+{
+components = (
+{
+name = comma;
+transform = "{0, -1, 1, 0, 113, 873}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 187;
+width = 1000;
+}
+);
+}

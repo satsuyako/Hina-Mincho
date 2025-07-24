@@ -1,0 +1,18 @@
+{
+glyphname = zero.zero;
+layers = (
+{
+components = (
+{
+name = zero;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 500;
+}
+);
+leftKerningGroup = "0";
+leftMetricsKey = zero;
+rightKerningGroup = "0";
+rightMetricsKey = zero;
+}

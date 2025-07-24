@@ -1,0 +1,30 @@
+{
+glyphname = overlinecomb;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{235, 700}";
+},
+{
+name = top;
+position = "{235, 866}";
+}
+);
+components = (
+{
+alignment = -1;
+name = _part.yokosen;
+piece = {
+nagasa = 10;
+};
+transform = "{1, 0, 0, 1, -116, 467}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 0;
+}
+);
+unicode = 0305;
+}

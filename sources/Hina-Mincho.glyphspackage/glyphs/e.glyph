@@ -1,0 +1,79 @@
+{
+glyphname = e;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{195, 0}";
+},
+{
+name = ogonek;
+position = "{343, 32}";
+},
+{
+name = top;
+position = "{201, 380}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"20 60 OFFCURVE",
+"115 0 OFFCURVE",
+"206 0 CURVE SMOOTH",
+"279 0 OFFCURVE",
+"319 31 OFFCURVE",
+"354 81 CURVE SMOOTH",
+"372 106 OFFCURVE",
+"348 123 OFFCURVE",
+"334 99 CURVE SMOOTH",
+"318 71 OFFCURVE",
+"277 36 OFFCURVE",
+"216 36 CURVE SMOOTH",
+"136 36 OFFCURVE",
+"93 115 OFFCURVE",
+"93 201 CURVE SMOOTH",
+"93 210 OFFCURVE",
+"99 215 OFFCURVE",
+"108 215 CURVE SMOOTH",
+"321 214 LINE SMOOTH",
+"336 214 OFFCURVE",
+"352 231 OFFCURVE",
+"350 265 CURVE SMOOTH",
+"346 338 OFFCURVE",
+"279 380 OFFCURVE",
+"201 380 CURVE SMOOTH",
+"120 380 OFFCURVE",
+"20 319 OFFCURVE",
+"20 189 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"119 322 OFFCURVE",
+"157 354 OFFCURVE",
+"201 354 CURVE SMOOTH",
+"248 354 OFFCURVE",
+"279 319 OFFCURVE",
+"279 270 CURVE SMOOTH",
+"279 258 OFFCURVE",
+"279 240 OFFCURVE",
+"251 240 CURVE SMOOTH",
+"114 239 LINE SMOOTH",
+"104 239 OFFCURVE",
+"98 245 OFFCURVE",
+"101 256 CURVE SMOOTH"
+);
+}
+);
+width = 380;
+}
+);
+leftKerningGroup = e;
+rightKerningGroup = e;
+unicode = 0065;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = colonsign;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.yokosen;
+piece = {
+nagasa = 69.72588;
+};
+transform = "{0.17365, 0.98481, -0.98481, 0.17365, 556, -58}";
+},
+{
+alignment = -1;
+name = _part.yokosen;
+piece = {
+nagasa = 69.72588;
+};
+transform = "{0.17365, 0.98481, -0.98481, 0.17365, 656, -58}";
+},
+{
+alignment = -1;
+name = _part.C;
+transform = "{1, 0, 0, 1, -50, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 658;
+}
+);
+unicode = 20A1;
+}

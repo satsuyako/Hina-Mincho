@@ -1,0 +1,25 @@
+{
+glyphname = approxequal;
+layers = (
+{
+components = (
+{
+name = asciitilde;
+transform = "{1.3, 0, 0, 1.3, -12, 140}";
+},
+{
+name = asciitilde;
+transform = "{1.3, 0, 0, 1.3, -12, -70}";
+}
+);
+guideLines = (
+{
+position = "{100, 348}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 563;
+}
+);
+unicode = 2248;
+}

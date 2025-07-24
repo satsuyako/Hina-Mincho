@@ -1,0 +1,136 @@
+{
+glyphname = uni793E;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.tsuchi;
+piece = {
+shift = 75.0558;
+shita = 386.52145;
+tate = 364.17218;
+yoko = 216.72301;
+};
+transform = "{1, 0, 0, 1, -19, -56}";
+}
+);
+hints = (
+{
+origin = "{0, 45}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 9}";
+type = Cap;
+name = _cap.tate.002;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"21 246 OFFCURVE",
+"36 218 OFFCURVE",
+"68 231 CURVE SMOOTH",
+"100 245 OFFCURVE",
+"147 269 OFFCURVE",
+"196 306 CURVE SMOOTH",
+"213 319 OFFCURVE",
+"227 313 OFFCURVE",
+"227 292 CURVE SMOOTH",
+"227 0 LINE",
+"291 0 LINE",
+"291 316 LINE SMOOTH",
+"291 337 OFFCURVE",
+"305 345 OFFCURVE",
+"322 331 CURVE SMOOTH",
+"359 298 OFFCURVE",
+"407 252 OFFCURVE",
+"427 224 CURVE SMOOTH",
+"448 195 OFFCURVE",
+"481 213 OFFCURVE",
+"474 261 CURVE SMOOTH",
+"469 295 OFFCURVE",
+"381 356 OFFCURVE",
+"319 383 CURVE SMOOTH",
+"302 390 OFFCURVE",
+"299 401 OFFCURVE",
+"310 416 CURVE SMOOTH",
+"346 460 OFFCURVE",
+"379 512 OFFCURVE",
+"402 574 CURVE SMOOTH",
+"410 593 OFFCURVE",
+"423 597 OFFCURVE",
+"441 607 CURVE SMOOTH",
+"457 616 OFFCURVE",
+"454 635 OFFCURVE",
+"440 651 CURVE SMOOTH",
+"412 681 OFFCURVE",
+"372 699 OFFCURVE",
+"334 661 CURVE SMOOTH",
+"329 656 OFFCURVE",
+"322 650 OFFCURVE",
+"314 645 CURVE SMOOTH",
+"302 636 OFFCURVE",
+"291 648 OFFCURVE",
+"291 667 CURVE SMOOTH",
+"291 789 LINE",
+"227 789 LINE",
+"227 653 LINE SMOOTH",
+"227 637 OFFCURVE",
+"218 628 OFFCURVE",
+"202 628 CURVE SMOOTH",
+"175 629 OFFCURVE",
+"144 631 OFFCURVE",
+"86 634 CURVE SMOOTH",
+"58 635 OFFCURVE",
+"57 593 OFFCURVE",
+"86 594 CURVE SMOOTH",
+"171 598 OFFCURVE",
+"204 600 OFFCURVE",
+"234 600 CURVE SMOOTH",
+"297 600 LINE SMOOTH",
+"322 600 OFFCURVE",
+"335 585 OFFCURVE",
+"327 561 CURVE SMOOTH",
+"294 466 OFFCURVE",
+"203 330 OFFCURVE",
+"52 259 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.nehen;
+piece = {
+yoko = -205.53978;
+};
+transform = "{1, 0, 0, 1, 10, 0}";
+},
+{
+alignment = -1;
+name = _part.kanji.tsuchi;
+piece = {
+shift = 75.0558;
+shita = 386.52145;
+tate = 364.17218;
+yoko = 216.72301;
+};
+transform = "{1, 0, 0, 1, -19, -56}";
+}
+);
+layerId = "F4450034-7A20-4602-83BE-8B6310CA47C4";
+name = "Jun 12 20, 23:31";
+width = 1000;
+}
+);
+unicode = 793E;
+}

@@ -1,0 +1,262 @@
+{
+glyphname = uni4F34;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.ninben;
+piece = {
+yoko = 144.01831;
+};
+}
+);
+hints = (
+{
+origin = "{1, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 42}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{1, 4}";
+target = "{1, 5}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 26}";
+target = "{1, 27}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 20}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 32}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"438 684 OFFCURVE",
+"462 620 OFFCURVE",
+"482 566 CURVE SMOOTH",
+"494 533 OFFCURVE",
+"552 558 OFFCURVE",
+"540 601 CURVE SMOOTH",
+"524 660 OFFCURVE",
+"462 720 OFFCURVE",
+"410 743 CURVE SMOOTH",
+"393 750 OFFCURVE",
+"383 731 OFFCURVE",
+"394 722 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"555 297 LINE SMOOTH",
+"577 297 OFFCURVE",
+"590 284 OFFCURVE",
+"590 262 CURVE SMOOTH",
+"590 -13 LINE",
+"654 -13 LINE",
+"654 261 LINE SMOOTH",
+"654 283 OFFCURVE",
+"667 296 OFFCURVE",
+"689 296 CURVE SMOOTH",
+"813 296 LINE",
+"813 325 LINE",
+"689 325 LINE SMOOTH",
+"667 325 OFFCURVE",
+"654 338 OFFCURVE",
+"654 360 CURVE SMOOTH",
+"654 440 LINE SMOOTH",
+"654 462 OFFCURVE",
+"667 475 OFFCURVE",
+"689 475 CURVE SMOOTH",
+"744 475 LINE",
+"744 504 LINE",
+"689 504 LINE SMOOTH",
+"667 504 OFFCURVE",
+"654 517 OFFCURVE",
+"654 539 CURVE SMOOTH",
+"654 804 LINE",
+"590 804 LINE",
+"590 539 LINE SMOOTH",
+"590 517 OFFCURVE",
+"577 504 OFFCURVE",
+"555 504 CURVE SMOOTH",
+"507 504 LINE",
+"507 476 LINE",
+"555 476 LINE SMOOTH",
+"577 476 OFFCURVE",
+"590 463 OFFCURVE",
+"590 441 CURVE SMOOTH",
+"590 360 LINE SMOOTH",
+"590 338 OFFCURVE",
+"577 325 OFFCURVE",
+"555 325 CURVE SMOOTH",
+"453 325 LINE",
+"453 297 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 534 OFFCURVE",
+"698 524 OFFCURVE",
+"716 540 CURVE SMOOTH",
+"763 583 OFFCURVE",
+"800 626 OFFCURVE",
+"849 688 CURVE SMOOTH",
+"868 712 OFFCURVE",
+"873 718 OFFCURVE",
+"883 710 CURVE SMOOTH",
+"894 702 OFFCURVE",
+"908 710 OFFCURVE",
+"895 732 CURVE SMOOTH",
+"876 764 OFFCURVE",
+"812 786 OFFCURVE",
+"790 733 CURVE SMOOTH",
+"762 666 OFFCURVE",
+"744 618 OFFCURVE",
+"697 555 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji.ninben;
+piece = {
+yoko = 144.01831;
+};
+}
+);
+hints = (
+{
+origin = "{2, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{2, 3}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{3, 0}";
+target = "{3, 1}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{3, 2}";
+target = "{3, 3}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{4, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{4, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "2A9FF247-0016-4457-AE5C-391069330C42";
+name = "Nov 22 20, 23:05";
+paths = (
+{
+closed = 1;
+nodes = (
+"438 684 OFFCURVE",
+"462 620 OFFCURVE",
+"482 566 CURVE SMOOTH",
+"494 533 OFFCURVE",
+"552 558 OFFCURVE",
+"540 601 CURVE SMOOTH",
+"524 660 OFFCURVE",
+"462 720 OFFCURVE",
+"410 743 CURVE SMOOTH",
+"393 750 OFFCURVE",
+"383 731 OFFCURVE",
+"394 722 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"682 534 OFFCURVE",
+"698 524 OFFCURVE",
+"716 540 CURVE SMOOTH",
+"763 583 OFFCURVE",
+"800 626 OFFCURVE",
+"849 688 CURVE SMOOTH",
+"868 712 OFFCURVE",
+"873 718 OFFCURVE",
+"883 710 CURVE SMOOTH",
+"894 702 OFFCURVE",
+"908 710 OFFCURVE",
+"895 732 CURVE SMOOTH",
+"876 764 OFFCURVE",
+"812 786 OFFCURVE",
+"790 733 CURVE SMOOTH",
+"762 666 OFFCURVE",
+"744 618 OFFCURVE",
+"697 555 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"453 297 LINE",
+"813 296 LINE",
+"813 325 LINE",
+"453 325 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"590 -13 LINE",
+"654 -13 LINE",
+"654 804 LINE",
+"590 804 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"507 476 LINE",
+"744 475 LINE",
+"744 504 LINE",
+"507 504 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4F34;
+}

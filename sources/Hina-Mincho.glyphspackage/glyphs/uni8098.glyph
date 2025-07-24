@@ -1,0 +1,136 @@
+{
+glyphname = uni8098;
+layers = (
+{
+components = (
+{
+name = _part.kanji.tsuki;
+piece = {
+harai = -90.90787;
+tate = 410;
+yoko = 21.20804;
+};
+transform = "{1, 0, 0, 1, -562, 12}";
+}
+);
+hints = (
+{
+origin = "{0, 43}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"463 498 OFFCURVE",
+"486 497 OFFCURVE",
+"530 498 CURVE SMOOTH",
+"702 500 LINE SMOOTH",
+"724 500 OFFCURVE",
+"737 487 OFFCURVE",
+"737 465 CURVE SMOOTH",
+"737 62 LINE SMOOTH",
+"737 27 OFFCURVE",
+"730 4 OFFCURVE",
+"694 10 CURVE SMOOTH",
+"663 14 OFFCURVE",
+"578 46 OFFCURVE",
+"553 53 CURVE SMOOTH",
+"528 59 OFFCURVE",
+"521 32 OFFCURVE",
+"545 22 CURVE SMOOTH",
+"565 13 OFFCURVE",
+"652 -16 OFFCURVE",
+"668 -21 CURVE SMOOTH",
+"719 -40 OFFCURVE",
+"694 -75 OFFCURVE",
+"728 -75 CURVE SMOOTH",
+"768 -75 OFFCURVE",
+"801 -56 OFFCURVE",
+"801 3 CURVE SMOOTH",
+"801 466 LINE SMOOTH",
+"801 488 OFFCURVE",
+"814 501 OFFCURVE",
+"836 501 CURVE SMOOTH",
+"951 502 LINE SMOOTH",
+"990 502 OFFCURVE",
+"995 530 OFFCURVE",
+"975 552 CURVE SMOOTH",
+"948 581 OFFCURVE",
+"928 588 OFFCURVE",
+"902 562 CURVE SMOOTH",
+"888 548 OFFCURVE",
+"866 530 OFFCURVE",
+"836 530 CURVE SMOOTH",
+"814 530 OFFCURVE",
+"801 543 OFFCURVE",
+"801 565 CURVE SMOOTH",
+"801 790 LINE",
+"737 790 LINE",
+"737 565 LINE SMOOTH",
+"737 543 OFFCURVE",
+"724 530 OFFCURVE",
+"702 530 CURVE SMOOTH",
+"570 530 LINE SMOOTH",
+"520 530 OFFCURVE",
+"494 532 OFFCURVE",
+"450 536 CURVE SMOOTH",
+"416 539 OFFCURVE",
+"415 492 OFFCURVE",
+"450 496 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"526 334 OFFCURVE",
+"570 285 OFFCURVE",
+"602 230 CURVE SMOOTH",
+"625 190 OFFCURVE",
+"667 220 OFFCURVE",
+"654 256 CURVE SMOOTH",
+"635 304 OFFCURVE",
+"554 377 OFFCURVE",
+"501 386 CURVE SMOOTH",
+"481 389 OFFCURVE",
+"484 370 OFFCURVE",
+"493 363 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+name = _part.kanji.sun;
+piece = {
+"1" = 1082.48694;
+center = 27.89062;
+hane = 249.70015;
+tate = 461.04929;
+yoko = 189.17592;
+};
+transform = "{1, 0, 0, 1, 60, 10}";
+},
+{
+name = _part.kanji.tsuki;
+piece = {
+harai = -90.90787;
+tate = 410;
+yoko = 21.20804;
+};
+transform = "{1, 0, 0, 1, -562, 12}";
+}
+);
+layerId = "9C84A55C-D3B0-45F2-9A50-1D9DB36B24EB";
+name = "May 4 20, 17:50";
+width = 1000;
+}
+);
+unicode = 8098;
+}

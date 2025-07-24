@@ -1,0 +1,135 @@
+{
+glyphname = uni8A0E;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.gonben;
+piece = {
+yoko = -64.5419;
+};
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+hints = (
+{
+origin = "{0, 44}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"446 479 OFFCURVE",
+"473 480 OFFCURVE",
+"526 481 CURVE SMOOTH",
+"695 482 LINE SMOOTH",
+"717 482 OFFCURVE",
+"730 469 OFFCURVE",
+"730 447 CURVE SMOOTH",
+"730 62 LINE SMOOTH",
+"730 27 OFFCURVE",
+"723 4 OFFCURVE",
+"687 10 CURVE SMOOTH",
+"656 14 OFFCURVE",
+"570 46 OFFCURVE",
+"546 53 CURVE SMOOTH",
+"521 59 OFFCURVE",
+"514 32 OFFCURVE",
+"537 22 CURVE SMOOTH",
+"558 13 OFFCURVE",
+"645 -16 OFFCURVE",
+"661 -21 CURVE SMOOTH",
+"712 -40 OFFCURVE",
+"687 -75 OFFCURVE",
+"721 -75 CURVE SMOOTH",
+"761 -75 OFFCURVE",
+"794 -56 OFFCURVE",
+"794 3 CURVE SMOOTH",
+"794 447 LINE SMOOTH",
+"794 469 OFFCURVE",
+"807 482 OFFCURVE",
+"829 482 CURVE SMOOTH",
+"951 483 LINE SMOOTH",
+"990 483 OFFCURVE",
+"995 511 OFFCURVE",
+"975 533 CURVE SMOOTH",
+"948 562 OFFCURVE",
+"928 569 OFFCURVE",
+"902 543 CURVE SMOOTH",
+"888 529 OFFCURVE",
+"866 511 OFFCURVE",
+"836 511 CURVE SMOOTH",
+"829 511 LINE SMOOTH",
+"807 511 OFFCURVE",
+"794 524 OFFCURVE",
+"794 546 CURVE SMOOTH",
+"794 790 LINE",
+"730 790 LINE",
+"730 546 LINE SMOOTH",
+"730 524 OFFCURVE",
+"717 511 OFFCURVE",
+"695 511 CURVE SMOOTH",
+"551 511 LINE SMOOTH",
+"501 511 OFFCURVE",
+"475 513 OFFCURVE",
+"431 517 CURVE SMOOTH",
+"397 520 OFFCURVE",
+"396 473 OFFCURVE",
+"431 477 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"515 315 OFFCURVE",
+"559 267 OFFCURVE",
+"592 211 CURVE SMOOTH",
+"614 171 OFFCURVE",
+"657 202 OFFCURVE",
+"643 237 CURVE SMOOTH",
+"624 286 OFFCURVE",
+"542 359 OFFCURVE",
+"489 368 CURVE SMOOTH",
+"469 371 OFFCURVE",
+"472 352 OFFCURVE",
+"482 345 CURVE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+name = _part.kanji.sun;
+piece = {
+"1" = 623.37238;
+center = 27.89062;
+hane = 249.70015;
+tate = 461.04929;
+yoko = 206.65329;
+};
+transform = "{1, 0, 0, 1, 60, 10}";
+},
+{
+alignment = -1;
+name = _part.kanji.gonben;
+piece = {
+yoko = -64.5419;
+};
+transform = "{1, 0, 0, 1, 10, 0}";
+}
+);
+layerId = "EAF7777B-02BC-4C67-B7DF-51E9EF5C7907";
+name = "May 4 20, 23:13";
+width = 1000;
+}
+);
+unicode = 8A0E;
+}

@@ -1,0 +1,73 @@
+{
+glyphname = uni75A5;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.yamaidare;
+piece = {
+tate = 223.9682;
+yoko = -56.25592;
+};
+transform = "{1, 0, 0, 1, 5, 0}";
+},
+{
+name = _part.kanji.hitoyane;
+piece = {
+tate = 178.38083;
+ue = 96.60714;
+yoko = 270.47079;
+};
+transform = "{1, 0, 0, 1, 104, -181}";
+}
+);
+hints = (
+{
+origin = "{0, 1}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 3}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 5}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"705 -5 LINE",
+"705 342 LINE",
+"641 342 LINE",
+"641 -5 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"254 -45 OFFCURVE",
+"267 -70 OFFCURVE",
+"302 -56 CURVE SMOOTH",
+"497 20 OFFCURVE",
+"518 131 OFFCURVE",
+"518 342 CURVE",
+"454 342 LINE",
+"454 265 OFFCURVE",
+"479 46 OFFCURVE",
+"287 -32 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 75A5;
+}

@@ -28,6 +28,15 @@ Kanji JIS Level1, 2 and ‘頰’, ‘塡’, ‘剝’, ‘𠮟’<br>
 Cyrillic and Greek<br>
 Punctuations and symbols<br>
 
+<h2>sources/archive/</h2>
+This repository previously included a `.glyphs` source created in Glyphs 2.<br>
+As of version 1.004, the source has been migrated to the `.glyphspackage` format for Glyphs 3.<br>
+The old `.glyphs` file is retained in `/archive` for reference only and should not be used for editing.<br>
+
+<h2>/fonts/archive/old_fonts/</h2>
+This folder contains previously built TTF files based on the old `.glyphs` source (Glyphs 2).<br>
+These are retained for reference only and should not be used in production.<br>
+
 
 <h2>「HinaMincho」について</h2>
 HinaMinchoは古風でかわいらしく品のある雛人形をイメージした明朝体です。<br>
@@ -45,15 +54,20 @@ SIL Open Font License Version 1.1<br>
 詳細はライセンス原文（https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html）<br>
 またはリポジトリ内のOFL.txtをご確認下さい。<br>
 
-<h2>収録予定文字</h2>
-・半角英数、約物、ラテン拡張文字など（Google Latin Plus）592文字以上<br>
-・ひらがな89グリフ、全角カタカナ94グリフ<br>
-・半角カタカナ55グリフ<br>
-・全角英数、全角記号<br>
-・IBM拡張文字の記号<br>
-・「㋿（uni32FF）」、囲み数字などの記号<br>
-・JIS第1水準2965文字<br>
-・JIS第2水準3390文字<br>
-・IBM拡張文字388文字<br>
-・第三水準の常用漢字「頰」「塡」「剝」「𠮟」<br>
-・その他（ギリシャ文字、キリル文字など）<br>
+<h2>対応文字</h2>
+・Google Latin Plus(https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/GF%20Glyph%20Sets/GF-latin-plus_unique-glyphs.nam) に準拠したラテン文字セット<br>
+・ひらがな<br>
+・カタカナ（全角・半角）<br>
+・漢字（JIS第1水準・第2水準 + 『頰』『塡』『剝』『𠮟』）<br>
+・キリル文字・ギリシャ文字<br>
+・記号・約物類<br>
+
+<h2>sources/archive/ フォルダについて</h2>
+このリポジトリには以前、Glyphs 2 で作成された.glyphs形式のソースファイルが含まれていました。<br>
+バージョン 1.004 以降は、Glyphs 3 に対応した.glyphspackage形式へと移行されています。<br>
+
+archive フォルダ内の .glyphs ファイルは参照用に残しているものであり、編集には使用しないでください。<br>
+
+<h2>/fonts/archive/old_fonts/ フォルダについて</h2>
+このフォルダには、旧.glyphsソース（Glyphs 2）をもとに書き出された過去のTTFファイルが保管されています。<br>
+これらも参照用に残しているものであり、商用・配布用途での使用は推奨されません。<br>

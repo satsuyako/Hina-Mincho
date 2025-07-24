@@ -1,0 +1,70 @@
+{
+glyphname = uni4E8C;
+layers = (
+{
+hints = (
+{
+horizontal = 1;
+place = "{457.502, 19.902}";
+type = Stem;
+},
+{
+place = "{225.885, 99.511}";
+type = Stem;
+},
+{
+origin = "{0, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+horizontal = 1;
+place = "{-96.157, 5.384}";
+type = Stem;
+},
+{
+place = "{69.228, 26.922}";
+type = Stem;
+},
+{
+origin = "{1, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{1, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"336 576 LINE",
+"630 575 LINE",
+"630 604 LINE",
+"336 604 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"200 121 LINE",
+"782 120 LINE",
+"782 149 LINE",
+"200 149 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4E8C;
+}

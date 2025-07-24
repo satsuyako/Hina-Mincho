@@ -1,0 +1,46 @@
+{
+glyphname = "de-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "te-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"847 599 OFFCURVE",
+"966 621 OFFCURVE",
+"808 762 CURVE SMOOTH",
+"782 784 OFFCURVE",
+"764 768 OFFCURVE",
+"782 749 CURVE SMOOTH",
+"836 694 OFFCURVE",
+"819 680 OFFCURVE",
+"831 648 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"957 632 OFFCURVE",
+"1066 664 OFFCURVE",
+"904 791 CURVE SMOOTH",
+"877 813 OFFCURVE",
+"859 796 OFFCURVE",
+"879 778 CURVE SMOOTH",
+"934 725 OFFCURVE",
+"913 710 OFFCURVE",
+"929 681 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30C7;
+}

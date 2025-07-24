@@ -1,0 +1,37 @@
+{
+export = 0;
+glyphname = _cap.yoko;
+layers = (
+{
+anchors = (
+{
+name = origin;
+position = "{40, 561}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"40 561 LINE",
+"43 438 LINE SMOOTH",
+"44 409 OFFCURVE",
+"65 393 OFFCURVE",
+"87 413 CURVE SMOOTH",
+"96 421 OFFCURVE",
+"104 430 OFFCURVE",
+"111 441 CURVE SMOOTH",
+"124 461 OFFCURVE",
+"113 477 OFFCURVE",
+"97 492 CURVE SMOOTH",
+"83 505 OFFCURVE",
+"82 523 OFFCURVE",
+"80 553 CURVE"
+);
+}
+);
+width = 1000;
+}
+);
+}

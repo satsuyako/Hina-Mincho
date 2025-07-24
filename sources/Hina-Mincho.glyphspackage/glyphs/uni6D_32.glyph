@@ -1,0 +1,139 @@
+{
+glyphname = uni6D32;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.sanzui;
+piece = {
+tate = 237.45267;
+};
+transform = "{1, 0, 0, 1, -30, 0}";
+}
+);
+hints = (
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{1, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{2, 2}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"481 636 OFFCURVE",
+"481 698 OFFCURVE",
+"481 789 CURVE",
+"417 789 LINE",
+"417 719 OFFCURVE",
+"417 668 OFFCURVE",
+"417 568 CURVE SMOOTH",
+"417 349 OFFCURVE",
+"431 78 OFFCURVE",
+"306 -36 CURVE SMOOTH",
+"275 -64 OFFCURVE",
+"294 -87 OFFCURVE",
+"323 -65 CURVE SMOOTH",
+"488 59 OFFCURVE",
+"481 282 OFFCURVE",
+"481 557 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"645 93 LINE",
+"709 93 LINE",
+"709 789 LINE",
+"645 789 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"873 -8 LINE",
+"937 -8 LINE",
+"937 789 LINE",
+"873 789 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"558 375 OFFCURVE",
+"615 388 OFFCURVE",
+"614 426 CURVE SMOOTH",
+"613 477 OFFCURVE",
+"566 538 OFFCURVE",
+"525 561 CURVE SMOOTH",
+"509 570 OFFCURVE",
+"499 559 OFFCURVE",
+"507 546 CURVE SMOOTH",
+"528 512 OFFCURVE",
+"543 462 OFFCURVE",
+"551 415 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"788 375 OFFCURVE",
+"845 388 OFFCURVE",
+"844 426 CURVE SMOOTH",
+"843 477 OFFCURVE",
+"791 538 OFFCURVE",
+"750 562 CURVE SMOOTH",
+"735 571 OFFCURVE",
+"724 559 OFFCURVE",
+"732 546 CURVE SMOOTH",
+"753 512 OFFCURVE",
+"773 462 OFFCURVE",
+"781 415 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"268 370 OFFCURVE",
+"309 336 OFFCURVE",
+"335 359 CURVE SMOOTH",
+"385 403 OFFCURVE",
+"381 512 OFFCURVE",
+"378 570 CURVE SMOOTH",
+"377 590 OFFCURVE",
+"352 589 OFFCURVE",
+"351 573 CURVE SMOOTH",
+"348 519 OFFCURVE",
+"326 459 OFFCURVE",
+"292 407 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 6D32;
+}

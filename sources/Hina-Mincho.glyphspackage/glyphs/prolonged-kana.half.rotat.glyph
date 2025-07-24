@@ -1,0 +1,16 @@
+{
+glyphname = "prolonged-kana.half.rotat";
+layers = (
+{
+components = (
+{
+name = "prolonged-kana.half";
+transform = "{0, -1, 1, 0, 132, 880}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 500;
+width = 1000;
+}
+);
+}

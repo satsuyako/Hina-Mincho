@@ -1,0 +1,50 @@
+{
+glyphname = horncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+position = "{214, 700}";
+},
+{
+name = topright;
+position = "{386, 872}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"346 697 OFFCURVE",
+"376 743 OFFCURVE",
+"376 790 CURVE SMOOTH",
+"376 824 OFFCURVE",
+"351 852 OFFCURVE",
+"326 852 CURVE SMOOTH",
+"304 852 OFFCURVE",
+"286 833 OFFCURVE",
+"286 811 CURVE SMOOTH",
+"286 797 OFFCURVE",
+"292 782 OFFCURVE",
+"311 771 CURVE SMOOTH",
+"323 764 OFFCURVE",
+"327 755 OFFCURVE",
+"327 747 CURVE SMOOTH",
+"327 726 OFFCURVE",
+"280 726 OFFCURVE",
+"257 726 CURVE SMOOTH",
+"252 726 OFFCURVE",
+"234 727 OFFCURVE",
+"234 711 CURVE SMOOTH",
+"234 705 OFFCURVE",
+"240 699 OFFCURVE",
+"251 699 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

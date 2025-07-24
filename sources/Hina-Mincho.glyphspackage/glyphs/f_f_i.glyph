@@ -1,0 +1,28 @@
+{
+glyphname = f_f_i;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = f;
+},
+{
+alignment = -1;
+name = f;
+transform = "{1, 0, 0, 1, 286, 0}";
+},
+{
+name = i;
+transform = "{1, 0, 0, 1, 582, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 807;
+}
+);
+leftKerningGroup = f;
+leftMetricsKey = f;
+rightKerningGroup = i;
+rightMetricsKey = i;
+}

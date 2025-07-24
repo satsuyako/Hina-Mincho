@@ -1,0 +1,25 @@
+{
+glyphname = onehalf;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = fraction;
+transform = "{1, 0, 0, 1, 89, 0}";
+},
+{
+name = two;
+transform = "{0.54054, 0, 0, 0.54054, 445, 1}";
+},
+{
+name = one;
+transform = "{0.54054, 0, 0, 0.54054, 7, 319}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 732;
+}
+);
+unicode = 00BD;
+}

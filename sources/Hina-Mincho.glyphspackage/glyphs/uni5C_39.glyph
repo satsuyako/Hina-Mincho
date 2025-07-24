@@ -1,0 +1,238 @@
+{
+glyphname = uni5C39;
+layers = (
+{
+hints = (
+{
+origin = "{0, 36}";
+type = Corner;
+name = _corner.kanji.90;
+},
+{
+origin = "{0, 37}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{0, 61}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+horizontal = 1;
+place = "{251.141, 3.582}";
+type = Stem;
+},
+{
+place = "{46.048, 17.908}";
+type = Stem;
+},
+{
+origin = "{0, 49}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"83 -55 OFFCURVE",
+"91 -80 OFFCURVE",
+"115 -71 CURVE SMOOTH",
+"273 -9 OFFCURVE",
+"381 91 OFFCURVE",
+"441 253 CURVE SMOOTH",
+"448 273 OFFCURVE",
+"461 282 OFFCURVE",
+"481 282 CURVE SMOOTH",
+"665 282 LINE SMOOTH",
+"687 282 OFFCURVE",
+"700 271 OFFCURVE",
+"700 252 CURVE SMOOTH",
+"698 209 OFFCURVE",
+"764 226 OFFCURVE",
+"764 268 CURVE SMOOTH",
+"764 482 LINE SMOOTH",
+"764 504 OFFCURVE",
+"777 517 OFFCURVE",
+"799 517 CURVE SMOOTH",
+"927 518 LINE SMOOTH",
+"966 518 OFFCURVE",
+"971 546 OFFCURVE",
+"951 568 CURVE SMOOTH",
+"943 577 OFFCURVE",
+"934 585 OFFCURVE",
+"923 592 CURVE SMOOTH",
+"903 605 OFFCURVE",
+"877 603 OFFCURVE",
+"852 578 CURVE SMOOTH",
+"838 564 OFFCURVE",
+"820 546 OFFCURVE",
+"790 546 CURVE SMOOTH",
+"773 546 OFFCURVE",
+"764 559 OFFCURVE",
+"764 581 CURVE SMOOTH",
+"764 780 LINE",
+"288 780 LINE",
+"288 752 LINE",
+"402 752 LINE SMOOTH",
+"424 752 OFFCURVE",
+"437 740 OFFCURVE",
+"438 717 CURVE SMOOTH",
+"439 669 OFFCURVE",
+"439 623 OFFCURVE",
+"437 580 CURVE SMOOTH",
+"436 558 OFFCURVE",
+"423 546 OFFCURVE",
+"401 546 CURVE SMOOTH",
+"187 546 LINE",
+"187 518 LINE",
+"397 518 LINE SMOOTH",
+"420 518 OFFCURVE",
+"433 505 OFFCURVE",
+"431 481 CURVE SMOOTH",
+"425 430 OFFCURVE",
+"418 383 OFFCURVE",
+"408 340 CURVE SMOOTH",
+"404 320 OFFCURVE",
+"391 310 OFFCURVE",
+"370 310 CURVE SMOOTH",
+"288 310 LINE",
+"288 282 LINE",
+"351 282 LINE SMOOTH",
+"376 282 OFFCURVE",
+"389 266 OFFCURVE",
+"380 242 CURVE SMOOTH",
+"327 99 OFFCURVE",
+"236 12 OFFCURVE",
+"110 -43 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"479 389 OFFCURVE",
+"486 433 OFFCURVE",
+"491 479 CURVE SMOOTH",
+"494 504 OFFCURVE",
+"506 517 OFFCURVE",
+"528 517 CURVE SMOOTH",
+"665 517 LINE SMOOTH",
+"687 517 OFFCURVE",
+"700 504 OFFCURVE",
+"700 482 CURVE SMOOTH",
+"700 345 LINE SMOOTH",
+"700 323 OFFCURVE",
+"687 310 OFFCURVE",
+"665 310 CURVE SMOOTH",
+"500 310 LINE SMOOTH",
+"475 310 OFFCURVE",
+"464 325 OFFCURVE",
+"470 349 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"501 623 OFFCURVE",
+"502 667 OFFCURVE",
+"501 713 CURVE SMOOTH",
+"501 738 OFFCURVE",
+"512 752 OFFCURVE",
+"535 752 CURVE SMOOTH",
+"665 752 LINE SMOOTH",
+"687 752 OFFCURVE",
+"700 739 OFFCURVE",
+"700 717 CURVE SMOOTH",
+"700 581 LINE SMOOTH",
+"700 559 OFFCURVE",
+"687 546 OFFCURVE",
+"665 546 CURVE SMOOTH",
+"533 546 LINE SMOOTH",
+"510 546 OFFCURVE",
+"498 559 OFFCURVE",
+"499 582 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.yoko.001;
+piece = {
+length = 872.08905;
+};
+transform = "{1, 0, 0, 1, 0, 212}";
+}
+);
+hints = (
+{
+origin = "{0, 8}";
+type = Corner;
+name = _corner.kanji.90;
+},
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{1, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "B88185D5-30AD-441F-8579-B33DEAEE4C86";
+name = "Dec 10 20, 00:01";
+paths = (
+{
+closed = 1;
+nodes = (
+"288 752 LINE",
+"700 752 LINE",
+"700 320 LINE",
+"700 252 LINE",
+"698 209 OFFCURVE",
+"764 226 OFFCURVE",
+"764 268 CURVE",
+"764 320 LINE",
+"764 780 LINE",
+"288 780 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"288 282 LINE",
+"739 282 LINE",
+"739 310 LINE",
+"288 310 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"396 41 OFFCURVE",
+"519 267 OFFCURVE",
+"499 768 CURVE",
+"436 768 LINE",
+"456 277 OFFCURVE",
+"349 61 OFFCURVE",
+"110 -43 CURVE SMOOTH",
+"83 -55 OFFCURVE",
+"91 -80 OFFCURVE",
+"115 -71 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 5C39;
+}

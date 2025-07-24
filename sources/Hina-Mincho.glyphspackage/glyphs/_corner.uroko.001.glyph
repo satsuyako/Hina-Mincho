@@ -1,0 +1,82 @@
+{
+export = 0;
+glyphname = _corner.uroko.001;
+layers = (
+{
+anchors = (
+{
+name = left;
+position = "{-4, 306}";
+},
+{
+name = origin;
+position = "{0, 307}";
+},
+{
+name = right;
+position = "{0, 380}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"0 307 LINE",
+"137 307 LINE SMOOTH",
+"176 307 OFFCURVE",
+"181 335 OFFCURVE",
+"161 357 CURVE SMOOTH",
+"153 366 OFFCURVE",
+"144 374 OFFCURVE",
+"133 381 CURVE SMOOTH",
+"113 394 OFFCURVE",
+"87 392 OFFCURVE",
+"62 367 CURVE SMOOTH",
+"48 353 OFFCURVE",
+"30 335 OFFCURVE",
+"0 335 CURVE"
+);
+}
+);
+width = 1000;
+},
+{
+anchors = (
+{
+name = left;
+position = "{-4, 306}";
+},
+{
+name = origin;
+position = "{0, 306}";
+},
+{
+name = right;
+position = "{0, 379}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "CCE831AD-0EFF-4608-B6D4-1163526B042C";
+name = "Feb 10 20, 14:44";
+paths = (
+{
+closed = 0;
+nodes = (
+"0 307 LINE",
+"51 307 OFFCURVE",
+"107 307 OFFCURVE",
+"168 307 CURVE",
+"168 307 OFFCURVE",
+"146 372 OFFCURVE",
+"81 388 CURVE",
+"73 375 OFFCURVE",
+"54 335 OFFCURVE",
+"0 335 CURVE"
+);
+}
+);
+width = 1000;
+}
+);
+}

@@ -1,0 +1,24 @@
+{
+glyphname = threequarters;
+layers = (
+{
+components = (
+{
+name = three;
+transform = "{0.54054, 0, 0, 0.54054, 12, 321}";
+},
+{
+name = fraction;
+transform = "{1, 0, 0, 1, 80, 0}";
+},
+{
+name = four;
+transform = "{0.54054, 0, 0, 0.54054, 377, 0}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 674;
+}
+);
+unicode = 00BE;
+}

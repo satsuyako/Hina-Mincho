@@ -1,0 +1,38 @@
+{
+glyphname = dotaccentcomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{299.5, 700}";
+},
+{
+name = top;
+position = "{300, 836}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"328 731 OFFCURVE",
+"352 755 OFFCURVE",
+"352 784 CURVE SMOOTH",
+"352 812 OFFCURVE",
+"328 836 OFFCURVE",
+"300 836 CURVE SMOOTH",
+"271 836 OFFCURVE",
+"247 812 OFFCURVE",
+"247 784 CURVE SMOOTH",
+"247 755 OFFCURVE",
+"271 731 OFFCURVE",
+"300 731 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

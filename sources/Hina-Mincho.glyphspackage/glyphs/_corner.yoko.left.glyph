@@ -1,0 +1,41 @@
+{
+export = 0;
+glyphname = _corner.yoko.left;
+layers = (
+{
+anchors = (
+{
+name = left;
+position = "{-34, 334}";
+},
+{
+name = origin;
+position = "{1, 334}";
+},
+{
+name = right;
+position = "{1, 306}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"1 334 LINE",
+"31 334 OFFCURVE",
+"58 336 OFFCURVE",
+"122 340 CURVE SMOOTH",
+"151 342 OFFCURVE",
+"150 298 OFFCURVE",
+"122 300 CURVE SMOOTH",
+"62 304 OFFCURVE",
+"39 306 OFFCURVE",
+"1 306 CURVE"
+);
+}
+);
+width = 1000;
+}
+);
+}

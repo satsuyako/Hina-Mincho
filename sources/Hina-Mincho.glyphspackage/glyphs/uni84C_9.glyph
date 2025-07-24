@@ -1,0 +1,91 @@
+{
+glyphname = uni84C9;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.kusakanmuri;
+piece = {
+ue = 27.52131;
+};
+transform = "{1, 0, 0, 1, 0, 26}";
+},
+{
+alignment = -1;
+name = _part.kanji.ukanmuri;
+piece = {
+shift = 313.13623;
+tate = 35.56641;
+top = 49.82954;
+yoko = 39.52534;
+};
+transform = "{1, 0, 0, 1, 0, 50}";
+},
+{
+name = _part.kanji.hitoyane;
+piece = {
+tate = 154.39497;
+ue = 96.60714;
+yoko = 380.82166;
+};
+transform = "{1, 0, 0, 1, -10, -318}";
+},
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+tate = 60.59491;
+yoko = 68.2661;
+};
+transform = "{1, 0, 0, 1, -35, -299}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"232 357 OFFCURVE",
+"303 388 OFFCURVE",
+"368 481 CURVE SMOOTH",
+"373 488 OFFCURVE",
+"380 496 OFFCURVE",
+"387 489 CURVE SMOOTH",
+"398 478 OFFCURVE",
+"407 487 OFFCURVE",
+"404 504 CURVE SMOOTH",
+"398 541 OFFCURVE",
+"340 567 OFFCURVE",
+"313 520 CURVE SMOOTH",
+"261 431 OFFCURVE",
+"219 390 OFFCURVE",
+"157 353 CURVE SMOOTH",
+"122 332 OFFCURVE",
+"133 309 OFFCURVE",
+"164 324 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"625 472 OFFCURVE",
+"673 431 OFFCURVE",
+"723 360 CURVE SMOOTH",
+"754 316 OFFCURVE",
+"816 362 OFFCURVE",
+"785 404 CURVE SMOOTH",
+"732 476 OFFCURVE",
+"650 516 OFFCURVE",
+"588 533 CURVE SMOOTH",
+"562 540 OFFCURVE",
+"557 519 OFFCURVE",
+"582 502 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 84C9;
+}

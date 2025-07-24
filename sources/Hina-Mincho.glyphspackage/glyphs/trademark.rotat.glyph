@@ -1,0 +1,16 @@
+{
+glyphname = trademark.rotat;
+layers = (
+{
+components = (
+{
+name = trademark;
+transform = "{0, -1, 1, 0, 99, 860}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 511;
+width = 1000;
+}
+);
+}

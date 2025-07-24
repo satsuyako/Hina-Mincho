@@ -1,0 +1,50 @@
+{
+glyphname = macroncomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{300, 700}";
+},
+{
+name = top;
+position = "{300, 821.058}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"209 748 OFFCURVE",
+"254 750 OFFCURVE",
+"300 750 CURVE SMOOTH",
+"346 750 OFFCURVE",
+"392 747 OFFCURVE",
+"434 745 CURVE SMOOTH",
+"451 744 OFFCURVE",
+"459 756 OFFCURVE",
+"459 768 CURVE SMOOTH",
+"459 780 OFFCURVE",
+"451 792 OFFCURVE",
+"434 791 CURVE SMOOTH",
+"392 789 OFFCURVE",
+"346 787 OFFCURVE",
+"300 787 CURVE SMOOTH",
+"254 787 OFFCURVE",
+"209 788 OFFCURVE",
+"166 791 CURVE SMOOTH",
+"150 792 OFFCURVE",
+"141 780 OFFCURVE",
+"141 768 CURVE SMOOTH",
+"141 756 OFFCURVE",
+"150 744 OFFCURVE",
+"166 745 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

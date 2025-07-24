@@ -1,0 +1,46 @@
+{
+glyphname = "ve-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "we-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"847 687 OFFCURVE",
+"835 667 OFFCURVE",
+"855 640 CURVE SMOOTH",
+"887 600 OFFCURVE",
+"993 659 OFFCURVE",
+"799 742 CURVE SMOOTH",
+"766 755 OFFCURVE",
+"755 733 OFFCURVE",
+"778 722 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"847 811 OFFCURVE",
+"837 791 OFFCURVE",
+"860 780 CURVE SMOOTH",
+"930 747 OFFCURVE",
+"915 727 OFFCURVE",
+"939 704 CURVE SMOOTH",
+"981 666 OFFCURVE",
+"1075 731 OFFCURVE",
+"880 800 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30F9;
+}

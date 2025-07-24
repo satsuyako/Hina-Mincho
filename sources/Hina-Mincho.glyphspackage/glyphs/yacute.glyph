@@ -1,0 +1,21 @@
+{
+glyphname = yacute;
+layers = (
+{
+components = (
+{
+name = y;
+},
+{
+name = acutecomb;
+transform = "{1, 0, 0, 1, -95, -320}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 409;
+}
+);
+leftKerningGroup = y;
+rightKerningGroup = y;
+unicode = 00FD;
+}

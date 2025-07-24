@@ -1,0 +1,63 @@
+{
+glyphname = uni53EA;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kuchi;
+piece = {
+tate = 365.6077;
+yoko = 470.35388;
+};
+transform = "{1, 0, 0, 1, -8, 137}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"71 -9 OFFCURVE",
+"83 -36 OFFCURVE",
+"117 -26 CURVE SMOOTH",
+"192 -3 OFFCURVE",
+"333 69 OFFCURVE",
+"414 167 CURVE SMOOTH",
+"419 174 OFFCURVE",
+"428 181 OFFCURVE",
+"436 176 CURVE SMOOTH",
+"453 166 OFFCURVE",
+"461 177 OFFCURVE",
+"452 194 CURVE SMOOTH",
+"438 220 OFFCURVE",
+"386 248 OFFCURVE",
+"357 204 CURVE SMOOTH",
+"313 136 OFFCURVE",
+"195 28 OFFCURVE",
+"111 3 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"671 147 OFFCURVE",
+"751 68 OFFCURVE",
+"804 -13 CURVE SMOOTH",
+"835 -60 OFFCURVE",
+"893 -13 OFFCURVE",
+"866 31 CURVE SMOOTH",
+"810 123 OFFCURVE",
+"678 194 OFFCURVE",
+"576 219 CURVE SMOOTH",
+"551 225 OFFCURVE",
+"542 202 OFFCURVE",
+"568 191 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 53EA;
+}

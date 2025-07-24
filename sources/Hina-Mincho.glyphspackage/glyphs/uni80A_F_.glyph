@@ -1,0 +1,171 @@
+{
+glyphname = uni80AF;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji_tsuki;
+piece = {
+tate = 16.6175;
+yoko = 152.27617;
+};
+transform = "{1, 0, 0, 1, -78, -371}";
+}
+);
+hints = (
+{
+origin = "{0, 16}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 26}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{0, 10}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 0}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 32}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"816 543 LINE",
+"816 572 LINE",
+"586 572 LINE SMOOTH",
+"564 572 OFFCURVE",
+"551 585 OFFCURVE",
+"551 607 CURVE SMOOTH",
+"551 646 LINE SMOOTH",
+"551 668 OFFCURVE",
+"564 681 OFFCURVE",
+"586 681 CURVE SMOOTH",
+"683 680 LINE",
+"683 709 LINE",
+"586 709 LINE SMOOTH",
+"564 709 OFFCURVE",
+"551 722 OFFCURVE",
+"551 744 CURVE SMOOTH",
+"551 799 LINE",
+"487 799 LINE",
+"487 607 LINE SMOOTH",
+"487 585 OFFCURVE",
+"474 572 OFFCURVE",
+"452 572 CURVE SMOOTH",
+"368 572 LINE SMOOTH",
+"346 572 OFFCURVE",
+"333 585 OFFCURVE",
+"333 607 CURVE SMOOTH",
+"333 739 LINE",
+"269 739 LINE",
+"269 607 LINE SMOOTH",
+"269 585 OFFCURVE",
+"256 572 OFFCURVE",
+"234 572 CURVE SMOOTH",
+"159 572 LINE",
+"159 544 LINE"
+);
+}
+);
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+components = (
+{
+alignment = -1;
+name = _part.kanji_tsuki;
+piece = {
+tate = 16.6175;
+yoko = 152.27617;
+};
+transform = "{1, 0, 0, 1, -78, -371}";
+}
+);
+hints = (
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{1, 2}";
+type = Cap;
+name = _cap.tate;
+},
+{
+origin = "{2, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{3, 1}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{3, 3}";
+type = Corner;
+name = _corner.yoko.left;
+}
+);
+layerId = "14512CEF-B176-477E-9F87-15569475BE69";
+name = "Jun 28 20, 20:57";
+paths = (
+{
+closed = 1;
+nodes = (
+"487 558 LINE",
+"551 558 LINE",
+"551 799 LINE",
+"487 799 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"269 558 LINE",
+"333 558 LINE",
+"333 739 LINE",
+"269 739 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"522 681 LINE",
+"683 680 LINE",
+"683 709 LINE",
+"522 709 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"159 544 LINE",
+"816 543 LINE",
+"816 572 LINE",
+"159 572 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 80AF;
+}

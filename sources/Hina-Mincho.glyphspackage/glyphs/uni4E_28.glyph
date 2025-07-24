@@ -1,0 +1,20 @@
+{
+glyphname = uni4E28;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = _part.kanji.tate003;
+piece = {
+tate = 29.82696;
+};
+transform = "{1, 0, 0, 1, 306, -23}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 4E28;
+}

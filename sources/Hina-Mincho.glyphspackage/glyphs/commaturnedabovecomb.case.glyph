@@ -1,0 +1,44 @@
+{
+glyphname = commaturnedabovecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{299.5, 700}";
+},
+{
+name = top;
+position = "{299.5, 870}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"321 729 OFFCURVE",
+"339 743 OFFCURVE",
+"339 765 CURVE SMOOTH",
+"339 800 OFFCURVE",
+"301 800 OFFCURVE",
+"301 827 CURVE SMOOTH",
+"301 851 OFFCURVE",
+"344 865 OFFCURVE",
+"344 882 CURVE SMOOTH",
+"344 887 OFFCURVE",
+"341 890 OFFCURVE",
+"334 890 CURVE SMOOTH",
+"308 890 OFFCURVE",
+"255 844 OFFCURVE",
+"255 786 CURVE SMOOTH",
+"255 746 OFFCURVE",
+"280 729 OFFCURVE",
+"301 729 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

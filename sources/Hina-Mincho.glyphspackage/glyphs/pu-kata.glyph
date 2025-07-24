@@ -1,0 +1,52 @@
+{
+glyphname = "pu-kata";
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = "hu-kata";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"969 667 OFFCURVE",
+"1010 708 OFFCURVE",
+"1010 756 CURVE SMOOTH",
+"1010 806 OFFCURVE",
+"969 847 OFFCURVE",
+"920 847 CURVE SMOOTH",
+"871 847 OFFCURVE",
+"830 806 OFFCURVE",
+"830 756 CURVE SMOOTH",
+"830 708 OFFCURVE",
+"871 667 OFFCURVE",
+"920 667 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"888 697 OFFCURVE",
+"861 724 OFFCURVE",
+"861 756 CURVE SMOOTH",
+"861 789 OFFCURVE",
+"888 815 OFFCURVE",
+"920 815 CURVE SMOOTH",
+"953 815 OFFCURVE",
+"978 789 OFFCURVE",
+"978 756 CURVE SMOOTH",
+"978 724 OFFCURVE",
+"953 697 OFFCURVE",
+"920 697 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 30D7;
+}

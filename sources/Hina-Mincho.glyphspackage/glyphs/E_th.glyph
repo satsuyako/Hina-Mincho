@@ -1,0 +1,54 @@
+{
+glyphname = Eth;
+layers = (
+{
+anchors = (
+{
+name = _center;
+position = "{352, 350}";
+}
+);
+components = (
+{
+name = D;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"101 320 OFFCURVE",
+"151 322 OFFCURVE",
+"202 322 CURVE SMOOTH",
+"253 322 OFFCURVE",
+"304 319 OFFCURVE",
+"351 317 CURVE SMOOTH",
+"370 316 OFFCURVE",
+"378 328 OFFCURVE",
+"378 340 CURVE SMOOTH",
+"378 352 OFFCURVE",
+"370 364 OFFCURVE",
+"351 363 CURVE SMOOTH",
+"304 361 OFFCURVE",
+"253 359 OFFCURVE",
+"202 359 CURVE SMOOTH",
+"151 359 OFFCURVE",
+"101 360 OFFCURVE",
+"54 363 CURVE SMOOTH",
+"36 364 OFFCURVE",
+"26 352 OFFCURVE",
+"26 340 CURVE SMOOTH",
+"26 328 OFFCURVE",
+"36 316 OFFCURVE",
+"54 317 CURVE SMOOTH"
+);
+}
+);
+width = 703;
+}
+);
+leftKerningGroup = D;
+rightKerningGroup = D;
+unicode = 00D0;
+}

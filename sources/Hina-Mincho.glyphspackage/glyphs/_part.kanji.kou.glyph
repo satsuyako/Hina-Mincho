@@ -1,0 +1,305 @@
+{
+export = 0;
+glyphname = _part.kanji.kou;
+layers = (
+{
+anchors = (
+{
+name = shita;
+position = "{647, 326}";
+},
+{
+name = tate;
+position = "{451, 429}";
+},
+{
+name = yoko;
+position = "{591, 450}";
+}
+);
+hints = (
+{
+origin = "{0, 7}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"258 299 OFFCURVE",
+"305 300 OFFCURVE",
+"367 301 CURVE SMOOTH",
+"550 304 LINE",
+"550 333 LINE",
+"484 333 LINE",
+"484 423 LINE",
+"504 423 LINE",
+"504 452 LINE",
+"398 452 LINE",
+"398 424 LINE",
+"420 424 LINE",
+"420 332 LINE",
+"369 332 LINE SMOOTH",
+"312 332 OFFCURVE",
+"291 333 OFFCURVE",
+"247 338 CURVE SMOOTH",
+"218 341 OFFCURVE",
+"219 295 OFFCURVE",
+"247 298 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+shita = 1;
+tate = 1;
+yoko = 1;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = shita;
+position = "{647, 26}";
+},
+{
+name = tate;
+position = "{451, 729}";
+},
+{
+name = yoko;
+position = "{591, 750}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 7}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "F6A74A3A-A849-409F-AD09-D90970B6D64E";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"258 -1 OFFCURVE",
+"305 0 OFFCURVE",
+"367 1 CURVE SMOOTH",
+"550 4 LINE",
+"550 33 LINE",
+"484 33 LINE",
+"484 723 LINE",
+"504 723 LINE",
+"504 752 LINE",
+"398 752 LINE",
+"398 724 LINE",
+"420 724 LINE",
+"420 32 LINE",
+"369 32 LINE SMOOTH",
+"312 32 OFFCURVE",
+"291 33 OFFCURVE",
+"247 38 CURVE SMOOTH",
+"218 41 OFFCURVE",
+"219 -5 OFFCURVE",
+"247 -2 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = shita;
+position = "{847, 326}";
+},
+{
+name = tate;
+position = "{451, 429}";
+},
+{
+name = yoko;
+position = "{791, 450}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 7}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "2C7AE0B3-F2DD-48EC-A7B6-C63B5E0C5698";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"68 299 OFFCURVE",
+"115 301 OFFCURVE",
+"177 301 CURVE SMOOTH",
+"760 304 LINE",
+"760 333 LINE",
+"484 333 LINE",
+"484 423 LINE",
+"704 423 LINE",
+"704 452 LINE",
+"208 452 LINE",
+"208 424 LINE",
+"420 424 LINE",
+"420 332 LINE",
+"179 332 LINE SMOOTH",
+"122 332 OFFCURVE",
+"101 333 OFFCURVE",
+"57 338 CURVE SMOOTH",
+"28 341 OFFCURVE",
+"29 295 OFFCURVE",
+"57 298 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 1000;
+},
+{
+anchors = (
+{
+name = shita;
+position = "{687, 326}";
+},
+{
+name = tate;
+position = "{451, 429}";
+},
+{
+name = yoko;
+position = "{591, 450}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 7}";
+type = Corner;
+name = _corner.uroko.001;
+},
+{
+origin = "{0, 9}";
+type = Corner;
+name = _corner.yoko.left;
+},
+{
+origin = "{0, 3}";
+type = Corner;
+name = _corner.uroko.001;
+}
+);
+layerId = "09AB3DE2-8A38-4190-B59B-CD06A0358306";
+name = shita;
+paths = (
+{
+closed = 1;
+nodes = (
+"218 299 OFFCURVE",
+"265 300 OFFCURVE",
+"327 301 CURVE SMOOTH",
+"600 304 LINE",
+"600 333 LINE",
+"484 333 LINE",
+"484 423 LINE",
+"504 423 LINE",
+"504 452 LINE",
+"398 452 LINE",
+"398 424 LINE",
+"420 424 LINE",
+"420 332 LINE",
+"329 332 LINE SMOOTH",
+"272 332 OFFCURVE",
+"251 333 OFFCURVE",
+"207 338 CURVE SMOOTH",
+"178 341 OFFCURVE",
+"179 295 OFFCURVE",
+"207 298 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+shita = 2;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = tate;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = shita;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

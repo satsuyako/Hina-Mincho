@@ -1,0 +1,97 @@
+{
+export = 0;
+glyphname = _part.kanji.tate003;
+layers = (
+{
+anchors = (
+{
+name = tate;
+position = "{195, -30}";
+}
+);
+hints = (
+{
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"162 -13 LINE",
+"226 -13 LINE",
+"226 804 LINE",
+"162 804 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 1;
+};
+};
+width = 415;
+},
+{
+anchors = (
+{
+name = tate;
+position = "{195, 703}";
+}
+);
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 0}";
+target = "{0, 1}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 2}";
+target = "{0, 3}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "80E5CB66-93D0-46F8-8C98-A50F4D4855B2";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"162 720 LINE",
+"226 720 LINE",
+"226 804 LINE",
+"162 804 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 2;
+};
+};
+width = 415;
+}
+);
+partsSettings = (
+{
+name = tate;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

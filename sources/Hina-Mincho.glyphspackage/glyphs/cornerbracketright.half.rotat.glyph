@@ -1,0 +1,16 @@
+{
+glyphname = cornerbracketright.half.rotat;
+layers = (
+{
+components = (
+{
+name = cornerbracketright;
+transform = "{0, -1, 1, 0, 127, 920}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+vertWidth = 500;
+width = 1000;
+}
+);
+}

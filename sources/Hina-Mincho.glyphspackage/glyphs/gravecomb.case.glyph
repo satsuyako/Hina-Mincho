@@ -1,0 +1,54 @@
+{
+glyphname = gravecomb.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{300, 700}";
+},
+{
+name = _topmigi;
+position = "{326, 678}";
+},
+{
+name = top;
+position = "{300, 859}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"355 736 OFFCURVE",
+"360 739 OFFCURVE",
+"360 746 CURVE SMOOTH",
+"360 749 OFFCURVE",
+"359 753 OFFCURVE",
+"356 757 CURVE SMOOTH",
+"334 791 OFFCURVE",
+"324 808 OFFCURVE",
+"302 845 CURVE SMOOTH",
+"296 855 OFFCURVE",
+"284 859 OFFCURVE",
+"273 859 CURVE SMOOTH",
+"257 859 OFFCURVE",
+"240 851 OFFCURVE",
+"240 840 CURVE SMOOTH",
+"240 837 OFFCURVE",
+"242 833 OFFCURVE",
+"245 830 CURVE SMOOTH",
+"274 801 OFFCURVE",
+"304 774 OFFCURVE",
+"332 746 CURVE SMOOTH",
+"339 739 OFFCURVE",
+"344 736 OFFCURVE",
+"349 736 CURVE SMOOTH"
+);
+}
+);
+width = 0;
+}
+);
+}

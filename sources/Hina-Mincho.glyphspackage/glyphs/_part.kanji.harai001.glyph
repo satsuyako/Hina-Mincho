@@ -1,0 +1,139 @@
+{
+export = 0;
+glyphname = _part.kanji.harai001;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"478 356 OFFCURVE",
+"491 363 OFFCURVE",
+"490 375 CURVE SMOOTH",
+"490 386 OFFCURVE",
+"497 389 OFFCURVE",
+"510 390 CURVE SMOOTH",
+"584 391 OFFCURVE",
+"661 403 OFFCURVE",
+"728 418 CURVE SMOOTH",
+"762 426 OFFCURVE",
+"761 446 OFFCURVE",
+"726 444 CURVE SMOOTH",
+"664 440 OFFCURVE",
+"543 445 OFFCURVE",
+"491 450 CURVE SMOOTH",
+"466 453 OFFCURVE",
+"452 443 OFFCURVE",
+"456 419 CURVE SMOOTH",
+"458 402 OFFCURVE",
+"466 379 OFFCURVE",
+"471 370 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 1;
+yoko = 1;
+};
+};
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "9FE0897B-B3CA-4AC2-A04B-E6D2622D0DE0";
+name = yoko;
+paths = (
+{
+closed = 1;
+nodes = (
+"77 283 OFFCURVE",
+"89 291 OFFCURVE",
+"88 303 CURVE SMOOTH",
+"86 314 OFFCURVE",
+"93 317 OFFCURVE",
+"107 319 CURVE SMOOTH",
+"377 349 OFFCURVE",
+"763 408 OFFCURVE",
+"960 460 CURVE SMOOTH",
+"993 469 OFFCURVE",
+"991 493 OFFCURVE",
+"956 486 CURVE SMOOTH",
+"743 438 OFFCURVE",
+"271 378 OFFCURVE",
+"84 378 CURVE SMOOTH",
+"59 378 OFFCURVE",
+"45 368 OFFCURVE",
+"50 344 CURVE SMOOTH",
+"54 328 OFFCURVE",
+"63 306 OFFCURVE",
+"69 296 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+yoko = 2;
+};
+};
+width = 1000;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+layerId = "C00DAD28-C6F7-43BC-9071-AC536754B8E3";
+name = tate;
+paths = (
+{
+closed = 1;
+nodes = (
+"539 290 OFFCURVE",
+"546 303 OFFCURVE",
+"539 313 CURVE SMOOTH",
+"532 322 OFFCURVE",
+"536 329 OFFCURVE",
+"546 336 CURVE SMOOTH",
+"604 377 OFFCURVE",
+"663 432 OFFCURVE",
+"711 482 CURVE SMOOTH",
+"735 507 OFFCURVE",
+"723 523 OFFCURVE",
+"695 502 CURVE SMOOTH",
+"645 465 OFFCURVE",
+"543 401 OFFCURVE",
+"497 376 CURVE SMOOTH",
+"475 364 OFFCURVE",
+"469 348 OFFCURVE",
+"485 330 CURVE SMOOTH",
+"496 318 OFFCURVE",
+"516 303 OFFCURVE",
+"525 298 CURVE SMOOTH"
+);
+}
+);
+userData = {
+PartSelection = {
+tate = 2;
+yoko = 1;
+};
+};
+width = 1000;
+}
+);
+partsSettings = (
+{
+name = yoko;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+},
+{
+name = tate;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 500;
+}
+);
+}

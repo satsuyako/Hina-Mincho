@@ -1,0 +1,74 @@
+{
+glyphname = O;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+position = "{354, 0}";
+},
+{
+name = center;
+position = "{354, 350}";
+},
+{
+name = ogonek;
+position = "{550, 48}";
+},
+{
+name = top;
+position = "{354, 700}";
+},
+{
+name = topleft;
+position = "{10, 700}";
+},
+{
+name = topright;
+position = "{538, 590}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"504 0 OFFCURVE",
+"688 110 OFFCURVE",
+"688 349 CURVE SMOOTH",
+"688 588 OFFCURVE",
+"504 700 OFFCURVE",
+"354 700 CURVE SMOOTH",
+"204 700 OFFCURVE",
+"20 588 OFFCURVE",
+"20 349 CURVE SMOOTH",
+"20 110 OFFCURVE",
+"204 0 OFFCURVE",
+"354 0 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 27 OFFCURVE",
+"100 156 OFFCURVE",
+"100 349 CURVE SMOOTH",
+"100 542 OFFCURVE",
+"211 673 OFFCURVE",
+"354 673 CURVE SMOOTH",
+"497 673 OFFCURVE",
+"608 542 OFFCURVE",
+"608 349 CURVE SMOOTH",
+"608 156 OFFCURVE",
+"497 27 OFFCURVE",
+"354 27 CURVE SMOOTH"
+);
+}
+);
+width = 708;
+}
+);
+leftKerningGroup = O;
+rightKerningGroup = O;
+unicode = 004F;
+}

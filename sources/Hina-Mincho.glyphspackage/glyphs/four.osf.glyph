@@ -1,0 +1,26 @@
+{
+glyphname = four.osf;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = four.tosf;
+transform = "{1, 0, 0, 1, -11, 0}";
+}
+);
+guideLines = (
+{
+position = "{205, -65}";
+},
+{
+position = "{205, 445}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 348;
+}
+);
+leftKerningGroup = "4";
+rightKerningGroup = "4";
+}

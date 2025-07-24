@@ -1,0 +1,29 @@
+{
+glyphname = uni4E36;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"406 500 OFFCURVE",
+"557 379 OFFCURVE",
+"633 268 CURVE SMOOTH",
+"687 189 OFFCURVE",
+"733 274 OFFCURVE",
+"694 324 CURVE SMOOTH",
+"613 428 OFFCURVE",
+"434 531 OFFCURVE",
+"317 576 CURVE SMOOTH",
+"286 588 OFFCURVE",
+"281 556 OFFCURVE",
+"299 548 CURVE SMOOTH"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 4E36;
+}

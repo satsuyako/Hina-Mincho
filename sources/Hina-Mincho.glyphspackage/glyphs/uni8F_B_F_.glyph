@@ -1,0 +1,26 @@
+{
+glyphname = uni8FBF;
+layers = (
+{
+components = (
+{
+name = _part.kanji.sinnyou2;
+},
+{
+alignment = -1;
+name = _part.kanji.yama2;
+piece = {
+geta = 44.1736;
+tate = 256.95505;
+top = 453.51492;
+yoko = 168.04497;
+};
+transform = "{1, 0, 0, 1, 152, -151}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 1000;
+}
+);
+unicode = 8FBF;
+}

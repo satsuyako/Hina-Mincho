@@ -1,0 +1,17 @@
+{
+glyphname = foursuperior;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = four;
+transform = "{0.54054, 0, 0, 0.54054, -4, 499}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 262;
+}
+);
+unicode = 2074;
+}

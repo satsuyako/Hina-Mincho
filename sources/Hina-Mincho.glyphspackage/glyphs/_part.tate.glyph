@@ -1,0 +1,81 @@
+{
+export = 0;
+glyphname = _part.tate;
+layers = (
+{
+hints = (
+{
+origin = "{0, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"268 754 LINE",
+"332 754 LINE",
+"332 827 LINE",
+"268 827 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+height = 1;
+};
+};
+width = 600;
+},
+{
+associatedMasterId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+hints = (
+{
+origin = "{0, 0}";
+type = Cap;
+name = _cap.tate.002;
+},
+{
+origin = "{0, 2}";
+type = Cap;
+name = _cap.tate;
+}
+);
+layerId = "09E89D89-877C-46BB-A272-F9BE072B86BC";
+name = long;
+paths = (
+{
+closed = 1;
+nodes = (
+"268 -33 LINE",
+"332 -33 LINE",
+"332 827 LINE",
+"268 827 LINE"
+);
+}
+);
+userData = {
+PartSelection = {
+height = 2;
+};
+};
+width = 600;
+}
+);
+partsSettings = (
+{
+name = height;
+bottomName = Low;
+bottomValue = 0;
+topName = High;
+topValue = 1000;
+}
+);
+}

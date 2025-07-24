@@ -1,0 +1,34 @@
+{
+glyphname = boxHeavyDownAndRight;
+layers = (
+{
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 1;
+nodes = (
+"550 -101 LINE",
+"550 340 LINE",
+"550 440 LINE",
+"450 440 LINE",
+"450 340 LINE",
+"450 -101 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"450 340 LINE",
+"550 340 LINE",
+"1001 340 LINE",
+"1001 440 LINE",
+"550 440 LINE",
+"450 440 LINE"
+);
+}
+);
+width = 1000;
+}
+);
+unicode = 250F;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = atilde;
+layers = (
+{
+components = (
+{
+name = a;
+},
+{
+name = tildecomb;
+transform = "{1, 0, 0, 1, -119, -320}";
+}
+);
+guideLines = (
+{
+position = "{264, 557}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+width = 391;
+}
+);
+leftKerningGroup = a;
+rightKerningGroup = a;
+unicode = 00E3;
+}

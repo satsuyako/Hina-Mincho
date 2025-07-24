@@ -1,0 +1,41 @@
+{
+export = 0;
+glyphname = _corner.uroko;
+layers = (
+{
+anchors = (
+{
+name = left;
+position = "{33, 584}";
+},
+{
+name = origin;
+position = "{78, 572}";
+},
+{
+name = right;
+position = "{91, 631}";
+}
+);
+layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
+paths = (
+{
+closed = 0;
+nodes = (
+"77 572 LINE",
+"104 587 OFFCURVE",
+"117 568 OFFCURVE",
+"123 587 CURVE SMOOTH",
+"126 598 OFFCURVE",
+"110 633 OFFCURVE",
+"85 645 CURVE SMOOTH",
+"47 663 OFFCURVE",
+"44 619 OFFCURVE",
+"-1 609 CURVE"
+);
+}
+);
+width = 100;
+}
+);
+}
