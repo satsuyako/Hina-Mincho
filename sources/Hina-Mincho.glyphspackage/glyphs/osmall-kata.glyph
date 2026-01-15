@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = "o-kata";
-transform = "{0.83333, 0, 0, 0.83333, 82, -6}";
+transform = "{0.8333, 0, 0, 0.8333, 82, -6}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

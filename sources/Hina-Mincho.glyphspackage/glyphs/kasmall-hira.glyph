@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = "ka-hira";
-transform = "{0.79415, 0, 0, 0.79415, 87, -62}";
+transform = "{0.7942, 0, 0, 0.7942, 87, -62}";
 }
 );
 guideLines = (

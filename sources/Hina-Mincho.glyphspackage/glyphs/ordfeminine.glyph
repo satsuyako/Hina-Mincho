@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = a;
-transform = "{0.66667, 0, 0, 0.66667, 0, 240}";
+transform = "{0.6667, 0, 0, 0.6667, 0, 240}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

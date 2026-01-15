@@ -11,7 +11,7 @@ transform = "{0, -1, 1, 0, 196, 785}";
 {
 alignment = -1;
 name = g;
-transform = "{0, -1, 0.85255, 0, 252, 361}";
+transform = "{0, -1, 0.8526, 0, 252, 361}";
 }
 );
 guideLines = (

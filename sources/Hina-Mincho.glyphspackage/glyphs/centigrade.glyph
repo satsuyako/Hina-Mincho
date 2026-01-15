@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = C;
-transform = "{0.89905, 0, 0, 0.89905, 338, 0}";
+transform = "{0.8991, 0, 0, 0.8991, 338, 0}";
 },
 {
 name = degree;

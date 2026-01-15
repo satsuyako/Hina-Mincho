@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = nine;
-transform = "{0.71429, 0, 0, 0.71429, 331, 110}";
+transform = "{0.7143, 0, 0, 0.7143, 331, 110}";
 },
 {
 name = uni20DD;

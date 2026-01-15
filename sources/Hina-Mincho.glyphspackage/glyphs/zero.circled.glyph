@@ -8,7 +8,7 @@ name = uni20DD;
 },
 {
 name = zero;
-transform = "{0.71429, 0, 0, 0.71429, 322, 130}";
+transform = "{0.7143, 0, 0, 0.7143, 322, 130}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

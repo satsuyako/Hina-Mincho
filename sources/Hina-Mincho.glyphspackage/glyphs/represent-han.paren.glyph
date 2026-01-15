@@ -16,7 +16,7 @@ transform = "{1, 0, 0, 1, 724, 112}";
 {
 alignment = -1;
 name = uni4EE3;
-transform = "{0.70677, 0, 0, 0.92873, 112, 27}";
+transform = "{0.7068, 0, 0, 0.9287, 112, 27}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

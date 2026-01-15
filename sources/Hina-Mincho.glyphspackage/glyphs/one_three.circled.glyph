@@ -5,11 +5,11 @@ layers = (
 components = (
 {
 name = one;
-transform = "{0.71429, 0, 0, 0.71429, 177, 140}";
+transform = "{0.7143, 0, 0, 0.7143, 177, 140}";
 },
 {
 name = three;
-transform = "{0.71429, 0, 0, 0.71429, 455, 130}";
+transform = "{0.7143, 0, 0, 0.7143, 455, 130}";
 },
 {
 name = uni20DD;

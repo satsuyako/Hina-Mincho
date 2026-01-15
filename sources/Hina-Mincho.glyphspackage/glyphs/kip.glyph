@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = K;
-transform = "{0.92309, 0, 0, 1, 0, 0}";
+transform = "{0.9231, 0, 0, 1, 0, 0}";
 },
 {
 alignment = -1;

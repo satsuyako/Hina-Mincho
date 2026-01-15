@@ -5,7 +5,7 @@ layers = (
 components = (
 {
 name = one;
-transform = "{0.54054, 0, 0, 0.54054, 7, 319}";
+transform = "{0.5405, 0, 0, 0.5405, 7, 319}";
 },
 {
 name = fraction;
@@ -13,7 +13,7 @@ transform = "{1, 0, 0, 1, 89, 0}";
 },
 {
 name = four;
-transform = "{0.54054, 0, 0, 0.54054, 382, 1}";
+transform = "{0.5405, 0, 0, 0.5405, 382, 1}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

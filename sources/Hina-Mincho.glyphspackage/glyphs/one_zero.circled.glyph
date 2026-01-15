@@ -5,14 +5,14 @@ layers = (
 components = (
 {
 name = one;
-transform = "{0.71429, 0, 0, 0.71429, 172, 140}";
+transform = "{0.7143, 0, 0, 0.7143, 172, 140}";
 },
 {
 name = uni20DD;
 },
 {
 name = zero;
-transform = "{0.71429, 0, 0, 0.71429, 460, 134}";
+transform = "{0.7143, 0, 0, 0.7143, 460, 134}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

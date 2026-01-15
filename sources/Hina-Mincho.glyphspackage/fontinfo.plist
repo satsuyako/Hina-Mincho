@@ -15533,7 +15533,7 @@ name = vendorID;
 value = STYK;
 }
 );
-date = "2025-07-24 12:34:34 +0000";
+date = "2026-01-15 12:19:12 +0000";
 designer = satsuyako;
 designerURL = "http://satsuyako.com/";
 disablesNiceNames = 1;
@@ -15753,12 +15753,16 @@ name = Autohint;
 value = 0;
 },
 {
-name = compatibleFullName;
+name = localizedCompatibleFullName;
 value = "ひな明朝";
 },
 {
 name = postscriptFullName;
 value = "ひな明朝";
+},
+{
+name = styleName;
+value = Regular;
 }
 );
 instanceInterpolations = {
@@ -15964,5 +15968,5 @@ tH = "ｔ";
 };
 };
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }

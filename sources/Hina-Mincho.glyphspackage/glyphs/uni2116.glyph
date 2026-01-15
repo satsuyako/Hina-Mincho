@@ -6,12 +6,12 @@ components = (
 {
 alignment = -1;
 name = N;
-transform = "{0.85441, 0, 0, 1, 3, 0}";
+transform = "{0.8544, 0, 0, 1, 3, 0}";
 },
 {
 alignment = -1;
 name = o;
-transform = "{0.89285, 0, 0, 0.96622, 629, 227}";
+transform = "{0.8929, 0, 0, 0.9662, 629, 227}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

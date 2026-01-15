@@ -6,12 +6,12 @@ components = (
 {
 alignment = -1;
 name = k;
-transform = "{0, -0.85201, 1, 0, 195, 868}";
+transform = "{0, -0.852, 1, 0, 195, 868}";
 },
 {
 alignment = -1;
 name = m;
-transform = "{0, -0.80339, 1, 0, 195, 479}";
+transform = "{0, -0.8034, 1, 0, 195, 479}";
 }
 );
 guideLines = (

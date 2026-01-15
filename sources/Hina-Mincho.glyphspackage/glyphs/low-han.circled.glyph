@@ -6,7 +6,7 @@ components = (
 {
 alignment = -1;
 name = uni4E0B;
-transform = "{0.58824, 0, 0, 0.58824, 206, 118}";
+transform = "{0.5882, 0, 0, 0.5882, 206, 118}";
 },
 {
 name = uni20DD;

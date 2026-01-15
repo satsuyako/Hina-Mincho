@@ -9,7 +9,7 @@ name = uni20DD;
 {
 alignment = -1;
 name = uni4E2D;
-transform = "{0.58824, 0, 0, 0.58824, 204, 161}";
+transform = "{0.5882, 0, 0, 0.5882, 204, 161}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";

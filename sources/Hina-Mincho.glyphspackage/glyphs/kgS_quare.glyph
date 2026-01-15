@@ -11,7 +11,7 @@ transform = "{1, 0, 0, 1, 100, 0}";
 {
 alignment = -1;
 name = g;
-transform = "{1, 0, 0, 0.85255, 524, 56}";
+transform = "{1, 0, 0, 0.8526, 524, 56}";
 }
 );
 layerId = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
