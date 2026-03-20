@@ -1,5 +1,5 @@
 {
-.appVersion = "3343";
+.appVersion = "3436";
 classes = (
 {
 automatic = 1;
@@ -15513,6 +15513,10 @@ name = "New Parameter";
 value = "0";
 },
 {
+name = "Export vmtx Table";
+value = 1;
+},
+{
 name = localizedFamilyName;
 value = "Japanese;ひな明朝";
 },
@@ -15533,7 +15537,7 @@ name = vendorID;
 value = STYK;
 }
 );
-date = "2026-01-15 12:19:12 +0000";
+date = "2026-03-20 04:59:36 +0000";
 designer = satsuyako;
 designerURL = "http://satsuyako.com/";
 disablesNiceNames = 1;
@@ -15720,7 +15724,7 @@ horizontalStems = (
 );
 id = "4FF06481-DC31-47E8-8EFF-C3C3B18F183D";
 userData = {
-GSCornerRadius = 35;
+GSCornerRadius = 15;
 GSOffsetHorizontal = 7;
 GSOffsetKeepCompatible = 1;
 GSOffsetProportional = 1;
@@ -15968,5 +15972,5 @@ tH = "ｔ";
 };
 };
 versionMajor = 1;
-versionMinor = 5;
+versionMinor = 6;
 }
