@@ -15541,7 +15541,7 @@ name = vendorID;
 value = STYK;
 }
 );
-date = "2026-10-17 13:00:00 +0000";
+date = "2026-10-17 14:13:39 +0000";
 designer = satsuyako;
 designerURL = "http://satsuyako.com/";
 disablesNiceNames = 1;
@@ -15976,5 +15976,5 @@ tH = "ｔ";
 };
 };
 versionMajor = 1;
-versionMinor = 200;
+versionMinor = 201;
 }
