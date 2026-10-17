@@ -1,5 +1,5 @@
 {
-.appVersion = "3436";
+.appVersion = "3532";
 classes = (
 {
 automatic = 1;
@@ -15517,6 +15517,10 @@ name = "Export vmtx Table";
 value = 1;
 },
 {
+name = familyName;
+value = "Hina-Mincho";
+},
+{
 name = localizedFamilyName;
 value = "Japanese;ひな明朝";
 },
@@ -15537,7 +15541,7 @@ name = vendorID;
 value = STYK;
 }
 );
-date = "2026-03-20 06:52:43 +0000";
+date = "2026-10-17 13:00:00 +0000";
 designer = satsuyako;
 designerURL = "http://satsuyako.com/";
 disablesNiceNames = 1;
@@ -15972,5 +15976,5 @@ tH = "ｔ";
 };
 };
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 200;
 }
